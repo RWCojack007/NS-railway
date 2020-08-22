@@ -1,0 +1,1271 @@
+,TimeStamp,line,station,id,code,uic,name_short,name_medium,name_long,slug,country,type,geo_lat,geo_lng,travelers,travelers_num
+0,2020-07-08 20:04:59,'s-Hertogenbosch - Eindhoven,'s-Hertogenbosch,266.0,HT,8400319.0,Den Bosch,'s-Hertogenbosch,'s-Hertogenbosch,s-hertogenbosch,NL,knooppuntIntercitystation,51.69048,5.29362,"47.347 (2018)[1] per dag
+",47347
+1,2020-07-08 20:04:59,'s-Hertogenbosch - Eindhoven,Vught,482.0,VG,8400667.0,Vught,Vught,Vught,vught,NL,stoptreinstation,51.655555725098,5.2919445037842,"1852 (2018)[1] per dag
+",1852
+2,2020-07-08 20:04:59,'s-Hertogenbosch - Eindhoven,Boxtel,109.0,BTL,8400129.0,Boxtel,Boxtel,Boxtel,boxtel,NL,knooppuntStoptreinstation,51.58433,5.31912,"6428 (2018)[1] per dag
+",6428
+3,2020-07-08 20:04:59,'s-Hertogenbosch - Eindhoven,Best,73.0,BET,8400112.0,Best,Best,Best,best,NL,stoptreinstation,51.509998321533004,5.389166831970201,"6027 (2018)[1] per dag
+",6027
+4,2020-07-08 20:04:59,'s-Hertogenbosch - Eindhoven,Eindhoven Strijp-S,784.0,EHS,8400196.0,Strijp-S,Strijp-S,Eindhoven Strijp-S,eindhoven-strijp-s,NL,stoptreinstation,51.451110839844,5.4558334350586,"3184 (2018)[1] per dag
+",3184
+5,2020-07-08 20:04:59,'s-Hertogenbosch - Eindhoven,Eindhoven Centraal,168.0,EHV,8400206.0,Eindhovn C,Eindhoven C.,Eindhoven Centraal,eindhoven-centraal,NL,megastation,51.443332672119,5.4813890457153,"65.468 (2018)[1] per dag
+",65468
+6,2020-07-08 20:04:59,'s-Hertogenbosch - Nijmegen,'s-Hertogenbosch,266.0,HT,8400319.0,Den Bosch,'s-Hertogenbosch,'s-Hertogenbosch,s-hertogenbosch,NL,knooppuntIntercitystation,51.69048,5.29362,"47.347 (2018)[1] per dag
+",47347
+7,2020-07-08 20:04:59,'s-Hertogenbosch - Nijmegen,'s-Hertogenbosch Oost,269.0,HTO,8400320.0,Dn Bosch O,'s-Hertogenb. O.,'s-Hertogenbosch Oost,s-hertogenbosch-oost,NL,stoptreinstation,51.700553894043,5.3183331489563,"1271 (2018)[1] per dag
+",1271
+8,2020-07-08 20:04:59,'s-Hertogenbosch - Nijmegen,Rosmalen,404.0,RS,8400524.0,Rosmalen,Rosmalen,Rosmalen,rosmalen,NL,stoptreinstation,51.714721679688,5.3680553436279,"2528 (2018)[1] per dag
+",2528
+9,2020-07-08 20:04:59,'s-Hertogenbosch - Nijmegen,Oss West,383.0,OW,8400496.0,Oss W,Oss W.,Oss West,oss-west,NL,stoptreinstation,51.758056640625,5.505555629730201,"2061 (2018)[1] per dag
+",2061
+10,2020-07-08 20:04:59,'s-Hertogenbosch - Nijmegen,Oss,367.0,O,8400495.0,Oss,Oss,Oss,oss,NL,knooppuntIntercitystation,51.765556335449,5.5322222709656,"8270 (2018)[1] per dag
+",8270
+11,2020-07-08 20:04:59,'s-Hertogenbosch - Nijmegen,Ravenstein,416.0,RVS,8400515.0,Ravenstein,Ravenstein,Ravenstein,ravenstein,NL,stoptreinstation,51.794166564940994,5.6358332633972,"1463 (2018)[1] per dag
+",1463
+12,2020-07-08 20:04:59,'s-Hertogenbosch - Nijmegen,Wijchen,502.0,WC,8400710.0,Wijchen,Wijchen,Wijchen,wijchen,NL,stoptreinstation,51.811668395996,5.7308335304260005,"4446 (2018)[1] per dag
+",4446
+13,2020-07-08 20:04:59,'s-Hertogenbosch - Nijmegen,Nijmegen Dukenburg,356.0,NMD,8400475.0,Dukenburg,Dukenburg,Nijmegen Dukenburg,nijmegen-dukenburg,NL,stoptreinstation,51.824165344238004,5.7955555915833,"2460 (2018)[1] per dag
+",2460
+14,2020-07-08 20:04:59,'s-Hertogenbosch - Nijmegen,Nijmegen Goffert,762.0,NMGO,8400477.0,Goffert,Goffert,Nijmegen Goffert,nijmegen-goffert,NL,stoptreinstation,51.8273,5.822722,"1514 (2018)[1] per dag
+",1514
+15,2020-07-08 20:04:59,'s-Hertogenbosch - Nijmegen,Nijmegen,355.0,NM,8400470.0,Nijmegen,Nijmegen,Nijmegen,nijmegen,NL,knooppuntIntercitystation,51.843612670898,5.852222442626901,"45.403 (2018)[1] per dag (NS)
+",45403
+16,2020-07-08 20:04:59,'s-Hertogenbosch - Tilburg,'s-Hertogenbosch,266.0,HT,8400319.0,Den Bosch,'s-Hertogenbosch,'s-Hertogenbosch,s-hertogenbosch,NL,knooppuntIntercitystation,51.69048,5.29362,"47.347 (2018)[1] per dag
+",47347
+17,2020-07-08 20:04:59,'s-Hertogenbosch - Tilburg,Tilburg,453.0,TB,8400597.0,Tilburg,Tilburg,Tilburg,tilburg,NL,knooppuntIntercitystation,51.560554504395,5.083611011505099,"34.503 (2018)[1] per dag
+",34503
+18,2020-07-08 20:04:59,'s-Hertogenbosch - Utrecht Centraal,'s-Hertogenbosch,266.0,HT,8400319.0,Den Bosch,'s-Hertogenbosch,'s-Hertogenbosch,s-hertogenbosch,NL,knooppuntIntercitystation,51.69048,5.29362,"47.347 (2018)[1] per dag
+",47347
+19,2020-07-08 20:04:59,'s-Hertogenbosch - Utrecht Centraal,Zaltbommel,528.0,ZBM,8400732.0,Zaltbommel,Zaltbommel,Zaltbommel,zaltbommel,NL,stoptreinstation,51.80888748169001,5.263333320617701,"3862 (2018)[1] per dag
+",3862
+20,2020-07-08 20:04:59,'s-Hertogenbosch - Utrecht Centraal,Geldermalsen,198.0,GDM,8400244.0,Geldermlsn,Geldermalsen,Geldermalsen,geldermalsen,NL,knooppuntStoptreinstation,51.88301,5.2712699999999995,"6495 (2018)[1] per dag (NS)
+",6495
+21,2020-07-08 20:04:59,'s-Hertogenbosch - Utrecht Centraal,Culemborg,116.0,CL,8400154.0,Culemborg,Culemborg,Culemborg,culemborg,NL,stoptreinstation,51.946666717529,5.2269444465637,"8925 (2018)[1] per dag
+",8925
+22,2020-07-08 20:04:59,'s-Hertogenbosch - Utrecht Centraal,Houten Castellum,268.0,HTNC,8400335.0,Castellum,Castellum,Houten Castellum,houten-castellum,NL,stoptreinstation,52.01701,5.17949,"4986 (2018)[1] per dag
+",4986
+23,2020-07-08 20:04:59,'s-Hertogenbosch - Utrecht Centraal,Houten,267.0,HTN,8400340.0,Houten,Houten,Houten,houten,NL,knooppuntStoptreinstation,52.03402,5.16821,"7864 (2018)[1] per dag
+",7864
+24,2020-07-08 20:04:59,'s-Hertogenbosch - Utrecht Centraal,Utrecht Lunetten,796.0,UTLN,8400623.0,Lunetten,Lunetten,Utrecht Lunetten,utrecht-lunetten,NL,stoptreinstation,52.06555557250999,5.144166469574,"3739 (2018)[2] per dag
+",3739
+25,2020-07-08 20:04:59,'s-Hertogenbosch - Utrecht Centraal,Utrecht Vaartsche Rijn,797.0,UTVR,8400606.0,VaartscheR,Vaartsche Rijn,Utrecht Vaartsche Rijn,utrecht-vaartsche-rijn,NL,knooppuntStoptreinstation,52.078889000000004,5.1216669999999995,"7752 (2018)[3] per dag
+",7752
+26,2020-07-08 20:04:59,'s-Hertogenbosch - Utrecht Centraal,Utrecht Centraal,467.0,UT,8400621.0,Utrecht C,Utrecht C.,Utrecht Centraal,utrecht-centraal,NL,megastation,52.088890075684006,5.1102776527405,"194.385 (2018)[2] per dag
+",194385
+27,2020-07-08 20:04:59,Aachen Hbf - Heerlen,Heerlen,261.0,HRL,8400307.0,Heerlen,Heerlen,Heerlen,heerlen,NL,knooppuntIntercitystation,50.89083480835,5.9749999046325994,"4864 (2018)[1] per dag (NS)
+",4864
+28,2020-07-08 20:04:59,Aachen Hbf - Heerlen,Landgraaf,312.0,LG,8400548.0,Landgraaf,Landgraaf,Landgraaf,landgraaf,NL,knooppuntStoptreinstation,50.896389007568,6.0191664695739995,,
+29,2020-07-08 20:04:59,Aachen Hbf - Heerlen,Eygelshoven Markt,166.0,EGHM,8400234.0,Eygelsh M,Eygelshoven Mrkt,Eygelshoven Markt,eygelshoven-markt,NL,stoptreinstation,50.896049819644006,6.0602474212646,,
+30,2020-07-08 20:04:59,Alkmaar - Amsterdam Centraal,Alkmaar,26.0,AMR,8400050.0,Alkmaar,Alkmaar,Alkmaar,alkmaar,NL,knooppuntIntercitystation,52.63777923584001,4.7397222518921,"21.026 (2018)[1] per dag
+",21026
+31,2020-07-08 20:04:59,Alkmaar - Amsterdam Centraal,Heiloo,246.0,HLO,8400309.0,Heiloo,Heiloo,Heiloo,heiloo,NL,stoptreinstation,52.599445343018,4.700555324554401,"4762 (2018)[1] per dag
+",4762
+32,2020-07-08 20:04:59,Alkmaar - Amsterdam Centraal,Castricum,113.0,CAS,8400151.0,Castricum,Castricum,Castricum,castricum,NL,intercitystation,52.545833587646,4.658611297607401,"7493 (2018)[1] per dag
+",7493
+33,2020-07-08 20:04:59,Alkmaar - Amsterdam Centraal,Uitgeest,468.0,UTG,8400615.0,Uitgeest,Uitgeest,Uitgeest,uitgeest,NL,knooppuntStoptreinstation,52.521667480469,4.7016668319702,"4987 (2018)[1] per dag
+",4987
+34,2020-07-08 20:04:59,Alkmaar - Amsterdam Centraal,Krommenie-Assendelft,286.0,KMA,8400368.0,Krommenie,Krommenie-Ass.,Krommenie-Assendelft,krommenie-assendelft,NL,stoptreinstation,52.49511,4.754169999999999,"5567 (2018)[1] per dag
+",5567
+35,2020-07-08 20:04:59,Alkmaar - Amsterdam Centraal,Wormerveer,511.0,WM,8400707.0,Wormerveer,Wormerveer,Wormerveer,wormerveer,NL,stoptreinstation,52.489166259765994,4.7922220230103,"4133 (2018)[1] per dag
+",4133
+36,2020-07-08 20:04:59,Alkmaar - Amsterdam Centraal,Zaandijk Zaanse Schans,804.0,ZZS,8400364.0,Zaanse S.,Zaanse Schans,Zaandijk Zaanse Schans,zaandijk-zaanse-schans,NL,knooppuntStoptreinstation,52.469165802002,4.8049998283386,"4190 (2018)[1] per dag
+",4190
+37,2020-07-08 20:04:59,Alkmaar - Amsterdam Centraal,Koog aan de Zaan,802.0,KZ,8400363.0,Koog Zaan,Koog a.d. Zaan,Koog aan de Zaan,koog-aan-de-zaan,NL,stoptreinstation,52.458610534668,4.8055553436279,"3069 (2018)[1] per dag
+",3069
+38,2020-07-08 20:04:59,Alkmaar - Amsterdam Centraal,Zaandam,529.0,ZD,8400731.0,Zaandam,Zaandam,Zaandam,zaandam,NL,knooppuntIntercitystation,52.438888549805,4.8136110305786,"22.765 (2018)[1] per dag
+",22765
+39,2020-07-08 20:04:59,Alkmaar - Amsterdam Centraal,Amsterdam Sloterdijk,50.0,ASS,8400059.0,Sloterdijk,Sloterdijk,Amsterdam Sloterdijk,amsterdam-sloterdijk,NL,knooppuntIntercitystation,52.388889312744,4.8377776145935,"58.800 (2018)[1]
+",58800
+40,2020-07-08 20:04:59,Alkmaar - Amsterdam Centraal,Amsterdam Centraal,43.0,ASD,8400058.0,Amsterdm C,Amsterdam C.,Amsterdam Centraal,amsterdam-centraal,NL,megastation,52.378887176514,4.9002776145935,"192.178 (2018)[1]
+",192178
+41,2020-07-08 20:04:59,Alkmaar - Den Helder,Alkmaar,26.0,AMR,8400050.0,Alkmaar,Alkmaar,Alkmaar,alkmaar,NL,knooppuntIntercitystation,52.63777923584001,4.7397222518921,"21.026 (2018)[1] per dag
+",21026
+42,2020-07-08 20:04:59,Alkmaar - Den Helder,Alkmaar Noord,28.0,AMRN,8400052.0,Alkmaar N,Alkmaar N.,Alkmaar Noord,alkmaar-noord,NL,stoptreinstation,52.643890380859006,4.7641668319702,"4.792 (2018)[1] per dag
+",4792
+43,2020-07-08 20:04:59,Alkmaar - Den Helder,Heerhugowaard,274.0,HWD,8400306.0,Heerhugow,Heerhugowaard,Heerhugowaard,heerhugowaard,NL,knooppuntStoptreinstation,52.669723510741996,4.8227777481079,"7434 (2018)[1] per dag
+",7434
+44,2020-07-08 20:04:59,Alkmaar - Den Helder,Schagen,427.0,SGN,8400549.0,Schagen,Schagen,Schagen,schagen,NL,stoptreinstation,52.784442901611,4.8052778244019,"5325 (2018)[1] per dag
+",5325
+45,2020-07-08 20:04:59,Alkmaar - Den Helder,Anna Paulowna,29.0,ANA,8400065.0,Anna Paulo,Anna Paulowna,Anna Paulowna,anna-paulowna,NL,stoptreinstation,52.867221832275,4.811110973358099,"2.066 (2018)[1] per dag
+",2066
+46,2020-07-08 20:04:59,Alkmaar - Den Helder,Den Helder Zuid,230.0,HDRZ,8400303.0,Dn Heldr Z,Den Helder Z.,Den Helder Zuid,den-helder-zuid,NL,stoptreinstation,52.93249893188501,4.7641668319702,"2146 (2018)[1] per dag
+",2146
+47,2020-07-08 20:04:59,Alkmaar - Den Helder,Den Helder,229.0,HDR,8400311.0,Den Helder,Den Helder,Den Helder,den-helder,NL,intercitystation,52.955276489258004,4.7611112594605,"4143 (2018)[1] per dag
+",4143
+48,2020-07-08 20:04:59,Alkmaar - Hoorn,Alkmaar,26.0,AMR,8400050.0,Alkmaar,Alkmaar,Alkmaar,alkmaar,NL,knooppuntIntercitystation,52.63777923584001,4.7397222518921,"21.026 (2018)[1] per dag
+",21026
+49,2020-07-08 20:04:59,Alkmaar - Hoorn,Alkmaar Noord,28.0,AMRN,8400052.0,Alkmaar N,Alkmaar N.,Alkmaar Noord,alkmaar-noord,NL,stoptreinstation,52.643890380859006,4.7641668319702,"4.792 (2018)[1] per dag
+",4792
+50,2020-07-08 20:04:59,Alkmaar - Hoorn,Heerhugowaard,274.0,HWD,8400306.0,Heerhugow,Heerhugowaard,Heerhugowaard,heerhugowaard,NL,knooppuntStoptreinstation,52.669723510741996,4.8227777481079,"7434 (2018)[1] per dag
+",7434
+51,2020-07-08 20:04:59,Alkmaar - Hoorn,Obdam,368.0,OBD,8400480.0,Obdam,Obdam,Obdam,obdam,NL,stoptreinstation,52.67805480957,4.907222270965599,"1414 (2018)[1] per dag
+",1414
+52,2020-07-08 20:04:59,Alkmaar - Hoorn,Hoorn,252.0,HN,8400337.0,Hoorn,Hoorn,Hoorn,hoorn,NL,knooppuntIntercitystation,52.644721984863004,5.0555553436279,"14.306 (2018)[1] per dag
+",14306
+53,2020-07-08 20:04:59,Almelo - Deventer,Almelo,25.0,AML,8400051.0,Almelo,Almelo,Almelo,almelo,NL,knooppuntIntercitystation,52.358055114746,6.653888702392599,"8.092 (2018)[1] per dag (NS)
+",8092
+54,2020-07-08 20:04:59,Almelo - Deventer,Wierden,504.0,WDN,8400691.0,Wierden,Wierden,Wierden,wierden,NL,knooppuntStoptreinstation,52.361389160156,6.5916666984558,"1250 (2018)[1] per dag (NS)
+",1250
+55,2020-07-08 20:04:59,Almelo - Deventer,Rijssen,406.0,RSN,8400538.0,Rijssen,Rijssen,Rijssen,rijssen,NL,stoptreinstation,52.3122215271,6.5202779769897,"2514 (2018)[1] per dag
+",2514
+56,2020-07-08 20:04:59,Almelo - Deventer,Holten,258.0,HON,8400328.0,Holten,Holten,Holten,holten,NL,stoptreinstation,52.283889770508004,6.420277595519999,"1382 (2018)[1] per dag
+",1382
+57,2020-07-08 20:04:59,Almelo - Deventer,Deventer Colmschate,154.0,DVC,8400185.0,Colmschate,Colmschate,Deventer Colmschate,deventer-colmschate,NL,stoptreinstation,52.2502784729,6.214444637298599,"1400 (2018)[1] per dag
+",1400
+58,2020-07-08 20:04:59,Almelo - Deventer,Deventer,153.0,DV,8400173.0,Deventer,Deventer,Deventer,deventer,NL,knooppuntIntercitystation,52.257499694824,6.160555362701401,"20.903 (2018)[1] per dag
+",20903
+59,2020-07-08 20:04:59,Almelo - Hengelo,Almelo,25.0,AML,8400051.0,Almelo,Almelo,Almelo,almelo,NL,knooppuntIntercitystation,52.358055114746,6.653888702392599,"8.092 (2018)[1] per dag (NS)
+",8092
+60,2020-07-08 20:04:59,Almelo - Hengelo,Almelo de Riet,27.0,AMRI,8400520.0,de Riet,de Riet,Almelo de Riet,almelo-de-riet,NL,stoptreinstation,52.341945648193,6.666666507720901,"225 (2018)[1] per dag (NS)
+",225
+61,2020-07-08 20:04:59,Almelo - Hengelo,Borne,86.0,BN,8400124.0,Borne,Borne,Borne,borne,NL,stoptreinstation,52.298889160156,6.7480554580689,"338 (2017)[1] per dag (NS)
+",338
+62,2020-07-08 20:04:59,Almelo - Hengelo,Hengelo,233.0,HGL,8400316.0,Hengelo,Hengelo,Hengelo,hengelo,NL,knooppuntIntercitystation,52.261665344238004,6.7938890457153,"6.951 (2018)[1] per dag (NS)
+",6951
+63,2020-07-08 20:04:59,Almelo - Mariënberg,Almelo,25.0,AML,8400051.0,Almelo,Almelo,Almelo,almelo,NL,knooppuntIntercitystation,52.358055114746,6.653888702392599,"8.092 (2018)[1] per dag (NS)
+",8092
+64,2020-07-08 20:04:59,Almelo - Mariënberg,Vriezenveen,499.0,VZ,8400664.0,Vriezenvn,Vriezenveen,Vriezenveen,vriezenveen,NL,stoptreinstation,52.402029999999996,6.600410000000001,,
+65,2020-07-08 20:04:59,Almelo - Mariënberg,Daarlerveen,121.0,DA,8400164.0,Daarlervn,Daarlerveen,Daarlerveen,daarlerveen,NL,stoptreinstation,52.4407702,6.5759947,,
+66,2020-07-08 20:04:59,Almelo - Mariënberg,Vroomshoop,484.0,VHP,8400666.0,Vroomshoop,Vroomshoop,Vroomshoop,vroomshoop,NL,stoptreinstation,52.4571921,6.569667900000001,,
+67,2020-07-08 20:04:59,Almelo - Mariënberg,Mariënberg,338.0,MRB,8400428.0,Mariënberg,Mariënberg,Mariënberg,marienberg,NL,knooppuntSneltreinstation,52.50944519043,6.5752778053284,"766 (2009)[1] per dag
+",766
+68,2020-07-08 20:04:59,Almelo - Zwolle,Almelo,25.0,AML,8400051.0,Almelo,Almelo,Almelo,almelo,NL,knooppuntIntercitystation,52.358055114746,6.653888702392599,"8.092 (2018)[1] per dag (NS)
+",8092
+69,2020-07-08 20:04:59,Almelo - Zwolle,Wierden,504.0,WDN,8400691.0,Wierden,Wierden,Wierden,wierden,NL,knooppuntStoptreinstation,52.361389160156,6.5916666984558,"1250 (2018)[1] per dag (NS)
+",1250
+70,2020-07-08 20:04:59,Almelo - Zwolle,Nijverdal,362.0,NVD,8400472.0,Nijverdal,Nijverdal,Nijverdal,nijverdal,NL,stoptreinstation,52.366111,6.462000000000001,"2908 (2017)[1] per dag
+",2908
+71,2020-07-08 20:04:59,Almelo - Zwolle,Raalte,394.0,RAT,8400513.0,Raalte,Raalte,Raalte,raalte,NL,stoptreinstation,52.391666412354,6.2775001525879,"2121 (2017)[1] per dag
+",2121
+72,2020-07-08 20:04:59,Almelo - Zwolle,Heino,254.0,HNO,8400310.0,Heino,Heino,Heino,heino,NL,stoptreinstation,52.427223205565994,6.221111297607401,"705 (2017)[1] per dag
+",705
+73,2020-07-08 20:04:59,Almelo - Zwolle,Zwolle,532.0,ZL,8400747.0,Zwolle,Zwolle,Zwolle,zwolle,NL,knooppuntIntercitystation,52.50472259521499,6.0919442176819,"41.100 (2018)[1] per dag (NS)
+",41100
+74,2020-07-08 20:04:59,Almere Oostvaarders - Utrecht Centraal,Almere Oostvaarders,20.0,ALMO,8400226.0,Oostvaard,Oostvaarders,Almere Oostvaarders,almere-oostvaarders,NL,stoptreinstation,52.403331756591996,5.3005557060242,"4.502 (2018)[1] per dag
+",4502
+75,2020-07-08 20:04:59,Almere Oostvaarders - Utrecht Centraal,Almere Buiten,18.0,ALMB,8400081.0,Buiten,Buiten,Almere Buiten,almere-buiten,NL,stoptreinstation,52.394165039062,5.2780556678772,"7.532 (2018)[1] per dag
+",7532
+76,2020-07-08 20:04:59,Almere Oostvaarders - Utrecht Centraal,Almere Parkwijk,21.0,ALMP,8400104.0,Parkwijk,Parkwijk,Almere Parkwijk,almere-parkwijk,NL,stoptreinstation,52.376667022705,5.244722366333,"3.624 (2018)[1] per dag
+",3624
+77,2020-07-08 20:04:59,Almere Oostvaarders - Utrecht Centraal,Almere Centrum,17.0,ALM,8400080.0,Almere C,Almere C.,Almere Centrum,almere-centrum,NL,knooppuntIntercitystation,52.375029999999995,5.21764,"27.124 (2018)[1] per dag
+",27124
+78,2020-07-08 20:04:59,Almere Oostvaarders - Utrecht Centraal,Almere Muziekwijk,19.0,ALMM,8400082.0,Muziekwijk,Muziekwijk,Almere Muziekwijk,almere-muziekwijk,NL,stoptreinstation,52.367500305176,5.1902775764464995,"6.420 (2018)[1] per dag
+",6420
+79,2020-07-08 20:04:59,Almere Oostvaarders - Utrecht Centraal,Almere Poort,680.0,AMPO,8400450.0,Poort,Poort,Almere Poort,almere-poort,NL,stoptreinstation,52.342778,5.151944,"5.243 (2018)[1] per dag
+",5243
+80,2020-07-08 20:04:59,Almere Oostvaarders - Utrecht Centraal,Naarden-Bussum,350.0,NDB,8400452.0,Naarden-Bu,Naarden-Bussum,Naarden-Bussum,naarden-bussum,NL,knooppuntStoptreinstation,52.280277252196996,5.156944274902299,"9465 (2018)[2] per dag
+",9465
+81,2020-07-08 20:04:59,Almere Oostvaarders - Utrecht Centraal,Bussum Zuid,108.0,BSMZ,8400145.0,Bussum Z,Bussum Z.,Bussum Zuid,bussum-zuid,NL,stoptreinstation,52.26583480835,5.163055419921901,"4452 (2018)[2] per dag
+",4452
+82,2020-07-08 20:04:59,Almere Oostvaarders - Utrecht Centraal,Hilversum Media Park,722.0,HVSM,8400324.0,Media Park,Media Park,Hilversum Media Park,hilversum-media-park,NL,stoptreinstation,52.238056182861,5.1738886833191,"4461 (2018)[2] per dag
+",4461
+83,2020-07-08 20:04:59,Almere Oostvaarders - Utrecht Centraal,Hilversum,271.0,HVS,8400322.0,Hilversum,Hilversum,Hilversum,hilversum,NL,knooppuntIntercitystation,52.225833892821996,5.1819443702698,"26.697 (2018)[2] per dag
+",26697
+84,2020-07-08 20:04:59,Almere Oostvaarders - Utrecht Centraal,Hilversum Sportpark,273.0,HVSP,8400570.0,Sportpark,Sportpark,Hilversum Sportpark,hilversum-sportpark,NL,stoptreinstation,52.216110229491996,5.1872220039367996,"7703 (2018)[2] per dag
+",7703
+85,2020-07-08 20:04:59,Almere Oostvaarders - Utrecht Centraal,Hollandsche Rading,259.0,HOR,8400327.0,Hol Rading,Holl. Rading,Hollandsche Rading,hollandsche-rading,NL,stoptreinstation,52.17777633667,5.1791667938232,"938 (2018)[2] per dag
+",938
+86,2020-07-08 20:04:59,Almere Oostvaarders - Utrecht Centraal,Utrecht Overvecht,471.0,UTO,8400620.0,Overvecht,Overvecht,Utrecht Overvecht,utrecht-overvecht,NL,knooppuntStoptreinstation,52.110000610352,5.1247220039367996,"8677 (2018)[2] per dag
+",8677
+87,2020-07-08 20:04:59,Almere Oostvaarders - Utrecht Centraal,Utrecht Centraal,467.0,UT,8400621.0,Utrecht C,Utrecht C.,Utrecht Centraal,utrecht-centraal,NL,megastation,52.088890075684006,5.1102776527405,"194.385 (2018)[2] per dag
+",194385
+88,2020-07-08 20:04:59,Alphen a/d Rijn - Gouda,Alphen a/d Rijn,36.0,APN,8400053.0,Alphen,Alphen a/d Rijn,Alphen a/d Rijn,alphen-a-d-rijn,NL,knooppuntIntercitystation,52.124443054199,4.6577777862549,"10.759 (2018)[1] per dag
+",10759
+89,2020-07-08 20:04:59,Alphen a/d Rijn - Gouda,Boskoop,107.0,BSK,8400125.0,Boskoop,Boskoop,Boskoop,boskoop,NL,stoptreinstation,52.077777862549,4.6469445228577,"1370 (2018)[1] per dag
+",1370
+90,2020-07-08 20:04:59,Alphen a/d Rijn - Gouda,Boskoop Snijdelwijk,813.0,BSKS,8400126.0,Snijdelwk,Snijdelwijk,Boskoop Snijdelwijk,boskoop-snijdelwijk,NL,stoptreinstation,52.067658,4.646186,"583 (2018)[1] per dag
+",583
+91,2020-07-08 20:04:59,Alphen a/d Rijn - Gouda,Waddinxveen Noord,501.0,WADN,8400674.0,Waddinxv N,Waddinxveen N.,Waddinxveen Noord,waddinxveen-noord,NL,stoptreinstation,52.055000305176,4.6483335494995,"929 (2018)[1] per dag
+",929
+92,2020-07-08 20:04:59,Alphen a/d Rijn - Gouda,Waddinxveen,500.0,WAD,8400675.0,Waddinxvn,Waddinxveen,Waddinxveen,waddinxveen,NL,stoptreinstation,52.044166564940994,4.6497220993042,"1847 (2018)[1] per dag
+",1847
+93,2020-07-08 20:04:59,Alphen a/d Rijn - Gouda,Waddinxveen Triangel,816.0,WADT,8400677.0,Triangel,Triangel,Waddinxveen Triangel,waddinxveen-triangel,NL,stoptreinstation,52.02725,4.6491,"462 (2018)[2] per dag
+",462
+94,2020-07-08 20:04:59,Alphen a/d Rijn - Gouda,Gouda,195.0,GD,8400258.0,Gouda,Gouda,Gouda,gouda,NL,knooppuntIntercitystation,52.017501831055,4.7044444084167,"23.696 (2018)[1] per dag
+",23696
+95,2020-07-08 20:04:59,Amersfoort - Amsterdam Centraal,Amersfoort Centraal,23.0,AMF,8400055.0,Amersfrt C,Amersfoort C.,Amersfoort Centraal,amersfoort-centraal,NL,knooppuntIntercitystation,52.153888702393,5.3705554008484,"43.710 (2018)[2] per dag (NS)
+",43710
+96,2020-07-08 20:04:59,Amersfoort - Amsterdam Centraal,Baarn,102.0,BRN,8400086.0,Baarn,Baarn,Baarn,baarn,NL,knooppuntStoptreinstation,52.208332061768,5.2808332443237,"4621 (2018)[2] per dag
+",4621
+97,2020-07-08 20:04:59,Amersfoort - Amsterdam Centraal,Hilversum,271.0,HVS,8400322.0,Hilversum,Hilversum,Hilversum,hilversum,NL,knooppuntIntercitystation,52.225833892821996,5.1819443702698,"26.697 (2018)[2] per dag
+",26697
+98,2020-07-08 20:04:59,Amersfoort - Amsterdam Centraal,Hilversum Media Park,722.0,HVSM,8400324.0,Media Park,Media Park,Hilversum Media Park,hilversum-media-park,NL,stoptreinstation,52.238056182861,5.1738886833191,"4461 (2018)[2] per dag
+",4461
+99,2020-07-08 20:04:59,Amersfoort - Amsterdam Centraal,Bussum Zuid,108.0,BSMZ,8400145.0,Bussum Z,Bussum Z.,Bussum Zuid,bussum-zuid,NL,stoptreinstation,52.26583480835,5.163055419921901,"4452 (2018)[2] per dag
+",4452
+100,2020-07-08 20:04:59,Amersfoort - Amsterdam Centraal,Naarden-Bussum,350.0,NDB,8400452.0,Naarden-Bu,Naarden-Bussum,Naarden-Bussum,naarden-bussum,NL,knooppuntStoptreinstation,52.280277252196996,5.156944274902299,"9465 (2018)[2] per dag
+",9465
+101,2020-07-08 20:04:59,Amersfoort - Amsterdam Centraal,Weesp,513.0,WP,8400685.0,Weesp,Weesp,Weesp,weesp,NL,knooppuntStoptreinstation,52.3127784729,5.043055534362799,"9930 (2018)[2] per dag
+",9930
+102,2020-07-08 20:04:59,Amersfoort - Amsterdam Centraal,Diemen,135.0,DMN,8400165.0,Diemen,Diemen,Diemen,diemen,NL,stoptreinstation,52.34515,4.967566000000001,"3189 (2018)[2] per dag
+",3189
+103,2020-07-08 20:04:59,Amersfoort - Amsterdam Centraal,Amsterdam Science Park,48.0,ASSP,8400235.0,Scienceprk,Science Park,Amsterdam Science Park,amsterdam-science-park,NL,stoptreinstation,52.355259999999994,4.94651,"4.649 (2018)[2] per dag
+",4649
+104,2020-07-08 20:04:59,Amersfoort - Amsterdam Centraal,Amsterdam Muiderpoort,45.0,ASDM,8400060.0,Muiderprt,Muiderpoort,Amsterdam Muiderpoort,amsterdam-muiderpoort,NL,stoptreinstation,52.360553741455,4.931111335754401,"14.148 (2018)[2] per dag
+",14148
+105,2020-07-08 20:04:59,Amersfoort - Amsterdam Centraal,Amsterdam Centraal,43.0,ASD,8400058.0,Amsterdm C,Amsterdam C.,Amsterdam Centraal,amsterdam-centraal,NL,megastation,52.378887176514,4.9002776145935,"192.178 (2018)[1]
+",192178
+106,2020-07-08 20:04:59,Amersfoort - Apeldoorn,Amersfoort Centraal,23.0,AMF,8400055.0,Amersfrt C,Amersfoort C.,Amersfoort Centraal,amersfoort-centraal,NL,knooppuntIntercitystation,52.153888702393,5.3705554008484,"43.710 (2018)[2] per dag (NS)
+",43710
+107,2020-07-08 20:04:59,Amersfoort - Apeldoorn,Apeldoorn,31.0,APD,8400066.0,Apeldoorn,Apeldoorn,Apeldoorn,apeldoorn,NL,knooppuntIntercitystation,52.209167480469,5.970277786254901,"14.840 (2018)[2] per dag (NS)
+",14840
+108,2020-07-08 20:04:59,Amersfoort - Ede-Wageningen,Amersfoort Centraal,23.0,AMF,8400055.0,Amersfrt C,Amersfoort C.,Amersfoort Centraal,amersfoort-centraal,NL,knooppuntIntercitystation,52.153888702393,5.3705554008484,"43.710 (2018)[2] per dag (NS)
+",43710
+109,2020-07-08 20:04:59,Amersfoort - Ede-Wageningen,Hoevelaken,687.0,HVL,8400490.0,Hoevelaken,Hoevelaken,Hoevelaken,hoevelaken,NL,stoptreinstation,52.16652,5.45718,"1359 (2016)[2] per dag
+",1359
+110,2020-07-08 20:04:59,Amersfoort - Ede-Wageningen,Barneveld Noord,89.0,BNN,8400092.0,Barnevld N,Barneveld N.,Barneveld Noord,barneveld-noord,NL,stoptreinstation,52.161388397216996,5.598055362701401,"1.177 (2008)[2] per dag
+",1177
+111,2020-07-08 20:04:59,Amersfoort - Ede-Wageningen,Barneveld Centrum,87.0,BNC,8400091.0,Barnevld C,Barneveld C.,Barneveld Centrum,barneveld-centrum,NL,stoptreinstation,52.139999389648,5.5902776718139995,"2.863 (2009)[2] per dag
+",2863
+112,2020-07-08 20:04:59,Amersfoort - Ede-Wageningen,Barneveld Zuid,764.0,BNZ,8400115.0,Barnevld Z,Barneveld Z.,Barneveld Zuid,barneveld-zuid,NL,stoptreinstation,52.128853,5.60246,"612 (2016)[3] per dag
+",612
+113,2020-07-08 20:04:59,Amersfoort - Ede-Wageningen,Lunteren,315.0,LTN,8400405.0,Lunteren,Lunteren,Lunteren,lunteren,NL,stoptreinstation,52.085277557373,5.6244444847107005,,
+114,2020-07-08 20:04:59,Amersfoort - Ede-Wageningen,Ede Centrum,163.0,EDC,8400201.0,Ede C,Ede C.,Ede Centrum,ede-centrum,NL,stoptreinstation,52.043609619140994,5.6683335304260005,,
+115,2020-07-08 20:04:59,Amersfoort - Ede-Wageningen,Ede-Wageningen,162.0,ED,8400200.0,Ede-Wag,Ede-Wageningen,Ede-Wageningen,ede-wageningen,NL,knooppuntIntercitystation,52.027778625488004,5.6730556488037,"18.963 (2018)[1] per dag (NS)
+",18963
+116,2020-07-08 20:04:59,Amersfoort - Schiphol Airport,Amersfoort Centraal,23.0,AMF,8400055.0,Amersfrt C,Amersfoort C.,Amersfoort Centraal,amersfoort-centraal,NL,knooppuntIntercitystation,52.153888702393,5.3705554008484,"43.710 (2018)[2] per dag (NS)
+",43710
+117,2020-07-08 20:04:59,Amersfoort - Schiphol Airport,Baarn,102.0,BRN,8400086.0,Baarn,Baarn,Baarn,baarn,NL,knooppuntStoptreinstation,52.208332061768,5.2808332443237,"4621 (2018)[2] per dag
+",4621
+118,2020-07-08 20:04:59,Amersfoort - Schiphol Airport,Hilversum,271.0,HVS,8400322.0,Hilversum,Hilversum,Hilversum,hilversum,NL,knooppuntIntercitystation,52.225833892821996,5.1819443702698,"26.697 (2018)[2] per dag
+",26697
+119,2020-07-08 20:04:59,Amersfoort - Schiphol Airport,Hilversum Media Park,722.0,HVSM,8400324.0,Media Park,Media Park,Hilversum Media Park,hilversum-media-park,NL,stoptreinstation,52.238056182861,5.1738886833191,"4461 (2018)[2] per dag
+",4461
+120,2020-07-08 20:04:59,Amersfoort - Schiphol Airport,Bussum Zuid,108.0,BSMZ,8400145.0,Bussum Z,Bussum Z.,Bussum Zuid,bussum-zuid,NL,stoptreinstation,52.26583480835,5.163055419921901,"4452 (2018)[2] per dag
+",4452
+121,2020-07-08 20:04:59,Amersfoort - Schiphol Airport,Naarden-Bussum,350.0,NDB,8400452.0,Naarden-Bu,Naarden-Bussum,Naarden-Bussum,naarden-bussum,NL,knooppuntStoptreinstation,52.280277252196996,5.156944274902299,"9465 (2018)[2] per dag
+",9465
+122,2020-07-08 20:04:59,Amersfoort - Schiphol Airport,Weesp,513.0,WP,8400685.0,Weesp,Weesp,Weesp,weesp,NL,knooppuntStoptreinstation,52.3127784729,5.043055534362799,"9930 (2018)[2] per dag
+",9930
+123,2020-07-08 20:04:59,Amersfoort - Schiphol Airport,Diemen Zuid,136.0,DMNZ,8400163.0,Diemen Z,Diemen Z.,Diemen Zuid,diemen-zuid,NL,stoptreinstation,52.330276489258004,4.9558334350586,"3357 (2018)[1]
+",3357
+124,2020-07-08 20:04:59,Amersfoort - Schiphol Airport,Duivendrecht,155.0,DVD,8400194.0,Duivendrt,Duivendrecht,Duivendrecht,duivendrecht,NL,knooppuntStoptreinstation,52.323333740234006,4.9363889694214,"13.126 (2018)[1]
+",13126
+125,2020-07-08 20:04:59,Amersfoort - Schiphol Airport,Amsterdam RAI,393.0,RAI,8400056.0,RAI,RAI,Amsterdam RAI,amsterdam-rai,NL,stoptreinstation,52.337223052979,4.8902778625488,"5993 (2018)[1]
+",5993
+126,2020-07-08 20:04:59,Amersfoort - Schiphol Airport,Amsterdam Zuid,46.0,ASDZ,8400061.0,Amsterdm Z,Amsterdam Z.,Amsterdam Zuid,amsterdam-zuid,NL,intercitystation,52.338889,4.872356,"60.819 (2018)[1]
+",60819
+127,2020-07-08 20:04:59,Amersfoort - Schiphol Airport,Schiphol Airport,428.0,SHL,8400561.0,Schiphol,Schiphol Airport,Schiphol Airport,schiphol-airport,NL,megastation,52.30944442749001,4.7619442939758,"92.214 (2018)[2] per dag (NS)
+",92214
+128,2020-07-08 20:04:59,Amersfoort - Utrecht Centraal,Amersfoort Centraal,23.0,AMF,8400055.0,Amersfrt C,Amersfoort C.,Amersfoort Centraal,amersfoort-centraal,NL,knooppuntIntercitystation,52.153888702393,5.3705554008484,"43.710 (2018)[2] per dag (NS)
+",43710
+129,2020-07-08 20:04:59,Amersfoort - Utrecht Centraal,Den Dolder,132.0,DLD,8400179.0,Den Dolder,Den Dolder,Den Dolder,den-dolder,NL,knooppuntStoptreinstation,52.140277862549,5.2427778244019,"1898 (2018)[2] per dag
+",1898
+130,2020-07-08 20:04:59,Amersfoort - Utrecht Centraal,Bilthoven,77.0,BHV,8400114.0,Bilthoven,Bilthoven,Bilthoven,bilthoven,NL,stoptreinstation,52.13000106811499,5.2038888931274006,"5376 (2018)[2] per dag
+",5376
+131,2020-07-08 20:04:59,Amersfoort - Utrecht Centraal,Utrecht Overvecht,471.0,UTO,8400620.0,Overvecht,Overvecht,Utrecht Overvecht,utrecht-overvecht,NL,knooppuntStoptreinstation,52.110000610352,5.1247220039367996,"8677 (2018)[2] per dag
+",8677
+132,2020-07-08 20:04:59,Amersfoort - Utrecht Centraal,Utrecht Centraal,467.0,UT,8400621.0,Utrecht C,Utrecht C.,Utrecht Centraal,utrecht-centraal,NL,megastation,52.088890075684006,5.1102776527405,"194.385 (2018)[2] per dag
+",194385
+133,2020-07-08 20:04:59,Amersfoort - Zwolle,Amersfoort Centraal,23.0,AMF,8400055.0,Amersfrt C,Amersfoort C.,Amersfoort Centraal,amersfoort-centraal,NL,knooppuntIntercitystation,52.153888702393,5.3705554008484,"43.710 (2018)[2] per dag (NS)
+",43710
+134,2020-07-08 20:04:59,Amersfoort - Zwolle,Amersfoort Schothorst,24.0,AMFS,8400054.0,Schothorst,Schothorst,Amersfoort Schothorst,amersfoort-schothorst,NL,stoptreinstation,52.174822137451,5.403888702392599,"7.003 (2018)[2] per dag
+",7003
+135,2020-07-08 20:04:59,Amersfoort - Zwolle,Amersfoort Vathorst,54.0,AVAT,8400228.0,Vathorst,Vathorst,Amersfoort Vathorst,amersfoort-vathorst,NL,stoptreinstation,52.192779541015994,5.4338889122009,"3.402 (2018)[2] per dag
+",3402
+136,2020-07-08 20:04:59,Amersfoort - Zwolle,Nijkerk,354.0,NKK,8400469.0,Nijkerk,Nijkerk,Nijkerk,nijkerk,NL,stoptreinstation,52.222221374511996,5.4938888549805,"3597 (2018)[2] per dag
+",3597
+137,2020-07-08 20:04:59,Amersfoort - Zwolle,Putten,391.0,PT,8400509.0,Putten,Putten,Putten,putten,NL,stoptreinstation,52.264999389648,5.5752778053284,"1904 (2018)[2] per dag
+",1904
+138,2020-07-08 20:04:59,Amersfoort - Zwolle,Ermelo,172.0,EML,8400216.0,Ermelo,Ermelo,Ermelo,ermelo,NL,stoptreinstation,52.301666259765994,5.6147222518921,"2877 (2018)[2] per dag
+",2877
+139,2020-07-08 20:04:59,Amersfoort - Zwolle,Harderwijk,225.0,HD,8400294.0,Harderwijk,Harderwijk,Harderwijk,harderwijk,NL,knooppuntStoptreinstation,52.337501525879,5.619722366333,"5904 (2018)[2] per dag
+",5904
+140,2020-07-08 20:04:59,Amersfoort - Zwolle,Nunspeet,360.0,NS,8400466.0,Nunspeet,Nunspeet,Nunspeet,nunspeet,NL,stoptreinstation,52.370834350586,5.7852778434753,"2660 (2018)[2] per dag
+",2660
+141,2020-07-08 20:04:59,Amersfoort - Zwolle,'t Harde,227.0,HDE,8400388.0,'t Harde,'t Harde,'t Harde,t-harde,NL,stoptreinstation,52.4091682,5.893611,"1525 (2018)[2] per dag
+",1525
+142,2020-07-08 20:04:59,Amersfoort - Zwolle,Wezep,524.0,WZ,8400690.0,Wezep,Wezep,Wezep,wezep,NL,stoptreinstation,52.454166412354,6.0025000572205,"1054 (2018)[2] per dag
+",1054
+143,2020-07-08 20:04:59,Amersfoort - Zwolle,Zwolle,532.0,ZL,8400747.0,Zwolle,Zwolle,Zwolle,zwolle,NL,knooppuntIntercitystation,52.50472259521499,6.0919442176819,"41.100 (2018)[1] per dag (NS)
+",41100
+144,2020-07-08 20:04:59,Amsterdam Centraal - Haarlem,Amsterdam Centraal,43.0,ASD,8400058.0,Amsterdm C,Amsterdam C.,Amsterdam Centraal,amsterdam-centraal,NL,megastation,52.378887176514,4.9002776145935,"192.178 (2018)[1]
+",192178
+145,2020-07-08 20:04:59,Amsterdam Centraal - Haarlem,Amsterdam Sloterdijk,50.0,ASS,8400059.0,Sloterdijk,Sloterdijk,Amsterdam Sloterdijk,amsterdam-sloterdijk,NL,knooppuntIntercitystation,52.388889312744,4.8377776145935,"58.800 (2018)[1]
+",58800
+146,2020-07-08 20:04:59,Amsterdam Centraal - Haarlem,Halfweg-Zwanenburg,684.0,HWZB,8400400.0,Halfweg-Zw,Halfweg-Zw.,Halfweg-Zwanenburg,halfweg-zwanenburg,NL,stoptreinstation,52.385934999999996,4.747165,"2730 (2018)[2] per dag
+",2730
+147,2020-07-08 20:04:59,Amsterdam Centraal - Haarlem,Haarlem Spaarnwoude,245.0,HLMS,8400270.0,Spaarnwde,Spaarnwoude,Haarlem Spaarnwoude,haarlem-spaarnwoude,NL,stoptreinstation,52.382778167725,4.6730556488037,"3990 (2018)[1] per dag
+",3990
+148,2020-07-08 20:04:59,Amsterdam Centraal - Haarlem,Haarlem,244.0,HLM,8400285.0,Haarlem,Haarlem,Haarlem,haarlem,NL,knooppuntIntercitystation,52.38777923584001,4.638333320617701,"42.040 (2018)[1] per dag
+",42040
+149,2020-07-08 20:04:59,Amsterdam Centraal - Hoorn,Amsterdam Centraal,43.0,ASD,8400058.0,Amsterdm C,Amsterdam C.,Amsterdam Centraal,amsterdam-centraal,NL,megastation,52.378887176514,4.9002776145935,"192.178 (2018)[1]
+",192178
+150,2020-07-08 20:04:59,Amsterdam Centraal - Hoorn,Amsterdam Sloterdijk,50.0,ASS,8400059.0,Sloterdijk,Sloterdijk,Amsterdam Sloterdijk,amsterdam-sloterdijk,NL,knooppuntIntercitystation,52.388889312744,4.8377776145935,"58.800 (2018)[1]
+",58800
+151,2020-07-08 20:04:59,Amsterdam Centraal - Hoorn,Zaandam,529.0,ZD,8400731.0,Zaandam,Zaandam,Zaandam,zaandam,NL,knooppuntIntercitystation,52.438888549805,4.8136110305786,"22.765 (2018)[1] per dag
+",22765
+152,2020-07-08 20:04:59,Amsterdam Centraal - Hoorn,Zaandam Kogerveld,530.0,ZDK,8400728.0,Kogerveld,Kogerveld,Zaandam Kogerveld,zaandam-kogerveld,NL,stoptreinstation,52.456665039062,4.8202776908875,"1464 (2018)[1] per dag
+",1464
+153,2020-07-08 20:04:59,Amsterdam Centraal - Hoorn,Purmerend Weidevenne,389.0,PMW,8400499.0,Weidevenne,Weidevenne,Purmerend Weidevenne,purmerend-weidevenne,NL,stoptreinstation,52.496590632542,4.9356293678284,"1627 (2018)[1] per dag
+",1627
+154,2020-07-08 20:04:59,Amsterdam Centraal - Hoorn,Purmerend,388.0,PMR,8400508.0,Purmerend,Purmerend,Purmerend,purmerend,NL,knooppuntStoptreinstation,52.50305557250999,4.9536108970642,"2482 (2018)[1] per dag
+",2482
+155,2020-07-08 20:04:59,Amsterdam Centraal - Hoorn,Purmerend Overwhere,387.0,PMO,8400506.0,Overwhere,Overwhere,Purmerend Overwhere,purmerend-overwhere,NL,stoptreinstation,52.51139068603501,4.9683332443237,"2041 (2018)[1] per dag
+",2041
+156,2020-07-08 20:04:59,Amsterdam Centraal - Hoorn,Hoorn,252.0,HN,8400337.0,Hoorn,Hoorn,Hoorn,hoorn,NL,knooppuntIntercitystation,52.644721984863004,5.0555553436279,"14.306 (2018)[1] per dag
+",14306
+157,2020-07-08 20:04:59,Amsterdam Centraal - Lelystad Centrum,Amsterdam Centraal,43.0,ASD,8400058.0,Amsterdm C,Amsterdam C.,Amsterdam Centraal,amsterdam-centraal,NL,megastation,52.378887176514,4.9002776145935,"192.178 (2018)[1]
+",192178
+158,2020-07-08 20:04:59,Amsterdam Centraal - Lelystad Centrum,Amsterdam Muiderpoort,45.0,ASDM,8400060.0,Muiderprt,Muiderpoort,Amsterdam Muiderpoort,amsterdam-muiderpoort,NL,stoptreinstation,52.360553741455,4.931111335754401,"14.148 (2018)[2] per dag
+",14148
+159,2020-07-08 20:04:59,Amsterdam Centraal - Lelystad Centrum,Amsterdam Science Park,48.0,ASSP,8400235.0,Scienceprk,Science Park,Amsterdam Science Park,amsterdam-science-park,NL,stoptreinstation,52.355259999999994,4.94651,"4.649 (2018)[2] per dag
+",4649
+160,2020-07-08 20:04:59,Amsterdam Centraal - Lelystad Centrum,Diemen,135.0,DMN,8400165.0,Diemen,Diemen,Diemen,diemen,NL,stoptreinstation,52.34515,4.967566000000001,"3189 (2018)[2] per dag
+",3189
+161,2020-07-08 20:04:59,Amsterdam Centraal - Lelystad Centrum,Weesp,513.0,WP,8400685.0,Weesp,Weesp,Weesp,weesp,NL,knooppuntStoptreinstation,52.3127784729,5.043055534362799,"9930 (2018)[2] per dag
+",9930
+162,2020-07-08 20:04:59,Amsterdam Centraal - Lelystad Centrum,Almere Poort,680.0,AMPO,8400450.0,Poort,Poort,Almere Poort,almere-poort,NL,stoptreinstation,52.342778,5.151944,"5.243 (2018)[1] per dag
+",5243
+163,2020-07-08 20:04:59,Amsterdam Centraal - Lelystad Centrum,Almere Muziekwijk,19.0,ALMM,8400082.0,Muziekwijk,Muziekwijk,Almere Muziekwijk,almere-muziekwijk,NL,stoptreinstation,52.367500305176,5.1902775764464995,"6.420 (2018)[1] per dag
+",6420
+164,2020-07-08 20:04:59,Amsterdam Centraal - Lelystad Centrum,Almere Centrum,17.0,ALM,8400080.0,Almere C,Almere C.,Almere Centrum,almere-centrum,NL,knooppuntIntercitystation,52.375029999999995,5.21764,"27.124 (2018)[1] per dag
+",27124
+165,2020-07-08 20:04:59,Amsterdam Centraal - Lelystad Centrum,Almere Parkwijk,21.0,ALMP,8400104.0,Parkwijk,Parkwijk,Almere Parkwijk,almere-parkwijk,NL,stoptreinstation,52.376667022705,5.244722366333,"3.624 (2018)[1] per dag
+",3624
+166,2020-07-08 20:04:59,Amsterdam Centraal - Lelystad Centrum,Almere Buiten,18.0,ALMB,8400081.0,Buiten,Buiten,Almere Buiten,almere-buiten,NL,stoptreinstation,52.394165039062,5.2780556678772,"7.532 (2018)[1] per dag
+",7532
+167,2020-07-08 20:04:59,Amsterdam Centraal - Lelystad Centrum,Almere Oostvaarders,20.0,ALMO,8400226.0,Oostvaard,Oostvaarders,Almere Oostvaarders,almere-oostvaarders,NL,stoptreinstation,52.403331756591996,5.3005557060242,"4.502 (2018)[1] per dag
+",4502
+168,2020-07-08 20:04:59,Amsterdam Centraal - Lelystad Centrum,Lelystad Centrum,313.0,LLS,8400394.0,Lelystad C,Lelystad C.,Lelystad Centrum,lelystad-centrum,NL,knooppuntIntercitystation,52.507778167725,5.4727778434753,"14.531 (2018)[1] per dag
+",14531
+169,2020-07-08 20:04:59,Amsterdam Centraal - Schiphol Airport,Amsterdam Centraal,43.0,ASD,8400058.0,Amsterdm C,Amsterdam C.,Amsterdam Centraal,amsterdam-centraal,NL,megastation,52.378887176514,4.9002776145935,"192.178 (2018)[1]
+",192178
+170,2020-07-08 20:04:59,Amsterdam Centraal - Schiphol Airport,Amsterdam Sloterdijk,50.0,ASS,8400059.0,Sloterdijk,Sloterdijk,Amsterdam Sloterdijk,amsterdam-sloterdijk,NL,knooppuntIntercitystation,52.388889312744,4.8377776145935,"58.800 (2018)[1]
+",58800
+171,2020-07-08 20:04:59,Amsterdam Centraal - Schiphol Airport,Amsterdam Lelylaan,44.0,ASDL,8400079.0,Lelylaan,Lelylaan,Amsterdam Lelylaan,amsterdam-lelylaan,NL,stoptreinstation,52.357776641846,4.8338890075684,"15.836 (2018)[1]
+",15836
+172,2020-07-08 20:04:59,Amsterdam Centraal - Schiphol Airport,Schiphol Airport,428.0,SHL,8400561.0,Schiphol,Schiphol Airport,Schiphol Airport,schiphol-airport,NL,megastation,52.30944442749001,4.7619442939758,"92.214 (2018)[2] per dag (NS)
+",92214
+173,2020-07-08 20:04:59,Amsterdam Centraal - Utrecht Centraal,Amsterdam Centraal,43.0,ASD,8400058.0,Amsterdm C,Amsterdam C.,Amsterdam Centraal,amsterdam-centraal,NL,megastation,52.378887176514,4.9002776145935,"192.178 (2018)[1]
+",192178
+174,2020-07-08 20:04:59,Amsterdam Centraal - Utrecht Centraal,Amsterdam Muiderpoort,45.0,ASDM,8400060.0,Muiderprt,Muiderpoort,Amsterdam Muiderpoort,amsterdam-muiderpoort,NL,stoptreinstation,52.360553741455,4.931111335754401,"14.148 (2018)[2] per dag
+",14148
+175,2020-07-08 20:04:59,Amsterdam Centraal - Utrecht Centraal,Amsterdam Amstel,40.0,ASA,8400057.0,Amstel,Amstel,Amsterdam Amstel,amsterdam-amstel,NL,intercitystation,52.346668243408004,4.9177780151367,"33.717 (2018)[1]
+",33717
+176,2020-07-08 20:04:59,Amsterdam Centraal - Utrecht Centraal,Duivendrecht,155.0,DVD,8400194.0,Duivendrt,Duivendrecht,Duivendrecht,duivendrecht,NL,knooppuntStoptreinstation,52.323333740234006,4.9363889694214,"13.126 (2018)[1]
+",13126
+177,2020-07-08 20:04:59,Amsterdam Centraal - Utrecht Centraal,Amsterdam Bijlmer ArenA,41.0,ASB,8400074.0,Bijlmer A,Bijlmer ArenA,Amsterdam Bijlmer ArenA,amsterdam-bijlmer-arena,NL,knooppuntStoptreinstation,52.3122215271,4.9469442367554,"28.111 (2018)[1]
+",28111
+178,2020-07-08 20:04:59,Amsterdam Centraal - Utrecht Centraal,Amsterdam Holendrecht,47.0,ASHD,8400231.0,Holendrcht,Holendrecht,Amsterdam Holendrecht,amsterdam-holendrecht,NL,stoptreinstation,52.29844,4.95972,"4.175 (2018)[1]
+",4175
+179,2020-07-08 20:04:59,Amsterdam Centraal - Utrecht Centraal,Abcoude,5.0,AC,8400047.0,Abcoude,Abcoude,Abcoude,abcoude,NL,stoptreinstation,52.2785,4.977,"2.035 (2018)[1] per dag
+",2035
+180,2020-07-08 20:04:59,Amsterdam Centraal - Utrecht Centraal,Breukelen,81.0,BKL,8400133.0,Breukelen,Breukelen,Breukelen,breukelen,NL,knooppuntStoptreinstation,52.171490000000006,4.9906,"5666 (2018)[1] per dag
+",5666
+181,2020-07-08 20:04:59,Amsterdam Centraal - Utrecht Centraal,Maarssen,327.0,MAS,8400419.0,Maarssen,Maarssen,Maarssen,maarssen,NL,stoptreinstation,52.135276794434006,5.033611297607401,"4508 (2018)[1] per dag
+",4508
+182,2020-07-08 20:04:59,Amsterdam Centraal - Utrecht Centraal,Utrecht Zuilen,473.0,UTZL,8400613.0,Zuilen,Zuilen,Utrecht Zuilen,utrecht-zuilen,NL,stoptreinstation,52.103055,5.09,"2094 (2018)[2] per dag
+",2094
+183,2020-07-08 20:04:59,Amsterdam Centraal - Utrecht Centraal,Utrecht Centraal,467.0,UT,8400621.0,Utrecht C,Utrecht C.,Utrecht Centraal,utrecht-centraal,NL,megastation,52.088890075684006,5.1102776527405,"194.385 (2018)[2] per dag
+",194385
+184,2020-07-08 20:04:59,Amsterdam Centraal - Woerden,Amsterdam Centraal,43.0,ASD,8400058.0,Amsterdm C,Amsterdam C.,Amsterdam Centraal,amsterdam-centraal,NL,megastation,52.378887176514,4.9002776145935,"192.178 (2018)[1]
+",192178
+185,2020-07-08 20:04:59,Amsterdam Centraal - Woerden,Amsterdam Muiderpoort,45.0,ASDM,8400060.0,Muiderprt,Muiderpoort,Amsterdam Muiderpoort,amsterdam-muiderpoort,NL,stoptreinstation,52.360553741455,4.931111335754401,"14.148 (2018)[2] per dag
+",14148
+186,2020-07-08 20:04:59,Amsterdam Centraal - Woerden,Amsterdam Amstel,40.0,ASA,8400057.0,Amstel,Amstel,Amsterdam Amstel,amsterdam-amstel,NL,intercitystation,52.346668243408004,4.9177780151367,"33.717 (2018)[1]
+",33717
+187,2020-07-08 20:04:59,Amsterdam Centraal - Woerden,Duivendrecht,155.0,DVD,8400194.0,Duivendrt,Duivendrecht,Duivendrecht,duivendrecht,NL,knooppuntStoptreinstation,52.323333740234006,4.9363889694214,"13.126 (2018)[1]
+",13126
+188,2020-07-08 20:04:59,Amsterdam Centraal - Woerden,Amsterdam Bijlmer ArenA,41.0,ASB,8400074.0,Bijlmer A,Bijlmer ArenA,Amsterdam Bijlmer ArenA,amsterdam-bijlmer-arena,NL,knooppuntStoptreinstation,52.3122215271,4.9469442367554,"28.111 (2018)[1]
+",28111
+189,2020-07-08 20:04:59,Amsterdam Centraal - Woerden,Amsterdam Holendrecht,47.0,ASHD,8400231.0,Holendrcht,Holendrecht,Amsterdam Holendrecht,amsterdam-holendrecht,NL,stoptreinstation,52.29844,4.95972,"4.175 (2018)[1]
+",4175
+190,2020-07-08 20:04:59,Amsterdam Centraal - Woerden,Abcoude,5.0,AC,8400047.0,Abcoude,Abcoude,Abcoude,abcoude,NL,stoptreinstation,52.2785,4.977,"2.035 (2018)[1] per dag
+",2035
+191,2020-07-08 20:04:59,Amsterdam Centraal - Woerden,Breukelen,81.0,BKL,8400133.0,Breukelen,Breukelen,Breukelen,breukelen,NL,knooppuntStoptreinstation,52.171490000000006,4.9906,"5666 (2018)[1] per dag
+",5666
+192,2020-07-08 20:04:59,Amsterdam Centraal - Woerden,Woerden,503.0,WD,8400702.0,Woerden,Woerden,Woerden,woerden,NL,knooppuntStoptreinstation,52.084999084473,4.8936109542847,"13.358 (2018)[1] per dag
+",13358
+193,2020-07-08 20:04:59,Antwerpen-Centraal - Breda,Breda,61.0,BD,8400131.0,Breda,Breda,Breda,breda,NL,knooppuntIntercitystation,51.595554351807,4.7800002098083,"35.863 (2018)[1] per dag
+",35863
+194,2020-07-08 20:04:59,Antwerpen-Centraal - Roosendaal,Roosendaal,405.0,RSD,8400526.0,Roosendaal,Roosendaal,Roosendaal,roosendaal,NL,knooppuntIntercitystation,51.540279388428004,4.4583334922791,"10.317 (2018)[1] per dag
+",10317
+195,2020-07-08 20:04:59,Apeldoorn - Deventer,Apeldoorn,31.0,APD,8400066.0,Apeldoorn,Apeldoorn,Apeldoorn,apeldoorn,NL,knooppuntIntercitystation,52.209167480469,5.970277786254901,"14.840 (2018)[2] per dag (NS)
+",14840
+196,2020-07-08 20:04:59,Apeldoorn - Deventer,Apeldoorn Osseveld,33.0,APDO,8400229.0,Osseveld,Osseveld,Apeldoorn Osseveld,apeldoorn-osseveld,NL,stoptreinstation,52.215278625488004,6.0044445991516,"1.267 (2018)[2] per dag
+",1267
+197,2020-07-08 20:04:59,Apeldoorn - Deventer,Twello,460.0,TWL,8400599.0,Twello,Twello,Twello,twello,NL,stoptreinstation,52.237777709961,6.0986108779907,"1518 (2018)[2] per dag
+",1518
+198,2020-07-08 20:04:59,Apeldoorn - Deventer,Deventer,153.0,DV,8400173.0,Deventer,Deventer,Deventer,deventer,NL,knooppuntIntercitystation,52.257499694824,6.160555362701401,"20.903 (2018)[1] per dag
+",20903
+199,2020-07-08 20:04:59,Apeldoorn - Zutphen,Apeldoorn,31.0,APD,8400066.0,Apeldoorn,Apeldoorn,Apeldoorn,apeldoorn,NL,knooppuntIntercitystation,52.209167480469,5.970277786254901,"14.840 (2018)[2] per dag (NS)
+",14840
+200,2020-07-08 20:04:59,Apeldoorn - Zutphen,Apeldoorn De Maten,32.0,APDM,8400233.0,De Maten,De Maten,Apeldoorn De Maten,apeldoorn-de-maten,NL,stoptreinstation,52.205276489258004,6.0005555152892995,"612 (2009)[1] per dag
+",612
+201,2020-07-08 20:04:59,Apeldoorn - Zutphen,Klarenbeek,282.0,KBK,8400361.0,Klarenbk,Klarenbeek,Klarenbeek,klarenbeek,NL,stoptreinstation,52.17805480957,6.083611011505099,,
+202,2020-07-08 20:04:59,Apeldoorn - Zutphen,Voorst-Empe,481.0,VEM,8400668.0,Voorst-E,Voorst-Empe,Voorst-Empe,voorst-empe,NL,stoptreinstation,52.157501220703004,6.1436109542847,,
+203,2020-07-08 20:04:59,Apeldoorn - Zutphen,Zutphen,534.0,ZP,8400744.0,Zutphen,Zutphen,Zutphen,zutphen,NL,knooppuntIntercitystation,52.145278930664,6.1941666603088,"11.988 (2018)[1] per dag (NS)
+",11988
+204,2020-07-08 20:04:59,Arnhem Centraal - Düsseldorf Hbf,Arnhem Centraal,6.0,AH,8400071.0,Arnhem C,Arnhem C.,Arnhem Centraal,arnhem-centraal,NL,knooppuntIntercitystation,51.985000610352,5.899166584014901,"43.677 (2018)[2] per dag (NS)
+",43677
+205,2020-07-08 20:04:59,Arnhem Centraal - Düsseldorf Hbf,Arnhem Velperpoort,9.0,AHP,8400072.0,Velperprt,Velperpoort,Arnhem Velperpoort,arnhem-velperpoort,NL,stoptreinstation,51.985279083252,5.9194445610046,"1980 (2018)[1] per dag (NS)
+",1980
+206,2020-07-08 20:04:59,Arnhem Centraal - Düsseldorf Hbf,Westervoort,545.0,WTV,8400688.0,Westervrt,Westervoort,Westervoort,westervoort,NL,stoptreinstation,51.96286,5.9695,,
+207,2020-07-08 20:04:59,Arnhem Centraal - Düsseldorf Hbf,Duiven,156.0,DVN,8400193.0,Duiven,Duiven,Duiven,duiven,NL,stoptreinstation,51.943332672119,6.0147223472595,"3.264 (2005) per dag
+",3264
+208,2020-07-08 20:04:59,Arnhem Centraal - Düsseldorf Hbf,Zevenaar,538.0,ZV,8400735.0,Zevenaar,Zevenaar,Zevenaar,zevenaar,NL,knooppuntStoptreinstation,51.923053741455,6.071944236755401,"3.641 (2005) per dag
+",3641
+209,2020-07-08 20:04:59,Arnhem Centraal - Frankfurt (M) Hbf,Arnhem Centraal,6.0,AH,8400071.0,Arnhem C,Arnhem C.,Arnhem Centraal,arnhem-centraal,NL,knooppuntIntercitystation,51.985000610352,5.899166584014901,"43.677 (2018)[2] per dag (NS)
+",43677
+210,2020-07-08 20:04:59,Arnhem Centraal - Frankfurt (M) Hbf,Arnhem Velperpoort,9.0,AHP,8400072.0,Velperprt,Velperpoort,Arnhem Velperpoort,arnhem-velperpoort,NL,stoptreinstation,51.985279083252,5.9194445610046,"1980 (2018)[1] per dag (NS)
+",1980
+211,2020-07-08 20:04:59,Arnhem Centraal - Frankfurt (M) Hbf,Westervoort,545.0,WTV,8400688.0,Westervrt,Westervoort,Westervoort,westervoort,NL,stoptreinstation,51.96286,5.9695,,
+212,2020-07-08 20:04:59,Arnhem Centraal - Frankfurt (M) Hbf,Duiven,156.0,DVN,8400193.0,Duiven,Duiven,Duiven,duiven,NL,stoptreinstation,51.943332672119,6.0147223472595,"3.264 (2005) per dag
+",3264
+213,2020-07-08 20:04:59,Arnhem Centraal - Frankfurt (M) Hbf,Zevenaar,538.0,ZV,8400735.0,Zevenaar,Zevenaar,Zevenaar,zevenaar,NL,knooppuntStoptreinstation,51.923053741455,6.071944236755401,"3.641 (2005) per dag
+",3641
+214,2020-07-08 20:04:59,Arnhem Centraal - Nijmegen,Arnhem Centraal,6.0,AH,8400071.0,Arnhem C,Arnhem C.,Arnhem Centraal,arnhem-centraal,NL,knooppuntIntercitystation,51.985000610352,5.899166584014901,"43.677 (2018)[2] per dag (NS)
+",43677
+215,2020-07-08 20:04:59,Arnhem Centraal - Nijmegen,Arnhem Zuid,11.0,AHZ,8400227.0,Arnhem Z,Arnhem Zuid,Arnhem Zuid,arnhem-zuid,NL,stoptreinstation,51.955001831055,5.8519444465637,"3222 (2018)[1] per dag
+",3222
+216,2020-07-08 20:04:59,Arnhem Centraal - Nijmegen,Elst,184.0,EST,8400207.0,Elst,Elst,Elst,elst,NL,knooppuntStoptreinstation,51.916942596435,5.8550000190735,"4196 (2018)[1] per dag (NS)
+",4196
+217,2020-07-08 20:04:59,Arnhem Centraal - Nijmegen,Nijmegen Lent,358.0,NML,8400451.0,Lent,Lent,Nijmegen Lent,nijmegen-lent,NL,stoptreinstation,51.863153999999994,5.859625,"1381 (2018)[1] per dag
+",1381
+218,2020-07-08 20:04:59,Arnhem Centraal - Nijmegen,Nijmegen,355.0,NM,8400470.0,Nijmegen,Nijmegen,Nijmegen,nijmegen,NL,knooppuntIntercitystation,51.843612670898,5.852222442626901,"45.403 (2018)[1] per dag (NS)
+",45403
+219,2020-07-08 20:04:59,Arnhem Centraal - Tiel,Arnhem Centraal,6.0,AH,8400071.0,Arnhem C,Arnhem C.,Arnhem Centraal,arnhem-centraal,NL,knooppuntIntercitystation,51.985000610352,5.899166584014901,"43.677 (2018)[2] per dag (NS)
+",43677
+220,2020-07-08 20:04:59,Arnhem Centraal - Tiel,Arnhem Zuid,11.0,AHZ,8400227.0,Arnhem Z,Arnhem Zuid,Arnhem Zuid,arnhem-zuid,NL,stoptreinstation,51.955001831055,5.8519444465637,"3222 (2018)[1] per dag
+",3222
+221,2020-07-08 20:04:59,Arnhem Centraal - Tiel,Elst,184.0,EST,8400207.0,Elst,Elst,Elst,elst,NL,knooppuntStoptreinstation,51.916942596435,5.8550000190735,"4196 (2018)[1] per dag (NS)
+",4196
+222,2020-07-08 20:04:59,Arnhem Centraal - Tiel,Zetten-Andelst,526.0,ZA,8400734.0,Zetten-And,Zetten-Andelst,Zetten-Andelst,zetten-andelst,NL,stoptreinstation,51.920056,5.722840799999999,,
+223,2020-07-08 20:04:59,Arnhem Centraal - Tiel,Hemmen-Dodewaard,251.0,HMN,8400315.0,Hemmen-D,Hemmen-Dodew.,Hemmen-Dodewaard,hemmen-dodewaard,NL,stoptreinstation,51.9222129,5.6737254,,
+224,2020-07-08 20:04:59,Arnhem Centraal - Tiel,Opheusden,377.0,OP,8400494.0,Opheusden,Opheusden,Opheusden,opheusden,NL,stoptreinstation,51.9261615,5.6371145,,
+225,2020-07-08 20:04:59,Arnhem Centraal - Tiel,Kesteren,299.0,KTR,8400359.0,Kesteren,Kesteren,Kesteren,kesteren,NL,stoptreinstation,51.9313869,5.583346499999999,,
+226,2020-07-08 20:04:59,Arnhem Centraal - Tiel,Tiel,458.0,TL,8400596.0,Tiel,Tiel,Tiel,tiel,NL,knooppuntStoptreinstation,51.889446258545,5.4222221374512,"3298 (2018)[1] per dag (NS)
+",3298
+227,2020-07-08 20:04:59,Arnhem Centraal - Utrecht Centraal,Arnhem Centraal,6.0,AH,8400071.0,Arnhem C,Arnhem C.,Arnhem Centraal,arnhem-centraal,NL,knooppuntIntercitystation,51.985000610352,5.899166584014901,"43.677 (2018)[2] per dag (NS)
+",43677
+228,2020-07-08 20:04:59,Arnhem Centraal - Utrecht Centraal,Oosterbeek,381.0,OTB,8400489.0,Oosterbeek,Oosterbeek,Oosterbeek,oosterbeek,NL,stoptreinstation,51.99499893188501,5.8400001525879,"478 (2018)[1] per dag
+",478
+229,2020-07-08 20:04:59,Arnhem Centraal - Utrecht Centraal,Wolfheze,505.0,WF,8400704.0,Wolfheze,Wolfheze,Wolfheze,wolfheze,NL,stoptreinstation,52.005554199219,5.7936110496521,"600 (2018)[1] per dag
+",600
+230,2020-07-08 20:04:59,Arnhem Centraal - Utrecht Centraal,Ede-Wageningen,162.0,ED,8400200.0,Ede-Wag,Ede-Wageningen,Ede-Wageningen,ede-wageningen,NL,knooppuntIntercitystation,52.027778625488004,5.6730556488037,"18.963 (2018)[1] per dag (NS)
+",18963
+231,2020-07-08 20:04:59,Arnhem Centraal - Utrecht Centraal,Veenendaal-De Klomp,285.0,KLP,8400637.0,De Klomp,De Klomp,Veenendaal-De Klomp,veenendaal-de-klomp,NL,stoptreinstation,52.045833587646,5.5738887786864995,"4.446 (2018)[1] per dag
+",4446
+232,2020-07-08 20:04:59,Arnhem Centraal - Utrecht Centraal,Maarn,339.0,MRN,8400417.0,Maarn,Maarn,Maarn,maarn,NL,knooppuntStoptreinstation,52.064167022705,5.3699998855591,"1659 (2018)[1] per dag
+",1659
+233,2020-07-08 20:04:59,Arnhem Centraal - Utrecht Centraal,Driebergen-Zeist,122.0,DB,8400182.0,Driebergen,Driebergen-Zeist,Driebergen-Zeist,driebergen-zeist,NL,knooppuntStoptreinstation,52.065277099609006,5.25861120224,"8787 (2018)[1] per dag
+",8787
+234,2020-07-08 20:04:59,Arnhem Centraal - Utrecht Centraal,Bunnik,88.0,BNK,8400141.0,Bunnik,Bunnik,Bunnik,bunnik,NL,stoptreinstation,52.063056945801,5.1944446563721,"2.428 (2018)[1] per dag
+",2428
+235,2020-07-08 20:04:59,Arnhem Centraal - Utrecht Centraal,Utrecht Vaartsche Rijn,797.0,UTVR,8400606.0,VaartscheR,Vaartsche Rijn,Utrecht Vaartsche Rijn,utrecht-vaartsche-rijn,NL,knooppuntStoptreinstation,52.078889000000004,5.1216669999999995,"7752 (2018)[3] per dag
+",7752
+236,2020-07-08 20:04:59,Arnhem Centraal - Utrecht Centraal,Utrecht Centraal,467.0,UT,8400621.0,Utrecht C,Utrecht C.,Utrecht Centraal,utrecht-centraal,NL,megastation,52.088890075684006,5.1102776527405,"194.385 (2018)[2] per dag
+",194385
+237,2020-07-08 20:04:59,Arnhem Centraal - Winterswijk,Winterswijk,522.0,WW,8400698.0,Winterswk,Winterswijk,Winterswijk,winterswijk,NL,knooppuntStoptreinstation,51.967730700000004,6.7155181,"3.844 (2015) per dag
+",3844
+238,2020-07-08 20:04:59,Arnhem Centraal - Winterswijk,Aalten,51.0,ATN,8400045.0,Aalten,Aalten,Aalten,aalten,NL,stoptreinstation,51.921326524551,6.5786272287369005,"1.531 (2008)[1] per dag
+",1531
+239,2020-07-08 20:04:59,Arnhem Centraal - Winterswijk,Varsseveld,496.0,VSV,8400635.0,Varsseveld,Varsseveld,Varsseveld,varsseveld,NL,stoptreinstation,51.937257,6.458839,"556 (2005)[1] per dag
+",556
+240,2020-07-08 20:04:59,Arnhem Centraal - Winterswijk,Terborg,454.0,TBG,8400592.0,Terborg,Terborg,Terborg,terborg,NL,stoptreinstation,51.9224549,6.3642465999999995,"885 (2005)[1] per dag
+",885
+241,2020-07-08 20:04:59,Arnhem Centraal - Winterswijk,Gaanderen,199.0,GDR,8400241.0,Gaanderen,Gaanderen,Gaanderen,gaanderen,NL,stoptreinstation,51.93074,6.3486,,
+242,2020-07-08 20:04:59,Arnhem Centraal - Winterswijk,Doetinchem,145.0,DTC,8400177.0,Doetinchem,Doetinchem,Doetinchem,doetinchem,NL,knooppuntStoptreinstation,51.9585962,6.2962148000000004,"7.283 (2013) per dag
+",7283
+243,2020-07-08 20:04:59,Arnhem Centraal - Winterswijk,Doetinchem De Huet,146.0,DTCH,8400184.0,De Huet,De Huet,Doetinchem De Huet,doetinchem-de-huet,NL,stoptreinstation,51.95914129999999,6.259852099999999,"1.232 (2005)[1] per dag
+",1232
+244,2020-07-08 20:04:59,Arnhem Centraal - Winterswijk,Wehl,510.0,WL,8400686.0,Wehl,Wehl,Wehl,wehl,NL,stoptreinstation,51.957806500000004,6.213844,"592 (2005)[1] per dag
+",592
+245,2020-07-08 20:04:59,Arnhem Centraal - Winterswijk,Didam,128.0,DID,8400174.0,Didam,Didam,Didam,didam,NL,stoptreinstation,51.933502000000004,6.1324106,"1.892 (2005)[1] per dag
+",1892
+246,2020-07-08 20:04:59,Arnhem Centraal - Winterswijk,Zevenaar,538.0,ZV,8400735.0,Zevenaar,Zevenaar,Zevenaar,zevenaar,NL,knooppuntStoptreinstation,51.923053741455,6.071944236755401,"3.641 (2005) per dag
+",3641
+247,2020-07-08 20:04:59,Arnhem Centraal - Winterswijk,Duiven,156.0,DVN,8400193.0,Duiven,Duiven,Duiven,duiven,NL,stoptreinstation,51.943332672119,6.0147223472595,"3.264 (2005) per dag
+",3264
+248,2020-07-08 20:04:59,Arnhem Centraal - Winterswijk,Westervoort,545.0,WTV,8400688.0,Westervrt,Westervoort,Westervoort,westervoort,NL,stoptreinstation,51.96286,5.9695,,
+249,2020-07-08 20:04:59,Arnhem Centraal - Winterswijk,Arnhem Velperpoort,9.0,AHP,8400072.0,Velperprt,Velperpoort,Arnhem Velperpoort,arnhem-velperpoort,NL,stoptreinstation,51.985279083252,5.9194445610046,"1980 (2018)[1] per dag (NS)
+",1980
+250,2020-07-08 20:04:59,Arnhem Centraal - Winterswijk,Arnhem Centraal,6.0,AH,8400071.0,Arnhem C,Arnhem C.,Arnhem Centraal,arnhem-centraal,NL,knooppuntIntercitystation,51.985000610352,5.899166584014901,"43.677 (2018)[2] per dag (NS)
+",43677
+251,2020-07-08 20:04:59,Arnhem Centraal - Zutphen,Arnhem Centraal,6.0,AH,8400071.0,Arnhem C,Arnhem C.,Arnhem Centraal,arnhem-centraal,NL,knooppuntIntercitystation,51.985000610352,5.899166584014901,"43.677 (2018)[2] per dag (NS)
+",43677
+252,2020-07-08 20:04:59,Arnhem Centraal - Zutphen,Arnhem Velperpoort,9.0,AHP,8400072.0,Velperprt,Velperpoort,Arnhem Velperpoort,arnhem-velperpoort,NL,stoptreinstation,51.985279083252,5.9194445610046,"1980 (2018)[1] per dag (NS)
+",1980
+253,2020-07-08 20:04:59,Arnhem Centraal - Zutphen,Arnhem Presikhaaf,10.0,AHPR,8400075.0,Presikhaaf,Presikhaaf,Arnhem Presikhaaf,arnhem-presikhaaf,NL,stoptreinstation,51.988056182861,5.943888664245599,"2795 (2018)[1] per dag
+",2795
+254,2020-07-08 20:04:59,Arnhem Centraal - Zutphen,Velp,491.0,VP,8400640.0,Velp,Velp,Velp,velp,NL,stoptreinstation,51.994720458984006,5.9802780151367,"1482 (2018)[1] per dag
+",1482
+255,2020-07-08 20:04:59,Arnhem Centraal - Zutphen,Rheden,397.0,RH,8400519.0,Rheden,Rheden,Rheden,rheden,NL,stoptreinstation,52.0101,6.0314,"831 (2018)[1] per dag
+",831
+256,2020-07-08 20:04:59,Arnhem Centraal - Zutphen,Dieren,141.0,DR,8400176.0,Dieren,Dieren,Dieren,dieren,NL,intercitystation,52.044998168945,6.103055477142299,"3607 (2018)[1] per dag
+",3607
+257,2020-07-08 20:04:59,Arnhem Centraal - Zutphen,Brummen,84.0,BMN,8400136.0,Brummen,Brummen,Brummen,brummen,NL,stoptreinstation,52.091110229491996,6.146944522857701,"1068 (2018)[1] per dag
+",1068
+258,2020-07-08 20:04:59,Arnhem Centraal - Zutphen,Zutphen,534.0,ZP,8400744.0,Zutphen,Zutphen,Zutphen,zutphen,NL,knooppuntIntercitystation,52.145278930664,6.1941666603088,"11.988 (2018)[1] per dag (NS)
+",11988
+259,2020-07-08 20:04:59,Baarn - Utrecht Centraal,Baarn,102.0,BRN,8400086.0,Baarn,Baarn,Baarn,baarn,NL,knooppuntStoptreinstation,52.208332061768,5.2808332443237,"4621 (2018)[2] per dag
+",4621
+260,2020-07-08 20:04:59,Baarn - Utrecht Centraal,Soestdijk,420.0,SD,8400569.0,Soestdijk,Soestdijk,Soestdijk,soestdijk,NL,stoptreinstation,52.183612823486,5.300000190734901,"785 (2018)[2] per dag
+",785
+261,2020-07-08 20:04:59,Baarn - Utrecht Centraal,Soest,438.0,ST,8400567.0,Soest,Soest,Soest,soest,NL,knooppuntStoptreinstation,52.173332214355,5.3099999427795,,
+262,2020-07-08 20:04:59,Baarn - Utrecht Centraal,Soest Zuid,448.0,STZ,8400571.0,Soest Z,Soest Z.,Soest Zuid,soest-zuid,NL,stoptreinstation,52.165279388428004,5.3030557632446,"1916 (2018)[2] per dag
+",1916
+263,2020-07-08 20:04:59,Baarn - Utrecht Centraal,Den Dolder,132.0,DLD,8400179.0,Den Dolder,Den Dolder,Den Dolder,den-dolder,NL,knooppuntStoptreinstation,52.140277862549,5.2427778244019,"1898 (2018)[2] per dag
+",1898
+264,2020-07-08 20:04:59,Baarn - Utrecht Centraal,Bilthoven,77.0,BHV,8400114.0,Bilthoven,Bilthoven,Bilthoven,bilthoven,NL,stoptreinstation,52.13000106811499,5.2038888931274006,"5376 (2018)[2] per dag
+",5376
+265,2020-07-08 20:04:59,Baarn - Utrecht Centraal,Utrecht Overvecht,471.0,UTO,8400620.0,Overvecht,Overvecht,Utrecht Overvecht,utrecht-overvecht,NL,knooppuntStoptreinstation,52.110000610352,5.1247220039367996,"8677 (2018)[2] per dag
+",8677
+266,2020-07-08 20:04:59,Baarn - Utrecht Centraal,Utrecht Centraal,467.0,UT,8400621.0,Utrecht C,Utrecht C.,Utrecht Centraal,utrecht-centraal,NL,megastation,52.088890075684006,5.1102776527405,"194.385 (2018)[2] per dag
+",194385
+267,2020-07-08 20:04:59,Groningen - Bad Nieuweschans,Groningen,204.0,GN,8400263.0,Groningen,Groningen,Groningen,groningen,NL,knooppuntIntercitystation,53.210556030273,6.5647220611572,,
+268,2020-07-08 20:04:59,Groningen - Bad Nieuweschans,Groningen Europapark,201.0,GERP,8400238.0,Europapark,Europapark,Groningen Europapark,groningen-europapark,NL,stoptreinstation,53.20480027,6.5854178,"1592 (2018)[1] per dag (NS)
+",1592
+269,2020-07-08 20:04:59,Groningen - Bad Nieuweschans,Kropswolde,300.0,KW,8400369.0,Kropswolde,Kropswolde,Kropswolde,kropswolde,NL,stoptreinstation,53.16173620000001,6.7220882,"511 (2009)[1] per dag
+",511
+270,2020-07-08 20:04:59,Groningen - Bad Nieuweschans,Martenshoek,343.0,MTH,8400430.0,Martenshk,Martenshoek,Martenshoek,martenshoek,NL,stoptreinstation,53.16072320000001,6.7402989,"1.048 (2009)[1] per dag
+",1048
+271,2020-07-08 20:04:59,Groningen - Bad Nieuweschans,Hoogezand-Sappemeer,236.0,HGZ,8400331.0,Hoogezand,Hoogezand-Sap.,Hoogezand-Sappemeer,hoogezand-sappemeer,NL,knooppuntStoptreinstation,53.159818131676,6.770753860473599,"968 (2009)[1] per dag
+",968
+272,2020-07-08 20:04:59,Groningen - Bad Nieuweschans,Sappemeer Oost,434.0,SPM,8400545.0,Sappemr O,Sappemeer O.,Sappemeer Oost,sappemeer-oost,NL,stoptreinstation,53.158918299999996,6.7955648,"505 (2009)[1] per dag
+",505
+273,2020-07-08 20:04:59,Groningen - Bad Nieuweschans,Zuidbroek,527.0,ZB,8400742.0,Zuidbroek,Zuidbroek,Zuidbroek,zuidbroek,NL,knooppuntStoptreinstation,53.159612280006,6.867914199829099,"838 (2009)[1] per dag
+",838
+274,2020-07-08 20:04:59,Groningen - Bad Nieuweschans,Scheemda,421.0,SDA,8400551.0,Scheemda,Scheemda,Scheemda,scheemda,NL,stoptreinstation,53.165536200000005,6.977777499999999,"714 (2009)[1] per dag
+",714
+275,2020-07-08 20:04:59,Groningen - Bad Nieuweschans,Winschoten,515.0,WS,8400696.0,Winschoten,Winschoten,Winschoten,winschoten,NL,knooppuntStoptreinstation,53.139237699999995,7.035100999999999,"2.619 (2009)[1] per dag
+",2619
+276,2020-07-08 20:04:59,Groningen - Bad Nieuweschans,Bad Nieuweschans,361.0,NSCH,8400457.0,Nweschans,Bad Nieuweschans,Bad Nieuweschans,bad-nieuweschans,NL,knooppuntStoptreinstation,53.1844,7.19937,"476 (2009)[1] per dag
+",476
+277,2020-07-08 20:04:59,Berlin Ostbahnhof - Hengelo,Oldenzaal,372.0,ODZ,8400483.0,Oldenzaal,Oldenzaal,Oldenzaal,oldenzaal,NL,stoptreinstation,52.30638885498,6.9347224235535005,,
+278,2020-07-08 20:04:59,Berlin Ostbahnhof - Hengelo,Hengelo Oost,234.0,HGLO,8400312.0,Hengelo O,Hengelo O.,Hengelo Oost,hengelo-oost,NL,stoptreinstation,52.268890380859006,6.8194446563721005,,
+279,2020-07-08 20:04:59,Berlin Ostbahnhof - Hengelo,Hengelo,233.0,HGL,8400316.0,Hengelo,Hengelo,Hengelo,hengelo,NL,knooppuntIntercitystation,52.261665344238004,6.7938890457153,"6.951 (2018)[1] per dag (NS)
+",6951
+280,2020-07-08 20:04:59,Bielefeld Hbf - Hengelo,Hengelo,233.0,HGL,8400316.0,Hengelo,Hengelo,Hengelo,hengelo,NL,knooppuntIntercitystation,52.261665344238004,6.7938890457153,"6.951 (2018)[1] per dag (NS)
+",6951
+281,2020-07-08 20:04:59,Bielefeld Hbf - Hengelo,Hengelo Oost,234.0,HGLO,8400312.0,Hengelo O,Hengelo O.,Hengelo Oost,hengelo-oost,NL,stoptreinstation,52.268890380859006,6.8194446563721005,,
+282,2020-07-08 20:04:59,Bielefeld Hbf - Hengelo,Oldenzaal,372.0,ODZ,8400483.0,Oldenzaal,Oldenzaal,Oldenzaal,oldenzaal,NL,stoptreinstation,52.30638885498,6.9347224235535005,,
+283,2020-07-08 20:04:59,Breda - Dordrecht,Breda,61.0,BD,8400131.0,Breda,Breda,Breda,breda,NL,knooppuntIntercitystation,51.595554351807,4.7800002098083,"35.863 (2018)[1] per dag
+",35863
+284,2020-07-08 20:04:59,Breda - Dordrecht,Breda-Prinsenbeek,65.0,BDPB,8400132.0,Prinsenbk,Prinsenbeek,Breda-Prinsenbeek,breda-prinsenbeek,NL,stoptreinstation,51.606388092040994,4.7208333015442,"1637 (2018)[1] per dag
+",1637
+285,2020-07-08 20:04:59,Breda - Dordrecht,Lage Zwaluwe,533.0,ZLW,8400382.0,Lage Zwalu,Lage Zwaluwe,Lage Zwaluwe,lage-zwaluwe,NL,knooppuntStoptreinstation,51.69111251830999,4.663055419921901,"832 (2018)[1] per dag
+",832
+286,2020-07-08 20:04:59,Breda - Dordrecht,Dordrecht Zuid,126.0,DDZD,8400181.0,Dordrcht Z,Dordrecht Z.,Dordrecht Zuid,dordrecht-zuid,NL,stoptreinstation,51.790000915527,4.6713891029358,"1111 (2018)[1] per dag
+",1111
+287,2020-07-08 20:04:59,Breda - Dordrecht,Dordrecht,124.0,DDR,8400180.0,Dordrecht,Dordrecht,Dordrecht,dordrecht,NL,knooppuntIntercitystation,51.807220458984006,4.668333530426,"24.483 (2018)[1] per dag
+",24483
+288,2020-07-08 20:04:59,Breda - Roosendaal,Breda,61.0,BD,8400131.0,Breda,Breda,Breda,breda,NL,knooppuntIntercitystation,51.595554351807,4.7800002098083,"35.863 (2018)[1] per dag
+",35863
+289,2020-07-08 20:04:59,Breda - Roosendaal,Etten-Leur,185.0,ETN,8400218.0,Etten-Leur,Etten-Leur,Etten-Leur,etten-leur,NL,intercitystation,51.57500076294001,4.6358332633972,"3459 (2018)[1] per dag
+",3459
+290,2020-07-08 20:04:59,Breda - Roosendaal,Roosendaal,405.0,RSD,8400526.0,Roosendaal,Roosendaal,Roosendaal,roosendaal,NL,knooppuntIntercitystation,51.540279388428004,4.4583334922791,"10.317 (2018)[1] per dag
+",10317
+291,2020-07-08 20:04:59,Breda - Rotterdam Centraal,Breda,61.0,BD,8400131.0,Breda,Breda,Breda,breda,NL,knooppuntIntercitystation,51.595554351807,4.7800002098083,"35.863 (2018)[1] per dag
+",35863
+292,2020-07-08 20:04:59,Breda - Rotterdam Centraal,Rotterdam Centraal,411.0,RTD,8400530.0,Rotterdm C,Rotterdam C.,Rotterdam Centraal,rotterdam-centraal,NL,megastation,51.92499923705999,4.468888759613,"96.690 (2018, trein)[1]48.600 (2018, metro)[2]
+",96690
+293,2020-07-08 20:04:59,Breda - Tilburg,Breda,61.0,BD,8400131.0,Breda,Breda,Breda,breda,NL,knooppuntIntercitystation,51.595554351807,4.7800002098083,"35.863 (2018)[1] per dag
+",35863
+294,2020-07-08 20:04:59,Breda - Tilburg,Gilze-Rijen,218.0,GZ,8400251.0,Gilze-Rij,Gilze-Rijen,Gilze-Rijen,gilze-rijen,NL,stoptreinstation,51.583610534668,4.9261112213135,"2806 (2018)[1] per dag
+",2806
+295,2020-07-08 20:04:59,Breda - Tilburg,Tilburg Reeshof,455.0,TBR,8400598.0,Reeshof,Reeshof,Tilburg Reeshof,tilburg-reeshof,NL,stoptreinstation,51.57361221313501,4.9944443702698,"2996 (2018)[1] per dag
+",2996
+296,2020-07-08 20:04:59,Breda - Tilburg,Tilburg Universiteit,456.0,TBU,8400594.0,Tilburg Un,Tilburg Uni.,Tilburg Universiteit,tilburg-universiteit,NL,stoptreinstation,51.564985,5.051778,"7106 (2018)[1] per dag
+",7106
+297,2020-07-08 20:04:59,Breda - Tilburg,Tilburg,453.0,TB,8400597.0,Tilburg,Tilburg,Tilburg,tilburg,NL,knooppuntIntercitystation,51.560554504395,5.083611011505099,"34.503 (2018)[1] per dag
+",34503
+298,2020-07-08 20:04:59,Brussel-Zuid/Midi - Rotterdam Centraal,Rotterdam Centraal,411.0,RTD,8400530.0,Rotterdm C,Rotterdam C.,Rotterdam Centraal,rotterdam-centraal,NL,megastation,51.92499923705999,4.468888759613,"96.690 (2018, trein)[1]48.600 (2018, metro)[2]
+",96690
+299,2020-07-08 20:04:59,Delfzijl - Groningen,Delfzijl,158.0,DZ,8400171.0,Delfzijl,Delfzijl,Delfzijl,delfzijl,NL,stoptreinstation,53.3336625,6.924079700000001,"1.290 (2009)[1] per dag
+",1290
+300,2020-07-08 20:04:59,Delfzijl - Groningen,Delfzijl West,159.0,DZW,8400175.0,Delfzijl W,Delfzijl W.,Delfzijl West,delfzijl-west,NL,stoptreinstation,53.3320834,6.9069092,"465 (2009)[1] per dag
+",465
+301,2020-07-08 20:04:59,Delfzijl - Groningen,Appingedam,34.0,APG,8400067.0,Appingedam,Appingedam,Appingedam,appingedam,NL,stoptreinstation,53.3258135,6.8619577000000005,"1.082 (2009)[1] per dag
+",1082
+302,2020-07-08 20:04:59,Delfzijl - Groningen,Loppersum,314.0,LP,8400403.0,Loppersum,Loppersum,Loppersum,loppersum,NL,stoptreinstation,53.334714500000004,6.7472625,"572 (2009)[1] per dag
+",572
+303,2020-07-08 20:04:59,Delfzijl - Groningen,Stedum,442.0,STM,8400576.0,Stedum,Stedum,Stedum,stedum,NL,stoptreinstation,53.32620920000001,6.687555099999999,"377 (2009)[1] per dag
+",377
+304,2020-07-08 20:04:59,Delfzijl - Groningen,Bedum,64.0,BDM,8400094.0,Bedum,Bedum,Bedum,bedum,NL,stoptreinstation,53.30688570000001,6.5930539999999995,"464 (2009)[1] per dag
+",464
+305,2020-07-08 20:04:59,Delfzijl - Groningen,Sauwerd,449.0,SWD,8400547.0,Sauwerd,Sauwerd,Sauwerd,sauwerd,NL,stoptreinstation,53.29113,6.5404,"269 (2009) per dag
+",269
+306,2020-07-08 20:04:59,Delfzijl - Groningen,Groningen Noord,206.0,GNN,8400264.0,Groningn N,Groningen N.,Groningen Noord,groningen-noord,NL,stoptreinstation,53.2301469,6.5563172000000005,,
+307,2020-07-08 20:04:59,Delfzijl - Groningen,Groningen,204.0,GN,8400263.0,Groningen,Groningen,Groningen,groningen,NL,knooppuntIntercitystation,53.210556030273,6.5647220611572,,
+308,2020-07-08 20:04:59,Den Haag Centraal - Den Haag HS,Den Haag Centraal,214.0,GVC,8400282.0,Den Haag C,Den Haag C.,Den Haag Centraal,den-haag-centraal,NL,megastation,52.080276489258004,4.3249998092651,"91.437 (2018)[1] per dag
+",91437
+309,2020-07-08 20:04:59,Den Haag Centraal - Den Haag HS,Den Haag HS,213.0,GV,8400280.0,Dn Haag HS,Den Haag HS,Den Haag HS,den-haag-hs,NL,knooppuntIntercitystation,52.069721221924,4.3225002288817995,"33.612 (2018)[1] per dag
+",33612
+310,2020-07-08 20:04:59,Den Haag Centraal - Leiden Centraal,Den Haag Centraal,214.0,GVC,8400282.0,Den Haag C,Den Haag C.,Den Haag Centraal,den-haag-centraal,NL,megastation,52.080276489258004,4.3249998092651,"91.437 (2018)[1] per dag
+",91437
+311,2020-07-08 20:04:59,Den Haag Centraal - Leiden Centraal,Den Haag Laan v NOI,302.0,LAA,8400380.0,Laan v NOI,Laan v NOI,Den Haag Laan v NOI,den-haag-laan-v-noi,NL,knooppuntStoptreinstation,52.078609466553004,4.3427777290344,"16.660 (2018)[1] per dag
+",16660
+312,2020-07-08 20:04:59,Den Haag Centraal - Leiden Centraal,Den Haag Mariahoeve,215.0,GVM,8400278.0,Mariahoeve,Mariahoeve,Den Haag Mariahoeve,den-haag-mariahoeve,NL,stoptreinstation,52.090557098389,4.3694443702698,"3.148 (2018)[1] per dag
+",3148
+313,2020-07-08 20:04:59,Den Haag Centraal - Leiden Centraal,Voorschoten,495.0,VST,8400659.0,Voorschtn,Voorschoten,Voorschoten,voorschoten,NL,stoptreinstation,52.1252784729,4.432499885559099,"3427 (2018)[1] per dag
+",3427
+314,2020-07-08 20:04:59,Den Haag Centraal - Leiden Centraal,De Vink,157.0,DVNK,8400188.0,De Vink,De Vink,De Vink,de-vink,NL,stoptreinstation,52.147220611571996,4.4563889503479,"3267 (2018)[1] per dag
+",3267
+315,2020-07-08 20:04:59,Den Haag Centraal - Leiden Centraal,Leiden Centraal,308.0,LEDN,8400390.0,Leiden C,Leiden C.,Leiden Centraal,leiden-centraal,NL,knooppuntIntercitystation,52.166110992432,4.4816665649414,"79.376 (2018)[1] per dag
+",79376
+316,2020-07-08 20:04:59,Den Haag Centraal - Utrecht Centraal,Den Haag Centraal,214.0,GVC,8400282.0,Den Haag C,Den Haag C.,Den Haag Centraal,den-haag-centraal,NL,megastation,52.080276489258004,4.3249998092651,"91.437 (2018)[1] per dag
+",91437
+317,2020-07-08 20:04:59,Den Haag Centraal - Utrecht Centraal,Voorburg,475.0,VB,8400658.0,Voorburg,Voorburg,Voorburg,voorburg,NL,stoptreinstation,52.066665649414,4.3594446182251,"1885 (2018)[1] per dag
+",1885
+318,2020-07-08 20:04:59,Den Haag Centraal - Utrecht Centraal,Den Haag Ypenburg,525.0,YPB,8400379.0,Ypenburg,Ypenburg,Den Haag Ypenburg,den-haag-ypenburg,NL,stoptreinstation,52.055278778076,4.39222240448,"2526 (2018)[1] per dag
+",2526
+319,2020-07-08 20:04:59,Den Haag Centraal - Utrecht Centraal,Zoetermeer,535.0,ZTM,8400741.0,Zoetermeer,Zoetermeer,Zoetermeer,zoetermeer,NL,knooppuntStoptreinstation,52.047500610352,4.477222442626901,"5044 (2018)[1] per dag
+",5044
+320,2020-07-08 20:04:59,Den Haag Centraal - Utrecht Centraal,Zoetermeer Oost,536.0,ZTMO,8400740.0,Zoetermr O,Zoetermeer O.,Zoetermeer Oost,zoetermeer-oost,NL,stoptreinstation,52.046390533446996,4.4927778244019,"3177 (2018)[1] per dag
+",3177
+321,2020-07-08 20:04:59,Den Haag Centraal - Utrecht Centraal,Lansingerland-Zoetermeer,820.0,LLZM,8400135.0,Lansingerl,Lansingerland,Lansingerland-Zoetermeer,lansingerland-zoetermeer,NL,stoptreinstation,52.042221999999995,4.517222,"1500-1600 (werkdagen) per dag
+",1500-1600
+322,2020-07-08 20:04:59,Den Haag Centraal - Utrecht Centraal,Gouda,195.0,GD,8400258.0,Gouda,Gouda,Gouda,gouda,NL,knooppuntIntercitystation,52.017501831055,4.7044444084167,"23.696 (2018)[1] per dag
+",23696
+323,2020-07-08 20:04:59,Den Haag Centraal - Utrecht Centraal,Gouda Goverwelle,196.0,GDG,8400257.0,Goverwelle,Goverwelle,Gouda Goverwelle,gouda-goverwelle,NL,stoptreinstation,52.014999389648,4.7408332824707005,"3.064 (2018)[1] per dag
+",3064
+324,2020-07-08 20:04:59,Den Haag Centraal - Utrecht Centraal,Woerden,503.0,WD,8400702.0,Woerden,Woerden,Woerden,woerden,NL,knooppuntStoptreinstation,52.084999084473,4.8936109542847,"13.358 (2018)[1] per dag
+",13358
+325,2020-07-08 20:04:59,Den Haag Centraal - Utrecht Centraal,Vleuten,497.0,VTN,8400651.0,Vleuten,Vleuten,Vleuten,vleuten,NL,stoptreinstation,52.103056,5.007404,"4288 (2018)[1] per dag
+",4288
+326,2020-07-08 20:04:59,Den Haag Centraal - Utrecht Centraal,Utrecht Terwijde,472.0,UTT,8400614.0,Terwijde,Terwijde,Utrecht Terwijde,utrecht-terwijde,NL,stoptreinstation,52.1000753,5.0439547,"3907 (2018)[1] per dag
+",3907
+327,2020-07-08 20:04:59,Den Haag Centraal - Utrecht Centraal,Utrecht Leidsche Rijn,718.0,UTLR,8400607.0,LeidscheRn,Leidsche Rijn,Utrecht Leidsche Rijn,utrecht-leidsche-rijn,NL,stoptreinstation,52.09896,5.065230000000001,"2766 (2018)[1] per dag
+",2766
+328,2020-07-08 20:04:59,Den Haag Centraal - Utrecht Centraal,Utrecht Centraal,467.0,UT,8400621.0,Utrecht C,Utrecht C.,Utrecht Centraal,utrecht-centraal,NL,megastation,52.088890075684006,5.1102776527405,"194.385 (2018)[2] per dag
+",194385
+329,2020-07-08 20:04:59,Den Haag HS - Leiden Centraal,Den Haag HS,213.0,GV,8400280.0,Dn Haag HS,Den Haag HS,Den Haag HS,den-haag-hs,NL,knooppuntIntercitystation,52.069721221924,4.3225002288817995,"33.612 (2018)[1] per dag
+",33612
+330,2020-07-08 20:04:59,Den Haag HS - Leiden Centraal,Den Haag Laan v NOI,302.0,LAA,8400380.0,Laan v NOI,Laan v NOI,Den Haag Laan v NOI,den-haag-laan-v-noi,NL,knooppuntStoptreinstation,52.078609466553004,4.3427777290344,"16.660 (2018)[1] per dag
+",16660
+331,2020-07-08 20:04:59,Den Haag HS - Leiden Centraal,Den Haag Mariahoeve,215.0,GVM,8400278.0,Mariahoeve,Mariahoeve,Den Haag Mariahoeve,den-haag-mariahoeve,NL,stoptreinstation,52.090557098389,4.3694443702698,"3.148 (2018)[1] per dag
+",3148
+332,2020-07-08 20:04:59,Den Haag HS - Leiden Centraal,Voorschoten,495.0,VST,8400659.0,Voorschtn,Voorschoten,Voorschoten,voorschoten,NL,stoptreinstation,52.1252784729,4.432499885559099,"3427 (2018)[1] per dag
+",3427
+333,2020-07-08 20:04:59,Den Haag HS - Leiden Centraal,De Vink,157.0,DVNK,8400188.0,De Vink,De Vink,De Vink,de-vink,NL,stoptreinstation,52.147220611571996,4.4563889503479,"3267 (2018)[1] per dag
+",3267
+334,2020-07-08 20:04:59,Den Haag HS - Leiden Centraal,Leiden Centraal,308.0,LEDN,8400390.0,Leiden C,Leiden C.,Leiden Centraal,leiden-centraal,NL,knooppuntIntercitystation,52.166110992432,4.4816665649414,"79.376 (2018)[1] per dag
+",79376
+335,2020-07-08 20:04:59,Den Haag HS - Rotterdam Centraal,Den Haag HS,213.0,GV,8400280.0,Dn Haag HS,Den Haag HS,Den Haag HS,den-haag-hs,NL,knooppuntIntercitystation,52.069721221924,4.3225002288817995,"33.612 (2018)[1] per dag
+",33612
+336,2020-07-08 20:04:59,Den Haag HS - Rotterdam Centraal,Den Haag Moerwijk,216.0,GVMW,8400279.0,Moerwijk,Moerwijk,Den Haag Moerwijk,den-haag-moerwijk,NL,stoptreinstation,52.053890228271,4.3086109161377,"3.307 (2018)[1] per dag
+",3307
+337,2020-07-08 20:04:59,Den Haag HS - Rotterdam Centraal,Rijswijk,407.0,RSW,8400505.0,Rijswijk,Rijswijk,Rijswijk,rijswijk,NL,stoptreinstation,52.039722442627,4.3191666603088,"6873 (2018)[1] per dag
+",6873
+338,2020-07-08 20:04:59,Den Haag HS - Rotterdam Centraal,Delft,144.0,DT,8400170.0,Delft,Delft,Delft,delft,NL,knooppuntIntercitystation,52.00666809082,4.3563890457153,"38.432 (2018)[1] per dag
+",38432
+339,2020-07-08 20:04:59,Den Haag HS - Rotterdam Centraal,Delft Campus,147.0,DTCP,8400166.0,Delft Camp,Delft Campus,Delft Campus,delft-campus,NL,stoptreinstation,51.990833282471,4.3647222518921,"4.472 (2018)[1] per dag
+",4472
+340,2020-07-08 20:04:59,Den Haag HS - Rotterdam Centraal,Schiedam Centrum,422.0,SDM,8400553.0,Schiedam C,Schiedam C.,Schiedam Centrum,schiedam-centrum,NL,stoptreinstation,51.921243812803,4.4089937210083,"23.164 (2018, trein)[1]26.793 (2018, metro)[2]
+",23164
+341,2020-07-08 20:04:59,Den Haag HS - Rotterdam Centraal,Rotterdam Centraal,411.0,RTD,8400530.0,Rotterdm C,Rotterdam C.,Rotterdam Centraal,rotterdam-centraal,NL,megastation,51.92499923705999,4.468888759613,"96.690 (2018, trein)[1]48.600 (2018, metro)[2]
+",96690
+342,2020-07-08 20:04:59,Deventer - Zutphen,Deventer,153.0,DV,8400173.0,Deventer,Deventer,Deventer,deventer,NL,knooppuntIntercitystation,52.257499694824,6.160555362701401,"20.903 (2018)[1] per dag
+",20903
+343,2020-07-08 20:04:59,Deventer - Zutphen,Zutphen,534.0,ZP,8400744.0,Zutphen,Zutphen,Zutphen,zutphen,NL,knooppuntIntercitystation,52.145278930664,6.1941666603088,"11.988 (2018)[1] per dag (NS)
+",11988
+344,2020-07-08 20:04:59,Deventer - Zwolle,Deventer,153.0,DV,8400173.0,Deventer,Deventer,Deventer,deventer,NL,knooppuntIntercitystation,52.257499694824,6.160555362701401,"20.903 (2018)[1] per dag
+",20903
+345,2020-07-08 20:04:59,Deventer - Zwolle,Olst,379.0,OST,8400486.0,Olst,Olst,Olst,olst,NL,intercitystation,52.334720611571996,6.1130557060242,"1319 (2018)[1] per dag
+",1319
+346,2020-07-08 20:04:59,Deventer - Zwolle,Wijhe,507.0,WH,8400711.0,Wijhe,Wijhe,Wijhe,wijhe,NL,intercitystation,52.390277862549,6.1405553817749,"1217 (2018)[1] per dag
+",1217
+347,2020-07-08 20:04:59,Deventer - Zwolle,Zwolle,532.0,ZL,8400747.0,Zwolle,Zwolle,Zwolle,zwolle,NL,knooppuntIntercitystation,52.50472259521499,6.0919442176819,"41.100 (2018)[1] per dag (NS)
+",41100
+348,2020-07-08 20:04:59,Dordrecht - Geldermalsen,Dordrecht,124.0,DDR,8400180.0,Dordrecht,Dordrecht,Dordrecht,dordrecht,NL,knooppuntIntercitystation,51.807220458984006,4.668333530426,"24.483 (2018)[1] per dag
+",24483
+349,2020-07-08 20:04:59,Dordrecht - Geldermalsen,Dordrecht Stadspolders,125.0,DDRS,8400186.0,Stadspldrs,Stadspolders,Dordrecht Stadspolders,dordrecht-stadspolders,NL,stoptreinstation,51.801944732665994,4.7166666984558,"709 (2014)[1] per dag
+",709
+350,2020-07-08 20:04:59,Dordrecht - Geldermalsen,Sliedrecht Baanhoek,548.0,SDTB,8400497.0,Baanhoek,Baanhoek,Sliedrecht Baanhoek,sliedrecht-baanhoek,NL,stoptreinstation,51.829722,4.743333,"553 (2014)[1] per dag
+",553
+351,2020-07-08 20:04:59,Dordrecht - Geldermalsen,Sliedrecht,423.0,SDT,8400565.0,Sliedrecht,Sliedrecht,Sliedrecht,sliedrecht,NL,stoptreinstation,51.829723358154,4.7783331871033,"866 (2014)[1] per dag
+",866
+352,2020-07-08 20:04:59,Dordrecht - Geldermalsen,Hardinxveld Blauwe Zoom,685.0,HBZM,8400438.0,Blauwe Zm,Blauwe Zoom,Hardinxveld Blauwe Zoom,hardinxveld-blauwe-zoom,NL,stoptreinstation,51.829440000000005,4.81556,"246 (2014)[1] per dag
+",246
+353,2020-07-08 20:04:59,Dordrecht - Geldermalsen,Hardinxveld-Giessendam,205.0,GND,8400295.0,Hardinxvld,Hardinxveld-G.,Hardinxveld-Giessendam,hardinxveld-giessendam,NL,stoptreinstation,51.830554962158004,4.8358335494995,,
+354,2020-07-08 20:04:59,Dordrecht - Geldermalsen,Boven-Hardinxveld,546.0,BHDV,8400236.0,Boven-Har,Boven-Hardinxv.,Boven-Hardinxveld,boven-hardinxveld,NL,stoptreinstation,51.832221999999994,4.878056,"343 (2014)[1] per dag
+",343
+355,2020-07-08 20:04:59,Dordrecht - Geldermalsen,Gorinchem,210.0,GR,8400256.0,Gorinchem,Gorinchem,Gorinchem,gorinchem,NL,knooppuntStoptreinstation,51.833889007568,4.9683332443237,"1660 (2014)[1] per dag
+",1660
+356,2020-07-08 20:04:59,Dordrecht - Geldermalsen,Arkel,13.0,AKL,8400068.0,Arkel,Arkel,Arkel,arkel,NL,stoptreinstation,51.87194442749001,4.9927778244019,"160 (2014)[1] per dag
+",160
+357,2020-07-08 20:04:59,Dordrecht - Geldermalsen,Leerdam,307.0,LDM,8400386.0,Leerdam,Leerdam,Leerdam,leerdam,NL,stoptreinstation,51.894721984863004,5.091388702392599,"712 (2014)[1] per dag
+",712
+358,2020-07-08 20:04:59,Dordrecht - Geldermalsen,Beesd,106.0,BSD,8400097.0,Beesd,Beesd,Beesd,beesd,NL,stoptreinstation,51.899444580078004,5.1944446563721,"183 (2014)[1] per dag
+",183
+359,2020-07-08 20:04:59,Dordrecht - Geldermalsen,Geldermalsen,198.0,GDM,8400244.0,Geldermlsn,Geldermalsen,Geldermalsen,geldermalsen,NL,knooppuntStoptreinstation,51.88301,5.2712699999999995,"6495 (2018)[1] per dag (NS)
+",6495
+360,2020-07-08 20:04:59,Dordrecht - Roosendaal,Dordrecht,124.0,DDR,8400180.0,Dordrecht,Dordrecht,Dordrecht,dordrecht,NL,knooppuntIntercitystation,51.807220458984006,4.668333530426,"24.483 (2018)[1] per dag
+",24483
+361,2020-07-08 20:04:59,Dordrecht - Roosendaal,Dordrecht Zuid,126.0,DDZD,8400181.0,Dordrcht Z,Dordrecht Z.,Dordrecht Zuid,dordrecht-zuid,NL,stoptreinstation,51.790000915527,4.6713891029358,"1111 (2018)[1] per dag
+",1111
+362,2020-07-08 20:04:59,Dordrecht - Roosendaal,Lage Zwaluwe,533.0,ZLW,8400382.0,Lage Zwalu,Lage Zwaluwe,Lage Zwaluwe,lage-zwaluwe,NL,knooppuntStoptreinstation,51.69111251830999,4.663055419921901,"832 (2018)[1] per dag
+",832
+363,2020-07-08 20:04:59,Dordrecht - Roosendaal,Zevenbergen,539.0,ZVB,8400737.0,Zevenbergn,Zevenbergen,Zevenbergen,zevenbergen,NL,stoptreinstation,51.64042,4.60904,"1117 (2018)[1] per dag
+",1117
+364,2020-07-08 20:04:59,Dordrecht - Roosendaal,Oudenbosch,371.0,ODB,8400498.0,Oudenbosch,Oudenbosch,Oudenbosch,oudenbosch,NL,stoptreinstation,51.587776184082,4.5333333015442,"1120 (2018)[1] per dag
+",1120
+365,2020-07-08 20:04:59,Dordrecht - Roosendaal,Roosendaal,405.0,RSD,8400526.0,Roosendaal,Roosendaal,Roosendaal,roosendaal,NL,knooppuntIntercitystation,51.540279388428004,4.4583334922791,"10.317 (2018)[1] per dag
+",10317
+366,2020-07-08 20:04:59,Dordrecht - Rotterdam Centraal,Rotterdam Centraal,411.0,RTD,8400530.0,Rotterdm C,Rotterdam C.,Rotterdam Centraal,rotterdam-centraal,NL,megastation,51.92499923705999,4.468888759613,"96.690 (2018, trein)[1]48.600 (2018, metro)[2]
+",96690
+367,2020-07-08 20:04:59,Dordrecht - Rotterdam Centraal,Rotterdam Blaak,410.0,RTB,8400529.0,Blaak,Blaak,Rotterdam Blaak,rotterdam-blaak,NL,stoptreinstation,51.920276641846,4.4888887405395,"24.006 (2018)[1]
+29.685 (2018, metro)[2]
+
+",24006
+368,2020-07-08 20:04:59,Dordrecht - Rotterdam Centraal,Rotterdam Zuid,414.0,RTZ,8400533.0,Rotterdm Z,Rotterdam Z.,Rotterdam Zuid,rotterdam-zuid,NL,stoptreinstation,51.904445648193,4.5102777481079,"3549 (2018)[1] per dag
+",3549
+369,2020-07-08 20:04:59,Dordrecht - Rotterdam Centraal,Rotterdam Stadion,413.0,RTST,8400534.0,R'dam Sta,R'dam Stadion,Rotterdam Stadion,rotterdam-stadion,NL,facultatiefStation,51.893890380859006,4.5197219848633,,
+370,2020-07-08 20:04:59,Dordrecht - Rotterdam Centraal,Rotterdam Lombardijen,401.0,RLB,8400542.0,Lombardije,Lombardijen,Rotterdam Lombardijen,rotterdam-lombardijen,NL,stoptreinstation,51.88000106811499,4.531388759613,"6610 (2018)[1] per dag
+",6610
+371,2020-07-08 20:04:59,Dordrecht - Rotterdam Centraal,Barendrecht,98.0,BRD,8400090.0,Barendrcht,Barendrecht,Barendrecht,barendrecht,NL,stoptreinstation,51.854721069336,4.5533332824707005,"5709 (2018)[1] per dag
+",5709
+372,2020-07-08 20:04:59,Dordrecht - Rotterdam Centraal,Zwijndrecht,541.0,ZWD,8400752.0,Zwijndrcht,Zwijndrecht,Zwijndrecht,zwijndrecht,NL,stoptreinstation,51.814998626709006,4.6416668891907005,,
+373,2020-07-08 20:04:59,Dordrecht - Rotterdam Centraal,Dordrecht,124.0,DDR,8400180.0,Dordrecht,Dordrecht,Dordrecht,dordrecht,NL,knooppuntIntercitystation,51.807220458984006,4.668333530426,"24.483 (2018)[1] per dag
+",24483
+374,2020-07-08 20:04:59,Dortmund Hbf - Enschede,Glanerbrug,194.0,GBR,8400262.0,Glanerbrug,Glanerbrug,Glanerbrug,glanerbrug,NL,stoptreinstation,52.218612670898,6.9744443893433,,
+375,2020-07-08 20:04:59,Dortmund Hbf - Enschede,Enschede De Eschmarke,181.0,ESE,8400217.0,Eschmarke,De Eschmarke,Enschede De Eschmarke,enschede-de-eschmarke,NL,stoptreinstation,52.221389770508004,6.9511113166809,"54 (2006) per dag
+",54
+376,2020-07-08 20:04:59,Dortmund Hbf - Enschede,Enschede,178.0,ES,8400212.0,Enschede,Enschede,Enschede,enschede,NL,knooppuntIntercitystation,52.222499847412,6.889999866485599,"9792 (2018)[1] per dag (NS)
+",9792
+377,2020-07-08 20:04:59,Groningen - Eemshaven,Groningen,204.0,GN,8400263.0,Groningen,Groningen,Groningen,groningen,NL,knooppuntIntercitystation,53.210556030273,6.5647220611572,,
+378,2020-07-08 20:04:59,Groningen - Eemshaven,Groningen Noord,206.0,GNN,8400264.0,Groningn N,Groningen N.,Groningen Noord,groningen-noord,NL,stoptreinstation,53.2301469,6.5563172000000005,,
+379,2020-07-08 20:04:59,Groningen - Eemshaven,Sauwerd,449.0,SWD,8400547.0,Sauwerd,Sauwerd,Sauwerd,sauwerd,NL,stoptreinstation,53.29113,6.5404,"269 (2009) per dag
+",269
+380,2020-07-08 20:04:59,Groningen - Eemshaven,Winsum,516.0,WSM,8400697.0,Winsum,Winsum,Winsum,winsum,NL,stoptreinstation,53.330099399999995,6.5202905,"2.265 (2009)[1] per dag
+",2265
+381,2020-07-08 20:04:59,Groningen - Eemshaven,Baflo,74.0,BF,8400089.0,Baflo,Baflo,Baflo,baflo,NL,stoptreinstation,53.36089690000001,6.5185581,"754 (2009)[1] per dag
+",754
+382,2020-07-08 20:04:59,Groningen - Eemshaven,Warffum,506.0,WFM,8400679.0,Warffum,Warffum,Warffum,warffum,NL,stoptreinstation,53.3908431,6.5671364,"843 (2009)[1] per dag
+",843
+383,2020-07-08 20:04:59,Groningen - Eemshaven,Usquert,465.0,UST,8400619.0,Usquert,Usquert,Usquert,usquert,NL,stoptreinstation,53.40147420000001,6.6093776,"250 (2008)[1] per dag
+",250
+384,2020-07-08 20:04:59,Groningen - Eemshaven,Uithuizen,462.0,UHZ,8400617.0,Uithuizen,Uithuizen,Uithuizen,uithuizen,NL,stoptreinstation,53.409956799999996,6.674886900000001,"821 (2009)[1] per dag
+",821
+385,2020-07-08 20:04:59,Groningen - Eemshaven,Uithuizermeeden,461.0,UHM,8400618.0,Uithuizerm,Uithuizermeeden,Uithuizermeeden,uithuizermeeden,NL,stoptreinstation,53.4145845,6.720297500000001,"299 (2006)[1] per dag
+",299
+386,2020-07-08 20:04:59,Groningen - Eemshaven,Roodeschool,396.0,RD,8400525.0,Roodeschl,Roodeschool,Roodeschool,roodeschool,NL,stoptreinstation,53.421262,6.7587,,
+387,2020-07-08 20:04:59,Groningen - Eemshaven,Eemshaven,817.0,EEM,8400202.0,Eemshaven,Eemshaven,Eemshaven,eemshaven,NL,stoptreinstation,53.45841899999999,6.832000000000001,,
+388,2020-07-08 20:04:59,Eindhoven - Roermond,Eindhoven Centraal,168.0,EHV,8400206.0,Eindhovn C,Eindhoven C.,Eindhoven Centraal,eindhoven-centraal,NL,megastation,51.443332672119,5.4813890457153,"65.468 (2018)[1] per dag
+",65468
+389,2020-07-08 20:04:59,Eindhoven - Roermond,Geldrop,209.0,GP,8400245.0,Geldrop,Geldrop,Geldrop,geldrop,NL,knooppuntStoptreinstation,51.419723510741996,5.5505557060242,"1511 (2018)[1] per dag
+",1511
+390,2020-07-08 20:04:59,Eindhoven - Roermond,Heeze,276.0,HZE,8400308.0,Heeze,Heeze,Heeze,heeze,NL,stoptreinstation,51.384998321533004,5.5694446563721005,"1628 (2018)[1] per dag
+",1628
+391,2020-07-08 20:04:59,Eindhoven - Roermond,Maarheeze,348.0,MZ,8400432.0,Maarheeze,Maarheeze,Maarheeze,maarheeze,NL,stoptreinstation,51.30376236035,5.630342960357701,"1347 (2018)[1] per dag
+",1347
+392,2020-07-08 20:04:59,Eindhoven - Roermond,Weert,517.0,WT,8400684.0,Weert,Weert,Weert,weert,NL,intercitystation,51.248611450195,5.703610897064201,"7690 (2018)[1] per dag
+",7690
+393,2020-07-08 20:04:59,Eindhoven - Roermond,Roermond,402.0,RM,8400523.0,Roermond,Roermond,Roermond,roermond,NL,knooppuntIntercitystation,51.193054199219,5.9941668510437,"11.378 (2018)[1] per dag (NS)
+",11378
+394,2020-07-08 20:04:59,Eindhoven - Tilburg,Tilburg,453.0,TB,8400597.0,Tilburg,Tilburg,Tilburg,tilburg,NL,knooppuntIntercitystation,51.560554504395,5.083611011505099,"34.503 (2018)[1] per dag
+",34503
+395,2020-07-08 20:04:59,Eindhoven - Tilburg,Oisterwijk,380.0,OT,8400482.0,Oisterwijk,Oisterwijk,Oisterwijk,oisterwijk,NL,stoptreinstation,51.582221984863004,5.1941666603088,"2658 (2018)[1] per dag
+",2658
+396,2020-07-08 20:04:59,Eindhoven - Tilburg,Boxtel,109.0,BTL,8400129.0,Boxtel,Boxtel,Boxtel,boxtel,NL,knooppuntStoptreinstation,51.58433,5.31912,"6428 (2018)[1] per dag
+",6428
+397,2020-07-08 20:04:59,Eindhoven - Tilburg,Best,73.0,BET,8400112.0,Best,Best,Best,best,NL,stoptreinstation,51.509998321533004,5.389166831970201,"6027 (2018)[1] per dag
+",6027
+398,2020-07-08 20:04:59,Eindhoven - Tilburg,Eindhoven Strijp-S,784.0,EHS,8400196.0,Strijp-S,Strijp-S,Eindhoven Strijp-S,eindhoven-strijp-s,NL,stoptreinstation,51.451110839844,5.4558334350586,"3184 (2018)[1] per dag
+",3184
+399,2020-07-08 20:04:59,Eindhoven - Tilburg,Eindhoven Centraal,168.0,EHV,8400206.0,Eindhovn C,Eindhoven C.,Eindhoven Centraal,eindhoven-centraal,NL,megastation,51.443332672119,5.4813890457153,"65.468 (2018)[1] per dag
+",65468
+400,2020-07-08 20:04:59,Eindhoven - Venlo,Eindhoven Centraal,168.0,EHV,8400206.0,Eindhovn C,Eindhoven C.,Eindhoven Centraal,eindhoven-centraal,NL,megastation,51.443332672119,5.4813890457153,"65.468 (2018)[1] per dag
+",65468
+401,2020-07-08 20:04:59,Eindhoven - Venlo,Helmond Brandevoort,249.0,HMBV,8400242.0,Brandevrt,Brandevoort,Helmond Brandevoort,helmond-brandevoort,NL,stoptreinstation,51.462223052979,5.6072220802307,"1493 (2018)[1] per dag
+",1493
+402,2020-07-08 20:04:59,Eindhoven - Venlo,Helmond 't Hout,250.0,HMH,8400300.0,'t Hout,'t Hout,Helmond 't Hout,helmond-t-hout,NL,stoptreinstation,51.467940000000006,5.63085,"1344 (2018)[1] per dag
+",1344
+403,2020-07-08 20:04:59,Eindhoven - Venlo,Helmond,247.0,HM,8400313.0,Helmond,Helmond,Helmond,helmond,NL,knooppuntIntercitystation,51.475555419921996,5.6619443893433,"7419 (2018)[1] per dag
+",7419
+404,2020-07-08 20:04:59,Eindhoven - Venlo,Helmond Brouwhuis,248.0,HMBH,8400299.0,Brouwhuis,Brouwhuis,Helmond Brouwhuis,helmond-brouwhuis,NL,stoptreinstation,51.47068,5.70177,"1766 (2018)[1] per dag
+",1766
+405,2020-07-08 20:04:59,Eindhoven - Venlo,Deurne,137.0,DN,8400172.0,Deurne,Deurne,Deurne,deurne,NL,stoptreinstation,51.455833435059006,5.788888931274401,,
+406,2020-07-08 20:04:59,Eindhoven - Venlo,Horst-Sevenum,265.0,HRT,8400339.0,Horst-Sev,Horst-Sevenum,Horst-Sevenum,horst-sevenum,NL,stoptreinstation,51.42638778686499,6.0422220230103,"2654 (2018)[1] per dag
+",2654
+407,2020-07-08 20:04:59,Eindhoven - Venlo,Blerick,97.0,BR,8400117.0,Blerick,Blerick,Blerick,blerick,NL,stoptreinstation,51.372501373290994,6.1550002098083,"1445 (2018)[1] per dag (NS)
+",1445
+408,2020-07-08 20:04:59,Eindhoven - Venlo,Venlo,487.0,VL,8400644.0,Venlo,Venlo,Venlo,venlo,NL,knooppuntIntercitystation,51.36360931396499,6.1727776527405,"4966 (2018)[1] per dag (NS)
+",4966
+409,2020-07-08 20:04:59,Emmen - Zwolle,Emmen,173.0,EMN,8400208.0,Emmen,Emmen,Emmen,emmen,NL,sneltreinstation,52.790000915527,6.8994445800781,"2.613 (2009)[1] per dag
+",2613
+410,2020-07-08 20:04:59,Emmen - Zwolle,Emmen Zuid,174.0,EMNZ,8400407.0,Emmen Z,Emmen Z.,Emmen Zuid,emmen-zuid,NL,sneltreinstation,52.748866374691,6.8747806549072,,
+411,2020-07-08 20:04:59,Emmen - Zwolle,Nieuw Amsterdam,349.0,,8400454.0,Nw A'dam,Nw. Amsterdam,Nieuw Amsterdam,nieuw-amsterdam,NL,sneltreinstation,52.718612670898,6.8486108779907,"475 (2008)[1] per dag
+",475
+412,2020-07-08 20:04:59,Emmen - Zwolle,Dalen,134.0,DLN,8400161.0,Dalen,Dalen,Dalen,dalen,NL,stoptreinstation,52.69416809082,6.7580556869507005,"253 (2008)[1] per dag
+",253
+413,2020-07-08 20:04:59,Emmen - Zwolle,Coevorden,117.0,CO,8400153.0,Coevorden,Coevorden,Coevorden,coevorden,NL,knooppuntSneltreinstation,52.663612365723,6.7355556488037,"1.399 (2009)[1] per dag
+",1399
+414,2020-07-08 20:04:59,Emmen - Zwolle,Gramsbergen,193.0,GBG,8400259.0,Gramsbergn,Gramsbergen,Gramsbergen,gramsbergen,NL,stoptreinstation,52.60916519165,6.6758332252502,"244 (2008)[1] per dag
+",244
+415,2020-07-08 20:04:59,Emmen - Zwolle,Hardenberg,226.0,HDB,8400293.0,Hardenberg,Hardenberg,Hardenberg,hardenberg,NL,sneltreinstation,52.572776794434006,6.6286110877991,"2.382 (2009)[1] per dag
+",2382
+416,2020-07-08 20:04:59,Emmen - Zwolle,Mariënberg,338.0,MRB,8400428.0,Mariënberg,Mariënberg,Mariënberg,marienberg,NL,knooppuntSneltreinstation,52.50944519043,6.5752778053284,"766 (2009)[1] per dag
+",766
+417,2020-07-08 20:04:59,Emmen - Zwolle,Ommen,376.0,OMN,8400487.0,Ommen,Ommen,Ommen,ommen,NL,knooppuntSneltreinstation,52.50944519043,6.4158334732056,"1.719 (2009) per dag
+",1719
+418,2020-07-08 20:04:59,Emmen - Zwolle,Dalfsen,129.0,DL,8400167.0,Dalfsen,Dalfsen,Dalfsen,dalfsen,NL,sneltreinstation,52.498332977295,6.25861120224,"1.147 (2008)[1] per dag
+",1147
+419,2020-07-08 20:04:59,Emmen - Zwolle,Zwolle,532.0,ZL,8400747.0,Zwolle,Zwolle,Zwolle,zwolle,NL,knooppuntIntercitystation,52.50472259521499,6.0919442176819,"41.100 (2018)[1] per dag (NS)
+",41100
+420,2020-07-08 20:04:59,Enkhuizen - Hoorn,Enkhuizen,170.0,EKZ,8400210.0,Enkhuizen,Enkhuizen,Enkhuizen,enkhuizen,NL,stoptreinstation,52.699165344238004,5.2863888740539995,"2326 (2018)[1] per dag
+",2326
+421,2020-07-08 20:04:59,Enkhuizen - Hoorn,Bovenkarspel Flora,79.0,BKF,8400230.0,Bovenk Flo,Bovenkarspel Fl.,Bovenkarspel Flora,bovenkarspel-flora,NL,stoptreinstation,52.696109771729,5.2527775764464995,"860 (2019)[1] per dag
+",860
+422,2020-07-08 20:04:59,Enkhuizen - Hoorn,Bovenkarspel-Grootebroek,80.0,BKG,8400127.0,Bovenk-Gr,Bovenkarspel-Gr.,Bovenkarspel-Grootebroek,bovenkarspel-grootebroek,NL,stoptreinstation,52.694999694824,5.2377777099609,"2.216 (2018)[1] per dag
+",2216
+423,2020-07-08 20:04:59,Enkhuizen - Hoorn,Hoogkarspel,239.0,HKS,8400334.0,Hoogkrspl,Hoogkarspel,Hoogkarspel,hoogkarspel,NL,stoptreinstation,52.69055557250999,5.1838889122009,"2197 (2018)[1] per dag
+",2197
+424,2020-07-08 20:04:59,Enkhuizen - Hoorn,Hoorn Kersenboogerd,253.0,HNK,8400336.0,Hoorn Kers,Kersenboogerd,Hoorn Kersenboogerd,hoorn-kersenboogerd,NL,stoptreinstation,52.653610229491996,5.0855555534363,"5117 (2018)[1] per dag
+",5117
+425,2020-07-08 20:04:59,Enkhuizen - Hoorn,Hoorn,252.0,HN,8400337.0,Hoorn,Hoorn,Hoorn,hoorn,NL,knooppuntIntercitystation,52.644721984863004,5.0555553436279,"14.306 (2018)[1] per dag
+",14306
+426,2020-07-08 20:04:59,Enschede - Gronau (Westf.),Enschede,178.0,ES,8400212.0,Enschede,Enschede,Enschede,enschede,NL,knooppuntIntercitystation,52.222499847412,6.889999866485599,"9792 (2018)[1] per dag (NS)
+",9792
+427,2020-07-08 20:04:59,Enschede - Gronau (Westf.),Enschede De Eschmarke,181.0,ESE,8400217.0,Eschmarke,De Eschmarke,Enschede De Eschmarke,enschede-de-eschmarke,NL,stoptreinstation,52.221389770508004,6.9511113166809,"54 (2006) per dag
+",54
+428,2020-07-08 20:04:59,Enschede - Gronau (Westf.),Glanerbrug,194.0,GBR,8400262.0,Glanerbrug,Glanerbrug,Glanerbrug,glanerbrug,NL,stoptreinstation,52.218612670898,6.9744443893433,,
+429,2020-07-08 20:04:59,Enschede - Hengelo,Enschede,178.0,ES,8400212.0,Enschede,Enschede,Enschede,enschede,NL,knooppuntIntercitystation,52.222499847412,6.889999866485599,"9792 (2018)[1] per dag (NS)
+",9792
+430,2020-07-08 20:04:59,Enschede - Hengelo,Enschede Kennispark,785.0,ESK,8400221.0,Kennispark,Kennispark,Enschede Kennispark,enschede-kennispark,NL,stoptreinstation,52.23749923705999,6.8388891220093,"391 (2018)[1] per dag (NS)
+",391
+431,2020-07-08 20:04:59,Enschede - Hengelo,Hengelo,233.0,HGL,8400316.0,Hengelo,Hengelo,Hengelo,hengelo,NL,knooppuntIntercitystation,52.261665344238004,6.7938890457153,"6.951 (2018)[1] per dag (NS)
+",6951
+432,2020-07-08 20:04:59,Enschede - Münster (Westf.) Hbf,Enschede,178.0,ES,8400212.0,Enschede,Enschede,Enschede,enschede,NL,knooppuntIntercitystation,52.222499847412,6.889999866485599,"9792 (2018)[1] per dag (NS)
+",9792
+433,2020-07-08 20:04:59,Enschede - Münster (Westf.) Hbf,Enschede De Eschmarke,181.0,ESE,8400217.0,Eschmarke,De Eschmarke,Enschede De Eschmarke,enschede-de-eschmarke,NL,stoptreinstation,52.221389770508004,6.9511113166809,"54 (2006) per dag
+",54
+434,2020-07-08 20:04:59,Enschede - Münster (Westf.) Hbf,Glanerbrug,194.0,GBR,8400262.0,Glanerbrug,Glanerbrug,Glanerbrug,glanerbrug,NL,stoptreinstation,52.218612670898,6.9744443893433,,
+435,2020-07-08 20:04:59,Groningen - Leer (Ostfriesland),Groningen,204.0,GN,8400263.0,Groningen,Groningen,Groningen,groningen,NL,knooppuntIntercitystation,53.210556030273,6.5647220611572,,
+436,2020-07-08 20:04:59,Groningen - Leer (Ostfriesland),Groningen Europapark,201.0,GERP,8400238.0,Europapark,Europapark,Groningen Europapark,groningen-europapark,NL,stoptreinstation,53.20480027,6.5854178,"1592 (2018)[1] per dag (NS)
+",1592
+437,2020-07-08 20:04:59,Groningen - Leer (Ostfriesland),Kropswolde,300.0,KW,8400369.0,Kropswolde,Kropswolde,Kropswolde,kropswolde,NL,stoptreinstation,53.16173620000001,6.7220882,"511 (2009)[1] per dag
+",511
+438,2020-07-08 20:04:59,Groningen - Leer (Ostfriesland),Martenshoek,343.0,MTH,8400430.0,Martenshk,Martenshoek,Martenshoek,martenshoek,NL,stoptreinstation,53.16072320000001,6.7402989,"1.048 (2009)[1] per dag
+",1048
+439,2020-07-08 20:04:59,Groningen - Leer (Ostfriesland),Hoogezand-Sappemeer,236.0,HGZ,8400331.0,Hoogezand,Hoogezand-Sap.,Hoogezand-Sappemeer,hoogezand-sappemeer,NL,knooppuntStoptreinstation,53.159818131676,6.770753860473599,"968 (2009)[1] per dag
+",968
+440,2020-07-08 20:04:59,Groningen - Leer (Ostfriesland),Sappemeer Oost,434.0,SPM,8400545.0,Sappemr O,Sappemeer O.,Sappemeer Oost,sappemeer-oost,NL,stoptreinstation,53.158918299999996,6.7955648,"505 (2009)[1] per dag
+",505
+441,2020-07-08 20:04:59,Groningen - Leer (Ostfriesland),Zuidbroek,527.0,ZB,8400742.0,Zuidbroek,Zuidbroek,Zuidbroek,zuidbroek,NL,knooppuntStoptreinstation,53.159612280006,6.867914199829099,"838 (2009)[1] per dag
+",838
+442,2020-07-08 20:04:59,Groningen - Leer (Ostfriesland),Scheemda,421.0,SDA,8400551.0,Scheemda,Scheemda,Scheemda,scheemda,NL,stoptreinstation,53.165536200000005,6.977777499999999,"714 (2009)[1] per dag
+",714
+443,2020-07-08 20:04:59,Groningen - Leer (Ostfriesland),Winschoten,515.0,WS,8400696.0,Winschoten,Winschoten,Winschoten,winschoten,NL,knooppuntStoptreinstation,53.139237699999995,7.035100999999999,"2.619 (2009)[1] per dag
+",2619
+444,2020-07-08 20:04:59,Groningen - Leer (Ostfriesland),Bad Nieuweschans,361.0,NSCH,8400457.0,Nweschans,Bad Nieuweschans,Bad Nieuweschans,bad-nieuweschans,NL,knooppuntStoptreinstation,53.1844,7.19937,"476 (2009)[1] per dag
+",476
+445,2020-07-08 20:04:59,Groningen - Leeuwarden,Groningen,204.0,GN,8400263.0,Groningen,Groningen,Groningen,groningen,NL,knooppuntIntercitystation,53.210556030273,6.5647220611572,,
+446,2020-07-08 20:04:59,Groningen - Leeuwarden,Zuidhorn,531.0,ZH,8400743.0,Zuidhorn,Zuidhorn,Zuidhorn,zuidhorn,NL,stoptreinstation,53.2486292,6.4062361,,
+447,2020-07-08 20:04:59,Groningen - Leeuwarden,Grijpskerk,202.0,GK,8400267.0,Grijpskerk,Grijpskerk,Grijpskerk,grijpskerk,NL,stoptreinstation,53.255740325572994,6.3097786903381,,
+448,2020-07-08 20:04:59,Groningen - Leeuwarden,Buitenpost,96.0,BP,8400139.0,Buitenpost,Buitenpost,Buitenpost,buitenpost,NL,knooppuntSneltreinstation,53.2564547,6.1446496,,
+449,2020-07-08 20:04:59,Groningen - Leeuwarden,De Westereen,783.0,DWE,8400745.0,Westereen,De Westereen,De Westereen,de-westereen,NL,stoptreinstation,53.248169999999995,6.03463,,
+450,2020-07-08 20:04:59,Groningen - Leeuwarden,Feanwâlden,786.0,FWD,8400638.0,Feanwâlden,Feanwâlden,Feanwâlden,feanwalden,NL,stoptreinstation,53.235183400000004,5.9886615,,
+451,2020-07-08 20:04:59,Groningen - Leeuwarden,Hurdegaryp,228.0,HDG,8400292.0,Hurdegaryp,Hurdegaryp,Hurdegaryp,hurdegaryp,NL,stoptreinstation,53.2187783,5.934543,,
+452,2020-07-08 20:04:59,Groningen - Leeuwarden,Leeuwarden Camminghaburen,322.0,LWC,8400389.0,Camminghab,Camminghaburen,Leeuwarden Camminghaburen,leeuwarden-camminghaburen,NL,stoptreinstation,53.202180799999994,5.8422968,"784 (2009)[1] per dag
+",784
+453,2020-07-08 20:04:59,Groningen - Leeuwarden,Leeuwarden,321.0,LW,8400387.0,Leeuwarden,Leeuwarden,Leeuwarden,leeuwarden,NL,knooppuntIntercitystation,53.195835113525,5.7922220230103,"10.393 (2018)[1] per dag (NS)
+",10393
+454,2020-07-08 20:04:59,Groningen - Veendam,Groningen,204.0,GN,8400263.0,Groningen,Groningen,Groningen,groningen,NL,knooppuntIntercitystation,53.210556030273,6.5647220611572,,
+455,2020-07-08 20:04:59,Groningen - Veendam,Groningen Europapark,201.0,GERP,8400238.0,Europapark,Europapark,Groningen Europapark,groningen-europapark,NL,stoptreinstation,53.20480027,6.5854178,"1592 (2018)[1] per dag (NS)
+",1592
+456,2020-07-08 20:04:59,Groningen - Veendam,Kropswolde,300.0,KW,8400369.0,Kropswolde,Kropswolde,Kropswolde,kropswolde,NL,stoptreinstation,53.16173620000001,6.7220882,"511 (2009)[1] per dag
+",511
+457,2020-07-08 20:04:59,Groningen - Veendam,Martenshoek,343.0,MTH,8400430.0,Martenshk,Martenshoek,Martenshoek,martenshoek,NL,stoptreinstation,53.16072320000001,6.7402989,"1.048 (2009)[1] per dag
+",1048
+458,2020-07-08 20:04:59,Groningen - Veendam,Hoogezand-Sappemeer,236.0,HGZ,8400331.0,Hoogezand,Hoogezand-Sap.,Hoogezand-Sappemeer,hoogezand-sappemeer,NL,knooppuntStoptreinstation,53.159818131676,6.770753860473599,"968 (2009)[1] per dag
+",968
+459,2020-07-08 20:04:59,Groningen - Veendam,Sappemeer Oost,434.0,SPM,8400545.0,Sappemr O,Sappemeer O.,Sappemeer Oost,sappemeer-oost,NL,stoptreinstation,53.158918299999996,6.7955648,"505 (2009)[1] per dag
+",505
+460,2020-07-08 20:04:59,Groningen - Veendam,Zuidbroek,527.0,ZB,8400742.0,Zuidbroek,Zuidbroek,Zuidbroek,zuidbroek,NL,knooppuntStoptreinstation,53.159612280006,6.867914199829099,"838 (2009)[1] per dag
+",838
+461,2020-07-08 20:04:59,Groningen - Veendam,Veendam,543.0,VDM,8400636.0,Veendam,Veendam,Veendam,veendam,NL,knooppuntStoptreinstation,53.10324,6.88475,,
+462,2020-07-08 20:04:59,Groningen - Zwolle,Groningen,204.0,GN,8400263.0,Groningen,Groningen,Groningen,groningen,NL,knooppuntIntercitystation,53.210556030273,6.5647220611572,,
+463,2020-07-08 20:04:59,Groningen - Zwolle,Groningen Europapark,201.0,GERP,8400238.0,Europapark,Europapark,Groningen Europapark,groningen-europapark,NL,stoptreinstation,53.20480027,6.5854178,"1592 (2018)[1] per dag (NS)
+",1592
+464,2020-07-08 20:04:59,Groningen - Zwolle,Haren,264.0,HRN,8400297.0,Haren,Haren,Haren,haren,NL,stoptreinstation,53.17610931396499,6.6172223091125,,
+465,2020-07-08 20:04:59,Groningen - Zwolle,Assen,49.0,ASN,8400073.0,Assen,Assen,Assen,assen,NL,knooppuntIntercitystation,52.991664886475,6.5708332061768,"8569 (2018)[1] per dag
+",8569
+466,2020-07-08 20:04:59,Groningen - Zwolle,Beilen,82.0,BL,8400100.0,Beilen,Beilen,Beilen,beilen,NL,stoptreinstation,52.854721069336,6.521111011505099,"2121 (2018)[1] per dag
+",2121
+467,2020-07-08 20:04:59,Groningen - Zwolle,Hoogeveen,235.0,HGV,8400330.0,Hoogeveen,Hoogeveen,Hoogeveen,hoogeveen,NL,stoptreinstation,52.733890533446996,6.4736108779907,"4667 (2018)[1] per dag
+",4667
+468,2020-07-08 20:04:59,Groningen - Zwolle,Meppel,337.0,MP,8400435.0,Meppel,Meppel,Meppel,meppel,NL,knooppuntStoptreinstation,52.69083404540999,6.1975002288818,"6342 (2018)[1] per dag
+",6342
+469,2020-07-08 20:04:59,Groningen - Zwolle,Zwolle,532.0,ZL,8400747.0,Zwolle,Zwolle,Zwolle,zwolle,NL,knooppuntIntercitystation,52.50472259521499,6.0919442176819,"41.100 (2018)[1] per dag (NS)
+",41100
+470,2020-07-08 20:04:59,Haarlem - Leiden Centraal,Haarlem,244.0,HLM,8400285.0,Haarlem,Haarlem,Haarlem,haarlem,NL,knooppuntIntercitystation,52.38777923584001,4.638333320617701,"42.040 (2018)[1] per dag
+",42040
+471,2020-07-08 20:04:59,Haarlem - Leiden Centraal,Heemstede-Aerdenhout,219.0,HAD,8400302.0,Heemstede,Heemstede-A.,Heemstede-Aerdenhout,heemstede-aerdenhout,NL,intercitystation,52.35916519165,4.6066665649414,"7118 (2018)[1] per dag
+",7118
+472,2020-07-08 20:04:59,Haarlem - Leiden Centraal,Hillegom,237.0,HIL,8400329.0,Hillegom,Hillegom,Hillegom,hillegom,NL,stoptreinstation,52.302501678466996,4.565555572509799,"2576 (2018)[1] per dag
+",2576
+473,2020-07-08 20:04:59,Haarlem - Leiden Centraal,Voorhout,483.0,VH,8400655.0,Voorhout,Voorhout,Voorhout,voorhout,NL,stoptreinstation,52.224445343018,4.484444618225099,"3424 (2018)[1] per dag
+",3424
+474,2020-07-08 20:04:59,Haarlem - Leiden Centraal,Leiden Centraal,308.0,LEDN,8400390.0,Leiden C,Leiden C.,Leiden Centraal,leiden-centraal,NL,knooppuntIntercitystation,52.166110992432,4.4816665649414,"79.376 (2018)[1] per dag
+",79376
+475,2020-07-08 20:04:59,Haarlem - Uitgeest,Haarlem,244.0,HLM,8400285.0,Haarlem,Haarlem,Haarlem,haarlem,NL,knooppuntIntercitystation,52.38777923584001,4.638333320617701,"42.040 (2018)[1] per dag
+",42040
+476,2020-07-08 20:04:59,Haarlem - Uitgeest,Bloemendaal,83.0,BLL,8400118.0,Bloemendl,Bloemendaal,Bloemendaal,bloemendaal,NL,stoptreinstation,52.404167175293,4.6275000572205,"1438 (2018)[1] per dag
+",1438
+477,2020-07-08 20:04:59,Haarlem - Uitgeest,Santpoort Zuid,436.0,SPTZ,8400544.0,Santprt Z,Santpoort Z.,Santpoort Zuid,santpoort-zuid,NL,stoptreinstation,52.419723510741996,4.631388664245599,"901 (2018)[1] per dag
+",901
+478,2020-07-08 20:04:59,Haarlem - Uitgeest,Santpoort Noord,435.0,SPTN,8400543.0,Santprt N,Santpoort N.,Santpoort Noord,santpoort-noord,NL,stoptreinstation,52.43388748169001,4.6325001716614,"833 (2018)[1] per dag
+",833
+479,2020-07-08 20:04:59,Haarlem - Uitgeest,Driehuis,142.0,DRH,8400183.0,Driehuis,Driehuis,Driehuis,driehuis,NL,stoptreinstation,52.44250106811499,4.638055324554401,"1072 (2018)[1] per dag
+",1072
+480,2020-07-08 20:04:59,Haarlem - Uitgeest,Beverwijk,111.0,BV,8400113.0,Beverwijk,Beverwijk,Beverwijk,beverwijk,NL,intercitystation,52.478332519531,4.6566667556763,"5239 (2018)[1] per dag
+",5239
+481,2020-07-08 20:04:59,Haarlem - Uitgeest,Heemskerk,238.0,HK,8400317.0,Heemskerk,Heemskerk,Heemskerk,heemskerk,NL,stoptreinstation,52.49527740478501,4.6869444847107,"2664 (2018)[1] per dag
+",2664
+482,2020-07-08 20:04:59,Haarlem - Uitgeest,Uitgeest,468.0,UTG,8400615.0,Uitgeest,Uitgeest,Uitgeest,uitgeest,NL,knooppuntStoptreinstation,52.521667480469,4.7016668319702,"4987 (2018)[1] per dag
+",4987
+483,2020-07-08 20:04:59,Haarlem - Zandvoort aan Zee,Haarlem,244.0,HLM,8400285.0,Haarlem,Haarlem,Haarlem,haarlem,NL,knooppuntIntercitystation,52.38777923584001,4.638333320617701,"42.040 (2018)[1] per dag
+",42040
+484,2020-07-08 20:04:59,Haarlem - Zandvoort aan Zee,Overveen,382.0,OVN,8400501.0,Overveen,Overveen,Overveen,overveen,NL,stoptreinstation,52.391109466553004,4.6061110496521,"2391 (2018)[1] per dag
+",2391
+485,2020-07-08 20:04:59,Haarlem - Zandvoort aan Zee,Zandvoort aan Zee,540.0,ZVT,8400733.0,Zandvoort,Zandvoort,Zandvoort aan Zee,zandvoort-aan-zee,NL,stoptreinstation,52.3752784729,4.5327777862549,"5704 (2018)[1] per dag
+",5704
+486,2020-07-08 20:04:59,Hamm (Westf.) - Venlo,Venlo,487.0,VL,8400644.0,Venlo,Venlo,Venlo,venlo,NL,knooppuntIntercitystation,51.36360931396499,6.1727776527405,"4966 (2018)[1] per dag (NS)
+",4966
+487,2020-07-08 20:04:59,Harlingen Haven - Leeuwarden,Harlingen Haven,243.0,HLGH,8400298.0,Harl Haven,Harlingen Haven,Harlingen Haven,harlingen-haven,NL,stoptreinstation,53.174917,5.4112885,"496 (2009)[1] per dag
+",496
+488,2020-07-08 20:04:59,Harlingen Haven - Leeuwarden,Harlingen,242.0,HLG,8400296.0,Harlingen,Harlingen,Harlingen,harlingen,NL,stoptreinstation,53.1704205,5.4251932,"1.613 (2009)[1] per dag
+",1613
+489,2020-07-08 20:04:59,Harlingen Haven - Leeuwarden,Franeker,187.0,FN,8400232.0,Franeker,Franeker,Franeker,franeker,NL,stoptreinstation,53.1824488,5.548309400000001,"839 (2009)[1] per dag
+",839
+490,2020-07-08 20:04:59,Harlingen Haven - Leeuwarden,Dronryp,143.0,DRP,8400192.0,Dronryp,Dronryp,Dronryp,dronryp,NL,stoptreinstation,53.1778086,5.634741099999999,"144 (2009)[1] per dag
+",144
+491,2020-07-08 20:04:59,Harlingen Haven - Leeuwarden,Deinum,127.0,DEI,8400168.0,Deinum,Deinum,Deinum,deinum,NL,stoptreinstation,53.1888115,5.7281572,"154 (2009)[1] per dag
+",154
+492,2020-07-08 20:04:59,Harlingen Haven - Leeuwarden,Leeuwarden,321.0,LW,8400387.0,Leeuwarden,Leeuwarden,Leeuwarden,leeuwarden,NL,knooppuntIntercitystation,53.195835113525,5.7922220230103,"10.393 (2018)[1] per dag (NS)
+",10393
+493,2020-07-08 20:04:59,Heerlen - Kerkrade Centrum,Heerlen,261.0,HRL,8400307.0,Heerlen,Heerlen,Heerlen,heerlen,NL,knooppuntIntercitystation,50.89083480835,5.9749999046325994,"4864 (2018)[1] per dag (NS)
+",4864
+494,2020-07-08 20:04:59,Heerlen - Kerkrade Centrum,Landgraaf,312.0,LG,8400548.0,Landgraaf,Landgraaf,Landgraaf,landgraaf,NL,knooppuntStoptreinstation,50.896389007568,6.0191664695739995,,
+495,2020-07-08 20:04:59,Heerlen - Kerkrade Centrum,Eygelshoven,165.0,EGH,8400338.0,Eygelshov,Eygelshoven,Eygelshoven,eygelshoven,NL,stoptreinstation,50.890556335449,6.0450000762939,,
+496,2020-07-08 20:04:59,Heerlen - Kerkrade Centrum,Chevremont,120.0,CVM,8400152.0,Chevremont,Chevremont,Chevremont,chevremont,NL,stoptreinstation,50.876110076904,6.0597224235535005,,
+497,2020-07-08 20:04:59,Heerlen - Kerkrade Centrum,Kerkrade Centrum,295.0,KRD,8400355.0,Kerkrade C,Kerkrade C.,Kerkrade Centrum,kerkrade-centrum,NL,knooppuntStoptreinstation,50.861667633057,6.0574998855591,,
+498,2020-07-08 20:04:59,Heerlen - Maastricht,Heerlen,261.0,HRL,8400307.0,Heerlen,Heerlen,Heerlen,heerlen,NL,knooppuntIntercitystation,50.89083480835,5.9749999046325994,"4864 (2018)[1] per dag (NS)
+",4864
+499,2020-07-08 20:04:59,Heerlen - Maastricht,Heerlen Woonboulevard,262.0,HRLW,8400404.0,Heerlen W,Hrl Woonblvd,Heerlen Woonboulevard,heerlen-woonboulevard,NL,stoptreinstation,50.896667,5.952222,,
+500,2020-07-08 20:04:59,Heerlen - Maastricht,Voerendaal,478.0,VDL,8400656.0,Voerendaal,Voerendaal,Voerendaal,voerendaal,NL,stoptreinstation,50.887222290039,5.930277824401901,,
+501,2020-07-08 20:04:59,Heerlen - Maastricht,Klimmen-Ransdaal,287.0,KMR,8400362.0,Klimmen-R,Klimmen-Ransdaal,Klimmen-Ransdaal,klimmen-ransdaal,NL,stoptreinstation,50.866390228271,5.8905553817749,,
+502,2020-07-08 20:04:59,Heerlen - Maastricht,Schin op Geul,433.0,SOG,8400555.0,Schin op G,Schin op Geul,Schin op Geul,schin-op-geul,NL,stoptreinstation,50.856388092040994,5.8722224235535005,,
+503,2020-07-08 20:04:59,Heerlen - Maastricht,Valkenburg,486.0,VK,8400632.0,Valkenburg,Valkenburg,Valkenburg,valkenburg,NL,knooppuntSneltreinstation,50.869720458984006,5.8322219848633,,
+504,2020-07-08 20:04:59,Heerlen - Maastricht,Houthem-St. Gerlach,426.0,SGL,8400341.0,Houthem-St,Houthem-St Gerl.,Houthem-St. Gerlach,houthem-st-gerlach,NL,stoptreinstation,50.873332977295,5.7972221374512,,
+505,2020-07-08 20:04:59,Heerlen - Maastricht,Meerssen,331.0,MES,8400434.0,Meerssen,Meerssen,Meerssen,meerssen,NL,sneltreinstation,50.882879392551004,5.7509994506836,,
+506,2020-07-08 20:04:59,Heerlen - Maastricht,Maastricht Noord,723.0,MTN,8400449.0,Maastr. N,Maastricht N.,Maastricht Noord,maastricht-noord,NL,stoptreinstation,50.870870000000004,5.71774,,
+507,2020-07-08 20:04:59,Heerlen - Maastricht,Maastricht,342.0,MT,8400424.0,Maastricht,Maastricht,Maastricht,maastricht,NL,knooppuntIntercitystation,50.850276947021,5.7055554389954,"11.854 (2018)[1] per dag (NS)
+",11854
+508,2020-07-08 20:04:59,Heerlen - Sittard,Heerlen,261.0,HRL,8400307.0,Heerlen,Heerlen,Heerlen,heerlen,NL,knooppuntIntercitystation,50.89083480835,5.9749999046325994,"4864 (2018)[1] per dag (NS)
+",4864
+509,2020-07-08 20:04:59,Heerlen - Sittard,Hoensbroek,224.0,HB,8400326.0,Hoensbroek,Hoensbroek,Hoensbroek,hoensbroek,NL,stoptreinstation,50.905555725098,5.9305553436278995,"205 (2016)[1] per dag
+",205
+510,2020-07-08 20:04:59,Heerlen - Sittard,Nuth,352.0,NH,8400467.0,Nuth,Nuth,Nuth,nuth,NL,stoptreinstation,50.919445037841996,5.8927779197693,"486 (2016)[1] per dag
+",486
+511,2020-07-08 20:04:59,Heerlen - Sittard,Schinnen,432.0,SN,8400554.0,Schinnen,Schinnen,Schinnen,schinnen,NL,stoptreinstation,50.939167022705,5.8744444847107005,"259 (2016)[1] per dag
+",259
+512,2020-07-08 20:04:59,Heerlen - Sittard,Spaubeek,417.0,SBK,8400572.0,Spaubeek,Spaubeek,Spaubeek,spaubeek,NL,stoptreinstation,50.94327,5.850529,"240 (2016)[1] per dag
+",240
+513,2020-07-08 20:04:59,Heerlen - Sittard,Geleen Oost,203.0,GLN,8400246.0,Geleen O,Geleen O.,Geleen Oost,geleen-oost,NL,stoptreinstation,50.966945648193,5.843055725097701,"629 (2016)[1] per dag
+",629
+514,2020-07-08 20:04:59,Heerlen - Sittard,Sittard,440.0,STD,8400564.0,Sittard,Sittard,Sittard,sittard,NL,knooppuntIntercitystation,51.001667022705,5.8586111068725994,"10.286 (2018)[1] per dag (NS)
+",10286
+515,2020-07-08 20:04:59,Hengelo - Oldenzaal,Hengelo,233.0,HGL,8400316.0,Hengelo,Hengelo,Hengelo,hengelo,NL,knooppuntIntercitystation,52.261665344238004,6.7938890457153,"6.951 (2018)[1] per dag (NS)
+",6951
+516,2020-07-08 20:04:59,Hengelo - Oldenzaal,Hengelo Oost,234.0,HGLO,8400312.0,Hengelo O,Hengelo O.,Hengelo Oost,hengelo-oost,NL,stoptreinstation,52.268890380859006,6.8194446563721005,,
+517,2020-07-08 20:04:59,Hengelo - Oldenzaal,Oldenzaal,372.0,ODZ,8400483.0,Oldenzaal,Oldenzaal,Oldenzaal,oldenzaal,NL,stoptreinstation,52.30638885498,6.9347224235535005,,
+518,2020-07-08 20:04:59,Hengelo - Zutphen,Hengelo,233.0,HGL,8400316.0,Hengelo,Hengelo,Hengelo,hengelo,NL,knooppuntIntercitystation,52.261665344238004,6.7938890457153,"6.951 (2018)[1] per dag (NS)
+",6951
+519,2020-07-08 20:04:59,Hengelo - Zutphen,Hengelo Gezondheidspark,686.0,HGLG,8400433.0,Gezondhprk,Hengelo Gezondh.,Hengelo Gezondheidspark,hengelo-gezondheidspark,NL,stoptreinstation,52.261666999999996,6.773611,,
+520,2020-07-08 20:04:59,Hengelo - Zutphen,Delden,123.0,DDN,8400169.0,Delden,Delden,Delden,delden,NL,stoptreinstation,52.259998321533004,6.7161111831665,,
+521,2020-07-08 20:04:59,Hengelo - Zutphen,Goor,207.0,GO,8400254.0,Goor,Goor,Goor,goor,NL,stoptreinstation,52.230278015136996,6.584444522857701,"1.688 per dag
+",1688
+522,2020-07-08 20:04:59,Hengelo - Zutphen,Lochem,304.0,LC,8400399.0,Lochem,Lochem,Lochem,lochem,NL,stoptreinstation,52.166667938232,6.426388740539499,,
+523,2020-07-08 20:04:59,Hengelo - Zutphen,Zutphen,534.0,ZP,8400744.0,Zutphen,Zutphen,Zutphen,zutphen,NL,knooppuntIntercitystation,52.145278930664,6.1941666603088,"11.988 (2018)[1] per dag (NS)
+",11988
+524,2020-07-08 20:04:59,Hilversum - Utrecht Centraal,Hilversum,271.0,HVS,8400322.0,Hilversum,Hilversum,Hilversum,hilversum,NL,knooppuntIntercitystation,52.225833892821996,5.1819443702698,"26.697 (2018)[2] per dag
+",26697
+525,2020-07-08 20:04:59,Hilversum - Utrecht Centraal,Hilversum Sportpark,273.0,HVSP,8400570.0,Sportpark,Sportpark,Hilversum Sportpark,hilversum-sportpark,NL,stoptreinstation,52.216110229491996,5.1872220039367996,"7703 (2018)[2] per dag
+",7703
+526,2020-07-08 20:04:59,Hilversum - Utrecht Centraal,Hollandsche Rading,259.0,HOR,8400327.0,Hol Rading,Holl. Rading,Hollandsche Rading,hollandsche-rading,NL,stoptreinstation,52.17777633667,5.1791667938232,"938 (2018)[2] per dag
+",938
+527,2020-07-08 20:04:59,Hilversum - Utrecht Centraal,Utrecht Overvecht,471.0,UTO,8400620.0,Overvecht,Overvecht,Utrecht Overvecht,utrecht-overvecht,NL,knooppuntStoptreinstation,52.110000610352,5.1247220039367996,"8677 (2018)[2] per dag
+",8677
+528,2020-07-08 20:04:59,Hilversum - Utrecht Centraal,Utrecht Centraal,467.0,UT,8400621.0,Utrecht C,Utrecht C.,Utrecht Centraal,utrecht-centraal,NL,megastation,52.088890075684006,5.1102776527405,"194.385 (2018)[2] per dag
+",194385
+529,2020-07-08 20:04:59,Kampen - Zwolle,Kampen,294.0,KPN,8400353.0,Kampen,Kampen,Kampen,kampen,NL,stoptreinstation,52.559722900390994,5.9216666221619,"3803 (2017)[1] per dag (NS)
+",3803
+530,2020-07-08 20:04:59,Kampen - Zwolle,Zwolle Stadshagen,815.0,ZLSH,8400746.0,Stadshagen,Stadshagen,Zwolle Stadshagen,zwolle-stadshagen,NL,stoptreinstation,52.527640000000005,6.05146,,
+531,2020-07-08 20:04:59,Kampen - Zwolle,Zwolle,532.0,ZL,8400747.0,Zwolle,Zwolle,Zwolle,zwolle,NL,knooppuntIntercitystation,52.50472259521499,6.0919442176819,"41.100 (2018)[1] per dag (NS)
+",41100
+532,2020-07-08 20:04:59,Leeuwarden - Stavoren,Leeuwarden,321.0,LW,8400387.0,Leeuwarden,Leeuwarden,Leeuwarden,leeuwarden,NL,knooppuntIntercitystation,53.195835113525,5.7922220230103,"10.393 (2018)[1] per dag (NS)
+",10393
+533,2020-07-08 20:04:59,Leeuwarden - Stavoren,Mantgum,333.0,MG,8400427.0,Mantgum,Mantgum,Mantgum,mantgum,NL,stoptreinstation,53.1296368,5.7131996,"588 (2018)[1] per dag
+",588
+534,2020-07-08 20:04:59,Leeuwarden - Stavoren,Sneek Noord,430.0,SKND,8400574.0,Sneek N,Sneek N.,Sneek Noord,sneek-noord,NL,stoptreinstation,53.040931900000004,5.6631808,"959 (2018)[1] per dag
+",959
+535,2020-07-08 20:04:59,Leeuwarden - Stavoren,Sneek,429.0,SK,8400566.0,Sneek,Sneek,Sneek,sneek,NL,knooppuntStoptreinstation,53.032868799999996,5.6523969,"3.312 (2018)[1] per dag
+",3312
+536,2020-07-08 20:04:59,Leeuwarden - Stavoren,IJlst,277.0,IJT,8400722.0,IJlst,IJlst,IJlst,ijlst,NL,stoptreinstation,53.014661399999994,5.6160801,"65 (2018)[1] per dag
+",65
+537,2020-07-08 20:04:59,Leeuwarden - Stavoren,Workum,509.0,WK,8400706.0,Workum,Workum,Workum,workum,NL,stoptreinstation,52.972486399999994,5.4564285,"789 (2018)[1] per dag
+",789
+538,2020-07-08 20:04:59,Leeuwarden - Stavoren,Hindeloopen,255.0,HNP,8400323.0,Hindeloopn,Hindeloopen,Hindeloopen,hindeloopen,NL,stoptreinstation,52.946490299999994,5.423063,"41 (2018)[1] per dag
+",41
+539,2020-07-08 20:04:59,Leeuwarden - Stavoren,Koudum-Molkwerum,288.0,KMW,8400366.0,Koudum-M,Koudum-Molkwerum,Koudum-Molkwerum,koudum-molkwerum,NL,stoptreinstation,52.9028197,5.4106913,"49 (2018)[1] per dag
+",49
+540,2020-07-08 20:04:59,Leeuwarden - Stavoren,Stavoren,447.0,STV,8400575.0,Stavoren,Stavoren,Stavoren,stavoren,NL,stoptreinstation,52.886553500000005,5.3600212,"334 (2018)[1] per dag
+",334
+541,2020-07-08 20:04:59,Leeuwarden - Zwolle,Leeuwarden,321.0,LW,8400387.0,Leeuwarden,Leeuwarden,Leeuwarden,leeuwarden,NL,knooppuntIntercitystation,53.195835113525,5.7922220230103,"10.393 (2018)[1] per dag (NS)
+",10393
+542,2020-07-08 20:04:59,Leeuwarden - Zwolle,Grou-Jirnsum,217.0,GW,8400266.0,Grou-Jirns,Grou-Jirnsum,Grou-Jirnsum,grou-jirnsum,NL,stoptreinstation,53.088890075684006,5.8225002288818,"870 (2018)[1] per dag
+",870
+543,2020-07-08 20:04:59,Leeuwarden - Zwolle,Akkrum,14.0,AKM,8400049.0,Akkrum,Akkrum,Akkrum,akkrum,NL,stoptreinstation,53.046390533446996,5.843611240387,"762 (2018)[1] per dag
+",762
+544,2020-07-08 20:04:59,Leeuwarden - Zwolle,Heerenveen,260.0,HR,8400305.0,Heerenveen,Heerenveen,Heerenveen,heerenveen,NL,intercitystation,52.961387634277,5.9141664505005,"6236 (2018)[1] per dag
+",6236
+545,2020-07-08 20:04:59,Leeuwarden - Zwolle,Heerenveen IJsstadion,599.0,HRY,8400301.0,IJsstadion,IJsstadion,Heerenveen IJsstadion,heerenveen-ijsstadion,NL,facultatiefStation,52.935276031494,5.943888664245599,,
+546,2020-07-08 20:04:59,Leeuwarden - Zwolle,Wolvega,521.0,WV,8400705.0,Wolvega,Wolvega,Wolvega,wolvega,NL,stoptreinstation,52.880832672119,6.0036110877991,"1575 (2018)[1] per dag
+",1575
+547,2020-07-08 20:04:59,Leeuwarden - Zwolle,Steenwijk,450.0,SWK,8400578.0,Steenwijk,Steenwijk,Steenwijk,steenwijk,NL,intercitystation,52.791510992432,6.114555763244599,"3.825 (2018)[1] per dag (NS)
+",3825
+548,2020-07-08 20:04:59,Leeuwarden - Zwolle,Meppel,337.0,MP,8400435.0,Meppel,Meppel,Meppel,meppel,NL,knooppuntStoptreinstation,52.69083404540999,6.1975002288818,"6342 (2018)[1] per dag
+",6342
+549,2020-07-08 20:04:59,Leeuwarden - Zwolle,Zwolle,532.0,ZL,8400747.0,Zwolle,Zwolle,Zwolle,zwolle,NL,knooppuntIntercitystation,52.50472259521499,6.0919442176819,"41.100 (2018)[1] per dag (NS)
+",41100
+550,2020-07-08 20:04:59,Leiden Centraal - Schiphol Airport,Leiden Centraal,308.0,LEDN,8400390.0,Leiden C,Leiden C.,Leiden Centraal,leiden-centraal,NL,knooppuntIntercitystation,52.166110992432,4.4816665649414,"79.376 (2018)[1] per dag
+",79376
+551,2020-07-08 20:04:59,Leiden Centraal - Schiphol Airport,Sassenheim,544.0,SSH,8400603.0,Sassenheim,Sassenheim,Sassenheim,sassenheim,NL,stoptreinstation,52.215278000000005,4.517222,"4808 (2018)[2] per dag
+",4808
+552,2020-07-08 20:04:59,Leiden Centraal - Schiphol Airport,Nieuw Vennep,364.0,NVP,8400460.0,Nw Vennep,Nieuw Vennep,Nieuw Vennep,nieuw-vennep,NL,stoptreinstation,52.258888244629,4.6455554962158,,
+553,2020-07-08 20:04:59,Leiden Centraal - Schiphol Airport,Hoofddorp,232.0,HFD,8400332.0,Hoofddorp,Hoofddorp,Hoofddorp,hoofddorp,NL,stoptreinstation,52.293334960938,4.700555324554401,,
+554,2020-07-08 20:04:59,Leiden Centraal - Schiphol Airport,Schiphol Airport,428.0,SHL,8400561.0,Schiphol,Schiphol Airport,Schiphol Airport,schiphol-airport,NL,megastation,52.30944442749001,4.7619442939758,"92.214 (2018)[2] per dag (NS)
+",92214
+555,2020-07-08 20:04:59,Leiden Centraal - Utrecht Centraal,Leiden Centraal,308.0,LEDN,8400390.0,Leiden C,Leiden C.,Leiden Centraal,leiden-centraal,NL,knooppuntIntercitystation,52.166110992432,4.4816665649414,"79.376 (2018)[1] per dag
+",79376
+556,2020-07-08 20:04:59,Leiden Centraal - Utrecht Centraal,Leiden Lammenschans,306.0,LDL,8400384.0,Leiden Lam,Lammenschans,Leiden Lammenschans,leiden-lammenschans,NL,stoptreinstation,52.146945953369,4.4924998283386,"4591 (2018)[2] per dag
+",4591
+557,2020-07-08 20:04:59,Leiden Centraal - Utrecht Centraal,Alphen a/d Rijn,36.0,APN,8400053.0,Alphen,Alphen a/d Rijn,Alphen a/d Rijn,alphen-a-d-rijn,NL,knooppuntIntercitystation,52.124443054199,4.6577777862549,"10.759 (2018)[1] per dag
+",10759
+558,2020-07-08 20:04:59,Leiden Centraal - Utrecht Centraal,Bodegraven,63.0,BDG,8400121.0,Bodegraven,Bodegraven,Bodegraven,bodegraven,NL,stoptreinstation,52.081390380859006,4.7461109161377,"3232 (2017)[1] per dag
+",3232
+559,2020-07-08 20:04:59,Leiden Centraal - Utrecht Centraal,Woerden,503.0,WD,8400702.0,Woerden,Woerden,Woerden,woerden,NL,knooppuntStoptreinstation,52.084999084473,4.8936109542847,"13.358 (2018)[1] per dag
+",13358
+560,2020-07-08 20:04:59,Leiden Centraal - Utrecht Centraal,Vleuten,497.0,VTN,8400651.0,Vleuten,Vleuten,Vleuten,vleuten,NL,stoptreinstation,52.103056,5.007404,"4288 (2018)[1] per dag
+",4288
+561,2020-07-08 20:04:59,Leiden Centraal - Utrecht Centraal,Utrecht Terwijde,472.0,UTT,8400614.0,Terwijde,Terwijde,Utrecht Terwijde,utrecht-terwijde,NL,stoptreinstation,52.1000753,5.0439547,"3907 (2018)[1] per dag
+",3907
+562,2020-07-08 20:04:59,Leiden Centraal - Utrecht Centraal,Utrecht Leidsche Rijn,718.0,UTLR,8400607.0,LeidscheRn,Leidsche Rijn,Utrecht Leidsche Rijn,utrecht-leidsche-rijn,NL,stoptreinstation,52.09896,5.065230000000001,"2766 (2018)[1] per dag
+",2766
+563,2020-07-08 20:04:59,Leiden Centraal - Utrecht Centraal,Utrecht Centraal,467.0,UT,8400621.0,Utrecht C,Utrecht C.,Utrecht Centraal,utrecht-centraal,NL,megastation,52.088890075684006,5.1102776527405,"194.385 (2018)[2] per dag
+",194385
+564,2020-07-08 20:04:59,Lelystad Centrum - Schiphol Airport,Lelystad Centrum,313.0,LLS,8400394.0,Lelystad C,Lelystad C.,Lelystad Centrum,lelystad-centrum,NL,knooppuntIntercitystation,52.507778167725,5.4727778434753,"14.531 (2018)[1] per dag
+",14531
+565,2020-07-08 20:04:59,Lelystad Centrum - Schiphol Airport,Almere Oostvaarders,20.0,ALMO,8400226.0,Oostvaard,Oostvaarders,Almere Oostvaarders,almere-oostvaarders,NL,stoptreinstation,52.403331756591996,5.3005557060242,"4.502 (2018)[1] per dag
+",4502
+566,2020-07-08 20:04:59,Lelystad Centrum - Schiphol Airport,Almere Buiten,18.0,ALMB,8400081.0,Buiten,Buiten,Almere Buiten,almere-buiten,NL,stoptreinstation,52.394165039062,5.2780556678772,"7.532 (2018)[1] per dag
+",7532
+567,2020-07-08 20:04:59,Lelystad Centrum - Schiphol Airport,Almere Parkwijk,21.0,ALMP,8400104.0,Parkwijk,Parkwijk,Almere Parkwijk,almere-parkwijk,NL,stoptreinstation,52.376667022705,5.244722366333,"3.624 (2018)[1] per dag
+",3624
+568,2020-07-08 20:04:59,Lelystad Centrum - Schiphol Airport,Almere Centrum,17.0,ALM,8400080.0,Almere C,Almere C.,Almere Centrum,almere-centrum,NL,knooppuntIntercitystation,52.375029999999995,5.21764,"27.124 (2018)[1] per dag
+",27124
+569,2020-07-08 20:04:59,Lelystad Centrum - Schiphol Airport,Almere Muziekwijk,19.0,ALMM,8400082.0,Muziekwijk,Muziekwijk,Almere Muziekwijk,almere-muziekwijk,NL,stoptreinstation,52.367500305176,5.1902775764464995,"6.420 (2018)[1] per dag
+",6420
+570,2020-07-08 20:04:59,Lelystad Centrum - Schiphol Airport,Almere Poort,680.0,AMPO,8400450.0,Poort,Poort,Almere Poort,almere-poort,NL,stoptreinstation,52.342778,5.151944,"5.243 (2018)[1] per dag
+",5243
+571,2020-07-08 20:04:59,Lelystad Centrum - Schiphol Airport,Weesp,513.0,WP,8400685.0,Weesp,Weesp,Weesp,weesp,NL,knooppuntStoptreinstation,52.3127784729,5.043055534362799,"9930 (2018)[2] per dag
+",9930
+572,2020-07-08 20:04:59,Lelystad Centrum - Schiphol Airport,Diemen Zuid,136.0,DMNZ,8400163.0,Diemen Z,Diemen Z.,Diemen Zuid,diemen-zuid,NL,stoptreinstation,52.330276489258004,4.9558334350586,"3357 (2018)[1]
+",3357
+573,2020-07-08 20:04:59,Lelystad Centrum - Schiphol Airport,Duivendrecht,155.0,DVD,8400194.0,Duivendrt,Duivendrecht,Duivendrecht,duivendrecht,NL,knooppuntStoptreinstation,52.323333740234006,4.9363889694214,"13.126 (2018)[1]
+",13126
+574,2020-07-08 20:04:59,Lelystad Centrum - Schiphol Airport,Amsterdam RAI,393.0,RAI,8400056.0,RAI,RAI,Amsterdam RAI,amsterdam-rai,NL,stoptreinstation,52.337223052979,4.8902778625488,"5993 (2018)[1]
+",5993
+575,2020-07-08 20:04:59,Lelystad Centrum - Schiphol Airport,Amsterdam Zuid,46.0,ASDZ,8400061.0,Amsterdm Z,Amsterdam Z.,Amsterdam Zuid,amsterdam-zuid,NL,intercitystation,52.338889,4.872356,"60.819 (2018)[1]
+",60819
+576,2020-07-08 20:04:59,Lelystad Centrum - Schiphol Airport,Schiphol Airport,428.0,SHL,8400561.0,Schiphol,Schiphol Airport,Schiphol Airport,schiphol-airport,NL,megastation,52.30944442749001,4.7619442939758,"92.214 (2018)[2] per dag (NS)
+",92214
+577,2020-07-08 20:04:59,Lelystad Centrum - Zwolle,Lelystad Centrum,313.0,LLS,8400394.0,Lelystad C,Lelystad C.,Lelystad Centrum,lelystad-centrum,NL,knooppuntIntercitystation,52.507778167725,5.4727778434753,"14.531 (2018)[1] per dag
+",14531
+578,2020-07-08 20:04:59,Lelystad Centrum - Zwolle,Dronten,682.0,DRON,8400198.0,Dronten,Dronten,Dronten,dronten,NL,stoptreinstation,52.5344,5.72089,"3478 (2018)[1] per dag
+",3478
+579,2020-07-08 20:04:59,Lelystad Centrum - Zwolle,Kampen Zuid,688.0,KPNZ,8400360.0,Kampen Z,Kampen Z.,Kampen Zuid,kampen-zuid,NL,stoptreinstation,52.5331,5.91309,"1899 (2018)[1] per dag
+",1899
+580,2020-07-08 20:04:59,Lelystad Centrum - Zwolle,Zwolle,532.0,ZL,8400747.0,Zwolle,Zwolle,Zwolle,zwolle,NL,knooppuntIntercitystation,52.50472259521499,6.0919442176819,"41.100 (2018)[1] per dag (NS)
+",41100
+581,2020-07-08 20:04:59,Liège-Guillemins - Maastricht,Eijsden,164.0,EDN,8400219.0,Eijsden,Eijsden,Eijsden,eijsden,NL,stoptreinstation,50.771945953369,5.710000038147,"160 (2018)[1] per dag
+",160
+582,2020-07-08 20:04:59,Liège-Guillemins - Maastricht,Maastricht Randwyck,344.0,MTR,8400426.0,Randwyck,Randwyck,Maastricht Randwyck,maastricht-randwyck,NL,knooppuntStoptreinstation,50.838611602783004,5.717222213745099,"142 (2018)[1] per dag (NS)
+",142
+583,2020-07-08 20:04:59,Liège-Guillemins - Maastricht,Maastricht,342.0,MT,8400424.0,Maastricht,Maastricht,Maastricht,maastricht,NL,knooppuntIntercitystation,50.850276947021,5.7055554389954,"11.854 (2018)[1] per dag (NS)
+",11854
+584,2020-07-08 20:04:59,Maastricht - Maastricht Randwyck,Maastricht,342.0,MT,8400424.0,Maastricht,Maastricht,Maastricht,maastricht,NL,knooppuntIntercitystation,50.850276947021,5.7055554389954,"11.854 (2018)[1] per dag (NS)
+",11854
+585,2020-07-08 20:04:59,Maastricht - Maastricht Randwyck,Maastricht Randwyck,344.0,MTR,8400426.0,Randwyck,Randwyck,Maastricht Randwyck,maastricht-randwyck,NL,knooppuntStoptreinstation,50.838611602783004,5.717222213745099,"142 (2018)[1] per dag (NS)
+",142
+586,2020-07-08 20:04:59,Maastricht - Sittard,Maastricht,342.0,MT,8400424.0,Maastricht,Maastricht,Maastricht,maastricht,NL,knooppuntIntercitystation,50.850276947021,5.7055554389954,"11.854 (2018)[1] per dag (NS)
+",11854
+587,2020-07-08 20:04:59,Maastricht - Sittard,Bunde,62.0,BDE,8400140.0,Bunde,Bunde,Bunde,bunde,NL,stoptreinstation,50.896945953369,5.7366666793823,,
+588,2020-07-08 20:04:59,Maastricht - Sittard,Beek-Elsloo,78.0,BK,8400096.0,Beek-E,Beek-Elsloo,Beek-Elsloo,beek-elsloo,NL,stoptreinstation,50.947498321533004,5.786666870117201,"1969 (2016)[1] per dag
+",1969
+589,2020-07-08 20:04:59,Maastricht - Sittard,Geleen-Lutterade,320.0,LUT,8400248.0,Geleen-Lut,Geleen-Lut.,Geleen-Lutterade,geleen-lutterade,NL,stoptreinstation,50.975555419921996,5.8247222900391,"1312 (2016)[1] per dag
+",1312
+590,2020-07-08 20:04:59,Maastricht - Sittard,Sittard,440.0,STD,8400564.0,Sittard,Sittard,Sittard,sittard,NL,knooppuntIntercitystation,51.001667022705,5.8586111068725994,"10.286 (2018)[1] per dag (NS)
+",10286
+591,2020-07-08 20:04:59,Nijmegen - Venlo,Nijmegen,355.0,NM,8400470.0,Nijmegen,Nijmegen,Nijmegen,nijmegen,NL,knooppuntIntercitystation,51.843612670898,5.852222442626901,"45.403 (2018)[1] per dag (NS)
+",45403
+592,2020-07-08 20:04:59,Nijmegen - Venlo,Nijmegen Heyendaal,357.0,NMH,8400468.0,Heyendaal,Nm Heyendaal,Nijmegen Heyendaal,nijmegen-heyendaal,NL,stoptreinstation,51.826946258545,5.867499828338599,"3246 (2009)[1] per dag
+",3246
+593,2020-07-08 20:04:59,Nijmegen - Venlo,Mook Molenhoek,335.0,MMLH,8400446.0,Mook Molen,Molenhoek,Mook Molenhoek,mook-molenhoek,NL,stoptreinstation,51.766262,5.879133,"1.250 (2011)[1] per dag
+",1250
+594,2020-07-08 20:04:59,Nijmegen - Venlo,Cuijk,115.0,CK,8400155.0,Cuijk,Cuijk,Cuijk,cuijk,NL,stoptreinstation,51.726682587904996,5.8742952346802,"2948 (2006)[1] per dag
+",2948
+595,2020-07-08 20:04:59,Nijmegen - Venlo,Boxmeer,85.0,BMR,8400128.0,Boxmeer,Boxmeer,Boxmeer,boxmeer,NL,knooppuntStoptreinstation,51.644521767652996,5.939033031463599,"3738 (2006)[1] per dag
+",3738
+596,2020-07-08 20:04:59,Nijmegen - Venlo,Vierlingsbeek,488.0,VLB,8400647.0,Vierlingsb,Vierlingsbeek,Vierlingsbeek,vierlingsbeek,NL,stoptreinstation,51.59193,5.99714,"367 (2006)[1] per dag
+",367
+597,2020-07-08 20:04:59,Nijmegen - Venlo,Venray,492.0,VRY,8400646.0,Venray,Venray,Venray,venray,NL,knooppuntStoptreinstation,51.526568099006994,6.0141777992248,,
+598,2020-07-08 20:04:59,Nijmegen - Venlo,Blerick,97.0,BR,8400117.0,Blerick,Blerick,Blerick,blerick,NL,stoptreinstation,51.372501373290994,6.1550002098083,"1445 (2018)[1] per dag (NS)
+",1445
+599,2020-07-08 20:04:59,Nijmegen - Venlo,Venlo,487.0,VL,8400644.0,Venlo,Venlo,Venlo,venlo,NL,knooppuntIntercitystation,51.36360931396499,6.1727776527405,"4966 (2018)[1] per dag (NS)
+",4966
+600,2020-07-08 20:04:59,Paris-Nord - Rotterdam Centraal,Rotterdam Centraal,411.0,RTD,8400530.0,Rotterdm C,Rotterdam C.,Rotterdam Centraal,rotterdam-centraal,NL,megastation,51.92499923705999,4.468888759613,"96.690 (2018, trein)[1]48.600 (2018, metro)[2]
+",96690
+601,2020-07-08 20:04:59,Rhenen - Utrecht Centraal,Rhenen,399.0,RHN,8400517.0,Rhenen,Rhenen,Rhenen,rhenen,NL,knooppuntStoptreinstation,51.958610534668,5.5783333778381,"1407 (2018)[1] per dag
+",1407
+602,2020-07-08 20:04:59,Rhenen - Utrecht Centraal,Veenendaal Centrum,489.0,VNDC,8400627.0,Veenendl C,Veenendaal C.,Veenendaal Centrum,veenendaal-centrum,NL,knooppuntStoptreinstation,52.020000457764,5.548611164093,"2236 (2018)[1] per dag
+",2236
+603,2020-07-08 20:04:59,Rhenen - Utrecht Centraal,Veenendaal West,490.0,VNDW,8400628.0,Veenendl W,Veenendaal W.,Veenendaal West,veenendaal-west,NL,stoptreinstation,52.028057098389,5.531388759613,"1530 (2018)[1] per dag
+",1530
+604,2020-07-08 20:04:59,Rhenen - Utrecht Centraal,Maarn,339.0,MRN,8400417.0,Maarn,Maarn,Maarn,maarn,NL,knooppuntStoptreinstation,52.064167022705,5.3699998855591,"1659 (2018)[1] per dag
+",1659
+605,2020-07-08 20:04:59,Rhenen - Utrecht Centraal,Driebergen-Zeist,122.0,DB,8400182.0,Driebergen,Driebergen-Zeist,Driebergen-Zeist,driebergen-zeist,NL,knooppuntStoptreinstation,52.065277099609006,5.25861120224,"8787 (2018)[1] per dag
+",8787
+606,2020-07-08 20:04:59,Rhenen - Utrecht Centraal,Bunnik,88.0,BNK,8400141.0,Bunnik,Bunnik,Bunnik,bunnik,NL,stoptreinstation,52.063056945801,5.1944446563721,"2.428 (2018)[1] per dag
+",2428
+607,2020-07-08 20:04:59,Rhenen - Utrecht Centraal,Utrecht Vaartsche Rijn,797.0,UTVR,8400606.0,VaartscheR,Vaartsche Rijn,Utrecht Vaartsche Rijn,utrecht-vaartsche-rijn,NL,knooppuntStoptreinstation,52.078889000000004,5.1216669999999995,"7752 (2018)[3] per dag
+",7752
+608,2020-07-08 20:04:59,Rhenen - Utrecht Centraal,Utrecht Centraal,467.0,UT,8400621.0,Utrecht C,Utrecht C.,Utrecht Centraal,utrecht-centraal,NL,megastation,52.088890075684006,5.1102776527405,"194.385 (2018)[2] per dag
+",194385
+609,2020-07-08 20:04:59,Roermond - Sittard,Roermond,402.0,RM,8400523.0,Roermond,Roermond,Roermond,roermond,NL,knooppuntIntercitystation,51.193054199219,5.9941668510437,"11.378 (2018)[1] per dag (NS)
+",11378
+610,2020-07-08 20:04:59,Roermond - Sittard,Echt,161.0,EC,8400195.0,Echt,Echt,Echt,echt,NL,stoptreinstation,51.100555419921996,5.8788890838623,"2.098 (2016)[1] per dag
+",2098
+611,2020-07-08 20:04:59,Roermond - Sittard,Susteren,437.0,SRN,8400582.0,Susteren,Susteren,Susteren,susteren,NL,stoptreinstation,51.061389923096,5.8630557060242,"840 (2016)[1] per dag
+",840
+612,2020-07-08 20:04:59,Roermond - Sittard,Sittard,440.0,STD,8400564.0,Sittard,Sittard,Sittard,sittard,NL,knooppuntIntercitystation,51.001667022705,5.8586111068725994,"10.286 (2018)[1] per dag (NS)
+",10286
+613,2020-07-08 20:04:59,Roermond - Venlo,Roermond,402.0,RM,8400523.0,Roermond,Roermond,Roermond,roermond,NL,knooppuntIntercitystation,51.193054199219,5.9941668510437,"11.378 (2018)[1] per dag (NS)
+",11378
+614,2020-07-08 20:04:59,Roermond - Venlo,Swalmen,431.0,SM,8400583.0,Swalmen,Swalmen,Swalmen,swalmen,NL,stoptreinstation,51.235820000000004,6.03228,,
+615,2020-07-08 20:04:59,Roermond - Venlo,Reuver,415.0,RV,8400518.0,Reuver,Reuver,Reuver,reuver,NL,stoptreinstation,51.283219166529996,6.0789585113525,,
+616,2020-07-08 20:04:59,Roermond - Venlo,Tegelen,457.0,TG,8400591.0,Tegelen,Tegelen,Tegelen,tegelen,NL,stoptreinstation,51.33894,6.142530000000001,,
+617,2020-07-08 20:04:59,Roermond - Venlo,Venlo,487.0,VL,8400644.0,Venlo,Venlo,Venlo,venlo,NL,knooppuntIntercitystation,51.36360931396499,6.1727776527405,"4966 (2018)[1] per dag (NS)
+",4966
+618,2020-07-08 20:04:59,Roosendaal - Vlissingen,Roosendaal,405.0,RSD,8400526.0,Roosendaal,Roosendaal,Roosendaal,roosendaal,NL,knooppuntIntercitystation,51.540279388428004,4.4583334922791,"10.317 (2018)[1] per dag
+",10317
+619,2020-07-08 20:04:59,Roosendaal - Vlissingen,Bergen op Zoom,75.0,BGN,8400108.0,Bergen opZ,Bergen op Zoom,Bergen op Zoom,bergen-op-zoom,NL,stoptreinstation,51.49388885498,4.2961111068726,"6979 (2018)[1] per dag
+",6979
+620,2020-07-08 20:04:59,Roosendaal - Vlissingen,Rilland-Bath,395.0,RB,8400521.0,Rilland-Ba,Rilland-Bath,Rilland-Bath,rilland-bath,NL,stoptreinstation,51.422779083252,4.1611108779907,"465 (2018)[1] per dag
+",465
+621,2020-07-08 20:04:59,Roosendaal - Vlissingen,Krabbendijke,281.0,KBD,8400367.0,Krabbendke,Krabbendijke,Krabbendijke,krabbendijke,NL,stoptreinstation,51.433334350586,4.1169443130492995,"672 (2018)[1] per dag
+",672
+622,2020-07-08 20:04:59,Roosendaal - Vlissingen,Kruiningen-Yerseke,297.0,KRG,8400370.0,Kruiningen,Kruiningen-Y.,Kruiningen-Yerseke,kruiningen-yerseke,NL,stoptreinstation,51.465000152588,4.0372223854065,"872 (2018)[1] per dag
+",872
+623,2020-07-08 20:04:59,Roosendaal - Vlissingen,Kapelle-Biezelinge,112.0,BZL,8400354.0,Kapelle-Bi,Kapelle-Biezel.,Kapelle-Biezelinge,kapelle-biezelinge,NL,stoptreinstation,51.480834960938,3.9561111927032995,"1277 (2018)[1] per dag
+",1277
+624,2020-07-08 20:04:59,Roosendaal - Vlissingen,Goes,211.0,GS,8400253.0,Goes,Goes,Goes,goes,NL,stoptreinstation,51.498054504395,3.8905556201935,"7148 (2018)[1] per dag
+",7148
+625,2020-07-08 20:04:59,Roosendaal - Vlissingen,Arnemuiden,37.0,ARN,8400069.0,Arnemuiden,Arnemuiden,Arnemuiden,arnemuiden,NL,stoptreinstation,51.501667022705,3.6691665649413996,"517 (2018)[1] per dag
+",517
+626,2020-07-08 20:04:59,Roosendaal - Vlissingen,Middelburg,329.0,MDB,8400436.0,Middelburg,Middelburg,Middelburg,middelburg,NL,stoptreinstation,51.494720458984006,3.6172223091126,"4666 (2018)[1] per dag
+",4666
+627,2020-07-08 20:04:59,Roosendaal - Vlissingen,Vlissingen Souburg,494.0,VSS,8400653.0,Souburg,Souburg,Vlissingen Souburg,vlissingen-souburg,NL,stoptreinstation,51.464721679688,3.5952777862549,"947 (2018)[1] per dag
+",947
+628,2020-07-08 20:04:59,Roosendaal - Vlissingen,Vlissingen,493.0,VS,8400652.0,Vlissingen,Vlissingen,Vlissingen,vlissingen,NL,knooppuntIntercitystation,51.445835113525,3.5952777862549,"2728 (2018)[1] per dag
+",2728
+629,2020-07-08 20:04:59,Rotterdam Centraal - Schiphol Airport,Rotterdam Centraal,411.0,RTD,8400530.0,Rotterdm C,Rotterdam C.,Rotterdam Centraal,rotterdam-centraal,NL,megastation,51.92499923705999,4.468888759613,"96.690 (2018, trein)[1]48.600 (2018, metro)[2]
+",96690
+630,2020-07-08 20:04:59,Rotterdam Centraal - Schiphol Airport,Schiphol Airport,428.0,SHL,8400561.0,Schiphol,Schiphol Airport,Schiphol Airport,schiphol-airport,NL,megastation,52.30944442749001,4.7619442939758,"92.214 (2018)[2] per dag (NS)
+",92214
+631,2020-07-08 20:04:59,Rotterdam Centraal - Utrecht Centraal,Rotterdam Centraal,411.0,RTD,8400530.0,Rotterdm C,Rotterdam C.,Rotterdam Centraal,rotterdam-centraal,NL,megastation,51.92499923705999,4.468888759613,"96.690 (2018, trein)[1]48.600 (2018, metro)[2]
+",96690
+632,2020-07-08 20:04:59,Rotterdam Centraal - Utrecht Centraal,Rotterdam Noord,412.0,RTN,8400531.0,Rotterdm N,Rotterdam N.,Rotterdam Noord,rotterdam-noord,NL,stoptreinstation,51.94222259521499,4.4816665649414,"2431 (2018)[1] per dag
+",2431
+633,2020-07-08 20:04:59,Rotterdam Centraal - Utrecht Centraal,Rotterdam Alexander,409.0,RTA,8400507.0,Alexander,Alexander,Rotterdam Alexander,rotterdam-alexander,NL,intercitystation,51.951946258545,4.5536112785339,"37.000 (2018, trein, metro, bus)[1]18.310 (2018, alleen trein)[2] per dag
+",37000
+634,2020-07-08 20:04:59,Rotterdam Centraal - Utrecht Centraal,Capelle Schollevaar,119.0,CPS,8400147.0,Schollevr,Schollevaar,Capelle Schollevaar,capelle-schollevaar,NL,stoptreinstation,51.954166412354,4.5841665267944,"2305 (2018)[1] per dag
+",2305
+635,2020-07-08 20:04:59,Rotterdam Centraal - Utrecht Centraal,Nieuwerkerk a/d IJssel,365.0,NWK,8400455.0,Nieuwerkrk,Nieuwerkerk,Nieuwerkerk a/d IJssel,nieuwerkerk-a-d-ijssel,NL,stoptreinstation,51.965278625488004,4.6169443130492995,"3422 (2018)[1] per dag
+",3422
+636,2020-07-08 20:04:59,Rotterdam Centraal - Utrecht Centraal,Gouda,195.0,GD,8400258.0,Gouda,Gouda,Gouda,gouda,NL,knooppuntIntercitystation,52.017501831055,4.7044444084167,"23.696 (2018)[1] per dag
+",23696
+637,2020-07-08 20:04:59,Rotterdam Centraal - Utrecht Centraal,Gouda Goverwelle,196.0,GDG,8400257.0,Goverwelle,Goverwelle,Gouda Goverwelle,gouda-goverwelle,NL,stoptreinstation,52.014999389648,4.7408332824707005,"3.064 (2018)[1] per dag
+",3064
+638,2020-07-08 20:04:59,Rotterdam Centraal - Utrecht Centraal,Woerden,503.0,WD,8400702.0,Woerden,Woerden,Woerden,woerden,NL,knooppuntStoptreinstation,52.084999084473,4.8936109542847,"13.358 (2018)[1] per dag
+",13358
+639,2020-07-08 20:04:59,Rotterdam Centraal - Utrecht Centraal,Vleuten,497.0,VTN,8400651.0,Vleuten,Vleuten,Vleuten,vleuten,NL,stoptreinstation,52.103056,5.007404,"4288 (2018)[1] per dag
+",4288
+640,2020-07-08 20:04:59,Rotterdam Centraal - Utrecht Centraal,Utrecht Terwijde,472.0,UTT,8400614.0,Terwijde,Terwijde,Utrecht Terwijde,utrecht-terwijde,NL,stoptreinstation,52.1000753,5.0439547,"3907 (2018)[1] per dag
+",3907
+641,2020-07-08 20:04:59,Rotterdam Centraal - Utrecht Centraal,Utrecht Leidsche Rijn,718.0,UTLR,8400607.0,LeidscheRn,Leidsche Rijn,Utrecht Leidsche Rijn,utrecht-leidsche-rijn,NL,stoptreinstation,52.09896,5.065230000000001,"2766 (2018)[1] per dag
+",2766
+642,2020-07-08 20:04:59,Rotterdam Centraal - Utrecht Centraal,Utrecht Centraal,467.0,UT,8400621.0,Utrecht C,Utrecht C.,Utrecht Centraal,utrecht-centraal,NL,megastation,52.088890075684006,5.1102776527405,"194.385 (2018)[2] per dag
+",194385
+643,2020-07-08 20:04:59,Schiphol Airport - Utrecht Centraal,Schiphol Airport,428.0,SHL,8400561.0,Schiphol,Schiphol Airport,Schiphol Airport,schiphol-airport,NL,megastation,52.30944442749001,4.7619442939758,"92.214 (2018)[2] per dag (NS)
+",92214
+644,2020-07-08 20:04:59,Schiphol Airport - Utrecht Centraal,Amsterdam Zuid,46.0,ASDZ,8400061.0,Amsterdm Z,Amsterdam Z.,Amsterdam Zuid,amsterdam-zuid,NL,intercitystation,52.338889,4.872356,"60.819 (2018)[1]
+",60819
+645,2020-07-08 20:04:59,Schiphol Airport - Utrecht Centraal,Amsterdam RAI,393.0,RAI,8400056.0,RAI,RAI,Amsterdam RAI,amsterdam-rai,NL,stoptreinstation,52.337223052979,4.8902778625488,"5993 (2018)[1]
+",5993
+646,2020-07-08 20:04:59,Schiphol Airport - Utrecht Centraal,Amsterdam Bijlmer ArenA,41.0,ASB,8400074.0,Bijlmer A,Bijlmer ArenA,Amsterdam Bijlmer ArenA,amsterdam-bijlmer-arena,NL,knooppuntStoptreinstation,52.3122215271,4.9469442367554,"28.111 (2018)[1]
+",28111
+647,2020-07-08 20:04:59,Schiphol Airport - Utrecht Centraal,Amsterdam Holendrecht,47.0,ASHD,8400231.0,Holendrcht,Holendrecht,Amsterdam Holendrecht,amsterdam-holendrecht,NL,stoptreinstation,52.29844,4.95972,"4.175 (2018)[1]
+",4175
+648,2020-07-08 20:04:59,Schiphol Airport - Utrecht Centraal,Abcoude,5.0,AC,8400047.0,Abcoude,Abcoude,Abcoude,abcoude,NL,stoptreinstation,52.2785,4.977,"2.035 (2018)[1] per dag
+",2035
+649,2020-07-08 20:04:59,Schiphol Airport - Utrecht Centraal,Breukelen,81.0,BKL,8400133.0,Breukelen,Breukelen,Breukelen,breukelen,NL,knooppuntStoptreinstation,52.171490000000006,4.9906,"5666 (2018)[1] per dag
+",5666
+650,2020-07-08 20:04:59,Schiphol Airport - Utrecht Centraal,Maarssen,327.0,MAS,8400419.0,Maarssen,Maarssen,Maarssen,maarssen,NL,stoptreinstation,52.135276794434006,5.033611297607401,"4508 (2018)[1] per dag
+",4508
+651,2020-07-08 20:04:59,Schiphol Airport - Utrecht Centraal,Utrecht Zuilen,473.0,UTZL,8400613.0,Zuilen,Zuilen,Utrecht Zuilen,utrecht-zuilen,NL,stoptreinstation,52.103055,5.09,"2094 (2018)[2] per dag
+",2094
+652,2020-07-08 20:04:59,Schiphol Airport - Utrecht Centraal,Utrecht Centraal,467.0,UT,8400621.0,Utrecht C,Utrecht C.,Utrecht Centraal,utrecht-centraal,NL,megastation,52.088890075684006,5.1102776527405,"194.385 (2018)[2] per dag
+",194385
+653,2020-07-08 20:04:59,Schiphol Airport - Zaandam,Schiphol Airport,428.0,SHL,8400561.0,Schiphol,Schiphol Airport,Schiphol Airport,schiphol-airport,NL,megastation,52.30944442749001,4.7619442939758,"92.214 (2018)[2] per dag (NS)
+",92214
+654,2020-07-08 20:04:59,Schiphol Airport - Zaandam,Amsterdam Lelylaan,44.0,ASDL,8400079.0,Lelylaan,Lelylaan,Amsterdam Lelylaan,amsterdam-lelylaan,NL,stoptreinstation,52.357776641846,4.8338890075684,"15.836 (2018)[1]
+",15836
+655,2020-07-08 20:04:59,Schiphol Airport - Zaandam,Amsterdam Sloterdijk,50.0,ASS,8400059.0,Sloterdijk,Sloterdijk,Amsterdam Sloterdijk,amsterdam-sloterdijk,NL,knooppuntIntercitystation,52.388889312744,4.8377776145935,"58.800 (2018)[1]
+",58800
+656,2020-07-08 20:04:59,Schiphol Airport - Zaandam,Zaandam,529.0,ZD,8400731.0,Zaandam,Zaandam,Zaandam,zaandam,NL,knooppuntIntercitystation,52.438888549805,4.8136110305786,"22.765 (2018)[1] per dag
+",22765
+657,2020-07-08 20:04:59,Tiel - Utrecht Centraal,Tiel,458.0,TL,8400596.0,Tiel,Tiel,Tiel,tiel,NL,knooppuntStoptreinstation,51.889446258545,5.4222221374512,"3298 (2018)[1] per dag (NS)
+",3298
+658,2020-07-08 20:04:59,Tiel - Utrecht Centraal,Tiel Passewaaij,459.0,TPSW,8400600.0,Passewaaij,Passewaaij,Tiel Passewaaij,tiel-passewaaij,NL,stoptreinstation,51.873889923096,5.392222404480001,"1494 (2018)[1] per dag
+",1494
+659,2020-07-08 20:04:59,Tiel - Utrecht Centraal,Geldermalsen,198.0,GDM,8400244.0,Geldermlsn,Geldermalsen,Geldermalsen,geldermalsen,NL,knooppuntStoptreinstation,51.88301,5.2712699999999995,"6495 (2018)[1] per dag (NS)
+",6495
+660,2020-07-08 20:04:59,Tiel - Utrecht Centraal,Culemborg,116.0,CL,8400154.0,Culemborg,Culemborg,Culemborg,culemborg,NL,stoptreinstation,51.946666717529,5.2269444465637,"8925 (2018)[1] per dag
+",8925
+661,2020-07-08 20:04:59,Tiel - Utrecht Centraal,Houten Castellum,268.0,HTNC,8400335.0,Castellum,Castellum,Houten Castellum,houten-castellum,NL,stoptreinstation,52.01701,5.17949,"4986 (2018)[1] per dag
+",4986
+662,2020-07-08 20:04:59,Tiel - Utrecht Centraal,Houten,267.0,HTN,8400340.0,Houten,Houten,Houten,houten,NL,knooppuntStoptreinstation,52.03402,5.16821,"7864 (2018)[1] per dag
+",7864
+663,2020-07-08 20:04:59,Tiel - Utrecht Centraal,Utrecht Lunetten,796.0,UTLN,8400623.0,Lunetten,Lunetten,Utrecht Lunetten,utrecht-lunetten,NL,stoptreinstation,52.06555557250999,5.144166469574,"3739 (2018)[2] per dag
+",3739
+664,2020-07-08 20:04:59,Tiel - Utrecht Centraal,Utrecht Vaartsche Rijn,797.0,UTVR,8400606.0,VaartscheR,Vaartsche Rijn,Utrecht Vaartsche Rijn,utrecht-vaartsche-rijn,NL,knooppuntStoptreinstation,52.078889000000004,5.1216669999999995,"7752 (2018)[3] per dag
+",7752
+665,2020-07-08 20:04:59,Tiel - Utrecht Centraal,Utrecht Centraal,467.0,UT,8400621.0,Utrecht C,Utrecht C.,Utrecht Centraal,utrecht-centraal,NL,megastation,52.088890075684006,5.1102776527405,"194.385 (2018)[2] per dag
+",194385
+666,2020-07-08 20:04:59,Utrecht Centraal - Utrecht Maliebaan,Utrecht Centraal,467.0,UT,8400621.0,Utrecht C,Utrecht C.,Utrecht Centraal,utrecht-centraal,NL,megastation,52.088890075684006,5.1102776527405,"194.385 (2018)[2] per dag
+",194385
+667,2020-07-08 20:04:59,Utrecht Centraal - Utrecht Maliebaan,Utrecht Maliebaan,470.0,UTM,8400624.0,Maliebaan,Maliebaan,Utrecht Maliebaan,utrecht-maliebaan,NL,stoptreinstation,52.087776184082,5.131388664245599,,
+668,2020-07-08 20:04:59,Winterswijk - Zutphen,Winterswijk,522.0,WW,8400698.0,Winterswk,Winterswijk,Winterswijk,winterswijk,NL,knooppuntStoptreinstation,51.967730700000004,6.7155181,"3.844 (2015) per dag
+",3844
+669,2020-07-08 20:04:59,Winterswijk - Zutphen,Winterswijk West,523.0,WWW,8400700.0,Wintersw W,Winterswijk W.,Winterswijk West,winterswijk-west,NL,stoptreinstation,51.97453,6.7041699999999995,,
+670,2020-07-08 20:04:59,Winterswijk - Zutphen,Lichtenvoorde-Groenlo,316.0,LTV,8400395.0,Lichtenv-G,Lichtenvoorde-G.,Lichtenvoorde-Groenlo,lichtenvoorde-groenlo,NL,stoptreinstation,52.01188,6.5964100000000006,,
+671,2020-07-08 20:04:59,Winterswijk - Zutphen,Ruurlo,400.0,RL,8400537.0,Ruurlo,Ruurlo,Ruurlo,ruurlo,NL,stoptreinstation,52.081088799999996,6.4492655999999995,,
+672,2020-07-08 20:04:59,Winterswijk - Zutphen,Vorden,476.0,VD,8400661.0,Vorden,Vorden,Vorden,vorden,NL,stoptreinstation,52.107194899999996,6.3170457,,
+673,2020-07-08 20:04:59,Winterswijk - Zutphen,Zutphen,534.0,ZP,8400744.0,Zutphen,Zutphen,Zutphen,zutphen,NL,knooppuntIntercitystation,52.145278930664,6.1941666603088,"11.988 (2018)[1] per dag (NS)
+",11988
