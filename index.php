@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 	<head>
 		<meta charset="utf-8">
 		<link rel="icon" href="https://beagle-consulting.nl/wp-content/uploads/2020/06/favicon_klein-150x150.png">
